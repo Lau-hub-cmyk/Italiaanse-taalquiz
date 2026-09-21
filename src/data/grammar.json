@@ -1098,5 +1098,883 @@
         "body": "De meeste woorden op -ore zijn daarentegen mannelijk: l'amore (de liefde), il colore (de kleur), il dolore (de pijn), il valore (de waarde)."
       }
     ]
+  },
+  {
+    "id": "bnw-basis",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Basisregels",
+    "summary": "Twee groepen: op -o (vier vormen) en op -e (twee vormen). Het bnw past zich aan in geslacht en getal.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijvoeglijke naamwoorden veranderen in geslacht en getal. Attributief staan ze bij het zelfstandig naamwoord (Il vino italiano); predicatief staan ze na een koppelwerkwoord als essere of sembrare (Piero è magro; Elena sembra molto stanca). In beide gevallen passen ze zich aan."
+      },
+      {
+        "kind": "text",
+        "body": "Er zijn twee groepen: bijvoeglijke naamwoorden op -o (vier vormen) en op -e (twee vormen)."
+      },
+      {
+        "kind": "table",
+        "caption": "Aanpassing",
+        "head": [
+          "groep",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk (op -o)",
+            "-o",
+            "-i"
+          ],
+          [
+            "vrouwelijk (op -a)",
+            "-a",
+            "-e"
+          ],
+          [
+            "mannelijk / vrouwelijk (op -e)",
+            "-e",
+            "-i"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il vento freddo",
+            "nl": "de koude wind"
+          },
+          {
+            "it": "la luna è piena",
+            "nl": "de maan is vol"
+          },
+          {
+            "it": "gli studenti olandesi",
+            "nl": "de Nederlandse studenten"
+          },
+          {
+            "it": "le attrici sono americane",
+            "nl": "de actrices zijn Amerikaans"
+          },
+          {
+            "it": "i treni internazionali",
+            "nl": "de internationale treinen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-ista",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bijvoeglijke naamwoorden op -ista",
+    "summary": "Eén vorm in het enkelvoud; meervoud -isti (m) en -iste (v).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijvoeglijke naamwoorden op -ista hebben één vorm voor het enkelvoud, maar zijn in het meervoud regelmatig: mannelijk -isti, vrouwelijk -iste."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "l'uomo femminista",
+            "nl": "de feministische man"
+          },
+          {
+            "it": "i contadini socialisti",
+            "nl": "de socialistische boeren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-onveranderlijk",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Onveranderlijke bijvoeglijke naamwoorden",
+    "summary": "Enkele bnw veranderen nooit van vorm: blu, rosa, marrone, pari, perbene.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Sommige bijvoeglijke naamwoorden veranderen niet van vorm."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "la camicia blu",
+            "nl": "het blauwe overhemd"
+          },
+          {
+            "it": "fiori rosa",
+            "nl": "roze bloemen"
+          },
+          {
+            "it": "i guanti marrone",
+            "nl": "de bruine handschoenen"
+          },
+          {
+            "it": "un numero pari",
+            "nl": "een even aantal"
+          },
+          {
+            "it": "due signori perbene",
+            "nl": "twee keurige heren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-io-co-go",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bijvoeglijke naamwoorden op -io, -co en -go",
+    "summary": "Zoals bij de zelfstandige naamwoorden: -io met onbeklemtoonde i → één i; -co/-go soms hard (-chi/-ghi), soms zacht (-ci/-gi).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij -io met onbeklemtoonde i heeft het mannelijk meervoud één i: ampio → ampi, medio → medi, proprio → propri, vecchio → vecchi. Maar met beklemtoonde i: pio → pii."
+      },
+      {
+        "kind": "text",
+        "body": "Bij -co en -go zijn de regels ingewikkeld met veel uitzonderingen; leer ze per woord."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "hard: -chi / -ghi",
+          "zacht: -ci / -gi"
+        ],
+        "rows": [
+          [
+            "bianco → bianchi",
+            "amico → amici"
+          ],
+          [
+            "largo → larghi",
+            "greco → greci"
+          ],
+          [
+            "lungo → lunghi",
+            "nemico → nemici"
+          ],
+          [
+            "ricco → ricchi",
+            "pubblico → pubblici"
+          ],
+          [
+            "stanco → stanchi",
+            "simpatico → simpatici"
+          ],
+          [
+            "poco → pochi",
+            "pratico → pratici"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-bello-buono",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bello, buono, grande en santo",
+    "summary": "Vóór het naamwoord verkorten deze vier zich (un bel libro, buon giorno, un gran successo, San Francesco).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Staat bello vóór het naamwoord, dan lijkt het einddeel op het bepaald lidwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "bello vóór het naamwoord",
+        "head": [
+          "lidwoord",
+          "bello-vorm",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "il",
+            "bel",
+            "un bel libro"
+          ],
+          [
+            "lo",
+            "bello",
+            "un bello scherzo"
+          ],
+          [
+            "l' (m)",
+            "bell'",
+            "un bell'uomo"
+          ],
+          [
+            "la",
+            "bella",
+            "una bella donna"
+          ],
+          [
+            "i",
+            "bei",
+            "i bei libri"
+          ],
+          [
+            "gli",
+            "begli",
+            "i begli uomini"
+          ],
+          [
+            "le",
+            "belle",
+            "le belle donne"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Staat bello áchter het naamwoord, dan krijgt het de gewone uitgangen (-o, -i, -a, -e): un quadro bello, una giornata bella."
+      },
+      {
+        "kind": "text",
+        "body": "Buono vóór het naamwoord lijkt op het onbepaald lidwoord: buon giorno, un buon esempio, una buon'idea, un buono scherzo."
+      },
+      {
+        "kind": "text",
+        "body": "Grande wordt gran vóór een medeklinker (behalve s impura en z) en grand' vóór een klinker: un gran successo, una gran fame, un grand'artista."
+      },
+      {
+        "kind": "text",
+        "body": "Santo wordt san vóór mannelijke heiligennamen met een medeklinker (behalve s impura) en sant' vóór een klinker: San Francesco, Santo Stefano, Sant'Andrea, Sant'Anna."
+      }
+    ]
+  },
+  {
+    "id": "bnw-plaats",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Plaats van het bijvoeglijk naamwoord",
+    "summary": "Onderscheidend/beperkend → achter het naamwoord; louter beschrijvend → ervoor. De plaats kan de betekenis veranderen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Heeft het bijvoeglijk naamwoord een beperkende, onderscheidende functie, dan staat het achter het naamwoord: la chiesa cattolica, una bandiera rossa, la sedia vecchia."
+      },
+      {
+        "kind": "text",
+        "body": "Is de functie puur beschrijvend en niet beperkend, dan staat het ervoor: una brutta avventura, la dolce vita, un buon caffè."
+      },
+      {
+        "kind": "table",
+        "caption": "Betekenisverschil door de plaats",
+        "head": [
+          "vóór het naamwoord",
+          "achter het naamwoord"
+        ],
+        "rows": [
+          [
+            "un brav'uomo (eerlijk man)",
+            "un uomo bravo (capabel man)"
+          ],
+          [
+            "un vecchio amico (al lang bevriend)",
+            "un amico vecchio (hoogbejaard)"
+          ],
+          [
+            "una nuova automobile (een andere)",
+            "un'automobile nuova (fonkelnieuw)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Nationaliteiten, bijvoeglijk gebruikte voltooid deelwoorden en bnw met een bijwoord of bepaling staan altijd achter het naamwoord: il popolo inglese, la settimana passata, un anno molto emozionante. Korte bnw komen vaak ervoor, lange erachter: una conferenza interessantissima."
+      }
+    ]
+  },
+  {
+    "id": "bnw-meerdere-nw",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bij meerdere zelfstandige naamwoorden",
+    "summary": "Bij verschillend geslacht meestal de mannelijke meervoudsvorm.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Predicatief bij naamwoorden van verschillend geslacht krijgt het bnw de mannelijke meervoudsuitgang: Carlo e Maria sono malati."
+      },
+      {
+        "kind": "text",
+        "body": "Attributief bij naamwoorden van hetzelfde geslacht, beide enkelvoud: geslacht aanpassen, getal mag enkel- of meervoud zijn (Lingua e letteratura italiana; una gonna e una camicetta gialle). Staat er minstens één in het meervoud, dan meervoud (guanti e un vestito nuovi). Bij verschillend geslacht meestal mannelijk: ragazzi e ragazze buffi; pantaloni e scarpe nuovi."
+      }
+    ]
+  },
+  {
+    "id": "bnw-meerdere-bnw",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Meerdere bijvoeglijke naamwoorden bij één naamwoord",
+    "summary": "Allemaal onderscheidend → erachter; verschillende functies → beschrijvend ervoor, onderscheidend erachter.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Duiden alle bnw een onderscheidende eigenschap aan, dan zet je ze erachter: la crisi economica italiana."
+      },
+      {
+        "kind": "text",
+        "body": "Hebben ze verschillende functies (één beschrijvend, één onderscheidend), dan komt de eerste ervoor en de tweede erachter: una grave crisi economica, una buona scuola elementare, un brutto incidente stradale."
+      }
+    ]
+  },
+  {
+    "id": "bnw-vergelijkingen",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Trappen van vergelijking",
+    "summary": "Comparatief met più / meno; superlatief met lidwoord + più / meno; absolute superlatief met -issimo.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De vergrotende trap (comparatief) maak je met più of meno vóór het bnw; de overtreffende trap (superlatief) met een lidwoord + più of meno. Voorbeelden: Sei il più forte. Sono meno stupidi. I vini più venduti."
+      },
+      {
+        "kind": "table",
+        "caption": "De trappen",
+        "head": [
+          "trap",
+          "vorm",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "gelijk",
+            "(così) ... come / (tanto) ... quanto",
+            "veloce come il treno"
+          ],
+          [
+            "meer",
+            "più ...",
+            "più bello"
+          ],
+          [
+            "minder",
+            "meno ...",
+            "meno bello"
+          ],
+          [
+            "superlatief absoluut",
+            "...issimo (of molto ...)",
+            "bellissimo"
+          ],
+          [
+            "superlatief relatief",
+            "il più / il meno ...",
+            "il più bello"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il treno è più veloce dell'aereo.",
+            "nl": "De trein is sneller dan het vliegtuig."
+          },
+          {
+            "it": "La bicicletta è meno veloce del treno.",
+            "nl": "De fiets is minder snel dan de trein."
+          },
+          {
+            "it": "La macchina è (così) veloce come il treno.",
+            "nl": "De auto is even snel als de trein."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De absolute superlatief (zonder vergelijking) maak je met -issimo, met vier uitgangen: bellissimo, felicissimo. Ook met molto, estremamente of voorvoegsels als arci-, iper-, super-, stra-, ultra-: arcicontento, ipersensibile, straricco. Of door herhaling / del tutto: Sono solo solo. Non siamo del tutto convinti."
+      },
+      {
+        "kind": "text",
+        "body": "De relatieve superlatief vergelijkt met een groep: Lei è la più magra delle sorelle. Mario è il meno simpatico di tutti. Let op: staat de superlatief direct achter het naamwoord, dan wordt het lidwoord niet herhaald: la ragazza più intelligente."
+      }
+    ]
+  },
+  {
+    "id": "bnw-onregelmatig-vergelijking",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Onregelmatige trappen van vergelijking",
+    "summary": "buono → migliore → ottimo, cattivo → peggiore → pessimo, grande → maggiore → massimo ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Enkele bijvoeglijke naamwoorden hebben onregelmatige vormen naast de regelmatige (più buono, buonissimo)."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "positief",
+          "comparatief",
+          "superlatief relatief",
+          "superlatief absoluut"
+        ],
+        "rows": [
+          [
+            "buono (goed)",
+            "migliore",
+            "il migliore",
+            "ottimo"
+          ],
+          [
+            "cattivo (slecht)",
+            "peggiore",
+            "il peggiore",
+            "pessimo"
+          ],
+          [
+            "grande (groot)",
+            "maggiore",
+            "il maggiore",
+            "massimo"
+          ],
+          [
+            "piccolo (klein)",
+            "minore",
+            "il minore",
+            "minimo"
+          ],
+          [
+            "alto (hoog)",
+            "superiore",
+            "il superiore",
+            "supremo / sommo"
+          ],
+          [
+            "basso (laag)",
+            "inferiore",
+            "l'inferiore",
+            "infimo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-di-che",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "di en che in vergelijkingen",
+    "summary": "Meestal di (= dan); che bij twee gelijksoortige woorden, vóór een voorzetsel, of om verwarring te vermijden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Tussen de twee termen van vergelijking staat meestal di (= 'dan'): Carlo è più simpatico di Luigi."
+      },
+      {
+        "kind": "text",
+        "body": "Che gebruik je: (1) als je over één persoon/ding twee gelijksoortige woorden vergelijkt — Il lavoro è più utile che piacevole; Ci sono più uomini che donne; Meglio tardi che mai. (2) als het 'dan' vóór een voorzetsel staat — Da noi fa più caldo che al lago. (3) om herhaling van di te vermijden. (4) als di tot misverstanden zou leiden — Tu sei più geloso che Piero (want geloso di betekent 'jaloers op')."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-samentrekking",
+    "category": "5. Het voorzetsel",
+    "title": "Samentrekking met het lidwoord",
+    "summary": "a, da, di, su, in (en vaak con) smelten samen met het bepaald lidwoord: al, dal, del, sul, nel ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste voorzetsels zijn a, da, di, su, in, con en per. Op per na trekken ze samen met het bepaald lidwoord als dat er staat."
+      },
+      {
+        "kind": "table",
+        "caption": "Voorzetsel + lidwoord",
+        "head": [
+          "+",
+          "il",
+          "lo",
+          "l'",
+          "i",
+          "gli",
+          "la",
+          "le"
+        ],
+        "rows": [
+          [
+            "a",
+            "al",
+            "allo",
+            "all'",
+            "ai",
+            "agli",
+            "alla",
+            "alle"
+          ],
+          [
+            "da",
+            "dal",
+            "dallo",
+            "dall'",
+            "dai",
+            "dagli",
+            "dalla",
+            "dalle"
+          ],
+          [
+            "di",
+            "del",
+            "dello",
+            "dell'",
+            "dei",
+            "degli",
+            "della",
+            "delle"
+          ],
+          [
+            "su",
+            "sul",
+            "sullo",
+            "sull'",
+            "sui",
+            "sugli",
+            "sulla",
+            "sulle"
+          ],
+          [
+            "in",
+            "nel",
+            "nello",
+            "nell'",
+            "nei",
+            "negli",
+            "nella",
+            "nelle"
+          ],
+          [
+            "con",
+            "col",
+            "collo",
+            "coll'",
+            "coi",
+            "cogli",
+            "colla",
+            "colle"
+          ]
+        ]
+      },
+      {
+        "kind": "tip",
+        "body": "Bij con kom je steeds vaker de niet-samengetrokken vorm tegen: Ci andiamo con il treno. per trekt nooit samen."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-a",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel a",
+    "summary": "Richting of bestemming: naar, in, aan, om. Vóór een stad a, vóór een land in.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "a geeft vaak een richting of bestemming aan (naar, in, aan, om). Vóór een klinker kan het een d erbij krijgen (ad)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Vai al cinema?",
+            "nl": "Ga je naar de bioscoop?"
+          },
+          {
+            "it": "Marco abita a Firenze.",
+            "nl": "Marco woont in Florence."
+          },
+          {
+            "it": "A mezzogiorno.",
+            "nl": "Om twaalf uur 's middags."
+          },
+          {
+            "it": "Siamo ad Amsterdam.",
+            "nl": "Wij zijn in Amsterdam."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij een plaatsnaam (stad) gebruik je a, bij een landsnaam in: Vanno a Londra? Abitiamo a Roma. — Vive in Italia? Andiamo in Giappone."
+      },
+      {
+        "kind": "text",
+        "body": "Veel werkwoorden en bijvoeglijke naamwoorden hebben a als vast voorzetsel: andare a fare una passeggiata, continuare a fare qualcosa, contrario alla legge, disposto ad aiutare."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-da",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel da",
+    "summary": "Uitgangspunt in ruimte en tijd (van, vanaf, sinds), de agens in lijdende zinnen, en 'bij/naar' een persoon.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "da geeft vooral het uitgangspunt aan, in ruimte en tijd. Het wordt niet afgekapt vóór een klinker."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Da Pisa a Milano.",
+            "nl": "Van Pisa naar Milaan."
+          },
+          {
+            "it": "Il treno viene da Genova.",
+            "nl": "De trein komt uit Genua."
+          },
+          {
+            "it": "Da un anno è malato.",
+            "nl": "Sinds een jaar is hij ziek."
+          },
+          {
+            "it": "La porta è stata aperta da lui.",
+            "nl": "De deur is door hem geopend (agens)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "da drukt ook 'naar/bij' een persoon uit (vergelijk het Franse chez): Verrò subito da te. Deve andare dal dentista. Siete da Claudia?"
+      },
+      {
+        "kind": "text",
+        "body": "Verder 'geschikt om' of 'karakteristiek voor': un bicchiere da vino (wijnglas), occhiali da sole (zonnebril), una stanza da letto (slaapkamer), un'automobile da corsa (raceauto), carte da gioco (speelkaarten)."
+      },
+      {
+        "kind": "text",
+        "body": "Ook: tremare dal freddo (rillen van de kou), 'als' (te lo dico da amico; da bambino = als kind), en zn + infinitief: una macchina da scrivere (typemachine), una casa da vendere, niente da leggere."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-di",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel di",
+    "summary": "Verbindt twee naamwoorden (= van); veel vaste combinaties met werkwoorden en bijvoeglijke naamwoorden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "di verbindt vaak twee zelfstandige naamwoorden (= van) en kan vóór een klinker afgekapt worden tot d'."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "La partenza dell'aereo.",
+            "nl": "Het vertrek van het vliegtuig."
+          },
+          {
+            "it": "Un milione di euro.",
+            "nl": "Een miljoen euro."
+          },
+          {
+            "it": "Il professore d'italiano.",
+            "nl": "De leraar Italiaans."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Veel werkwoorden en bijvoeglijke naamwoorden hebben di als vast voorzetsel: Lui è innamorato di lei. Hanno bisogno di tempo. Hanno paura del cane. Sono felice di conoscerlo. Siete contenti della situazione? È capace di tutto."
+      },
+      {
+        "kind": "text",
+        "body": "Ook in uitdrukkingen: alzarsi di buon'ora (vroeg opstaan), essere malato di cuore (een hartkwaal hebben)."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-su",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel su",
+    "summary": "Meestal 'op', maar vaak anders te vertalen (in de krant, om en nabij, aan een rivier).",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il giornale è sul tavolo.",
+            "nl": "De krant ligt op tafel."
+          },
+          {
+            "it": "L'ho letto sul giornale.",
+            "nl": "Ik heb het in de krant gelezen."
+          },
+          {
+            "it": "Sarà sui quaranta.",
+            "nl": "Hij zal om en nabij de veertig zijn."
+          },
+          {
+            "it": "Ti credo sulla parola.",
+            "nl": "Ik geloof je op je woord."
+          },
+          {
+            "it": "Siamo saliti sul treno.",
+            "nl": "We zijn in de trein gestapt."
+          },
+          {
+            "it": "Roma è sul Tevere.",
+            "nl": "Rome ligt aan de Tiber."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-in",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel in",
+    "summary": "Basisbetekenis 'in' of 'naar'. Bij een jaartal wordt het nel.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "In estate andiamo al mare.",
+            "nl": "In de zomer gaan we naar zee."
+          },
+          {
+            "it": "È entrato nel negozio.",
+            "nl": "Hij is de winkel ingegaan."
+          },
+          {
+            "it": "In maggio vado via.",
+            "nl": "In mei ga ik weg."
+          },
+          {
+            "it": "Mario è in giardino.",
+            "nl": "Mario is in de tuin."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Uitdrukkingen: arrivare in tempo (op tijd komen), viaggiare in macchina (per auto reizen), in quanti siete? (met zijn hoevelen zijn jullie?)."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een jaartal staat altijd het lidwoord, wat nel oplevert (mannelijk, want 'anno' wordt bijgedacht): Nel 1968. Verdi morì nel 1901."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-con",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel con",
+    "summary": "Vaak 'met'.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Cerco una casa con giardino.",
+            "nl": "Ik zoek een huis met een tuin."
+          },
+          {
+            "it": "Scarpe con il tacco alto.",
+            "nl": "Schoenen met hoge hak."
+          },
+          {
+            "it": "Con grande sforzo.",
+            "nl": "Met grote inspanning."
+          },
+          {
+            "it": "È sempre gentile con me.",
+            "nl": "Hij is altijd aardig tegen me."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ook in uitdrukkingen: con mia grande sorpresa (tot mijn grote verbazing), col passare del tempo (in de loop der tijd), ci alziamo con il sole (bij zonsopgang)."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-per",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel per",
+    "summary": "Vaak 'voor'; geeft ook motivering, oorzaak of doel aan, en bij rekenen 'maal / gedeeld door'.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "per is vaak 'voor' en geeft dikwijls een motivering, oorzaak of doel aan."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "C'è un telegramma per te.",
+            "nl": "Er is een telegram voor je."
+          },
+          {
+            "it": "Per motivi di salute.",
+            "nl": "Om gezondheidsredenen."
+          },
+          {
+            "it": "Ha lavorato per tutta la notte.",
+            "nl": "Hij heeft de hele nacht gewerkt."
+          },
+          {
+            "it": "È stato malato per un anno.",
+            "nl": "Hij is een jaar ziek geweest."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij rekenen betekent per 'maal' of 'gedeeld door': Due per due fanno quattro. Dividere per tre. Verdere uitdrukkingen: È troppo bello per essere vero. Per il momento. L'autobus stava per partire (stond op het punt te vertrekken). Bij een bestemming hoort partire per: Partiamo per Venezia."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-andere",
+    "category": "5. Het voorzetsel",
+    "title": "Andere voorzetsels",
+    "summary": "Samengestelde voorzetsels als a causa di, davanti a, fino a, invece di, prima di, vicino a.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast de belangrijkste voorzetsels zijn er nog vele, waaronder veel samengestelde, die qua betekenis eenvoudiger zijn."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "A causa dello sciopero.",
+            "nl": "Ten gevolge van de staking."
+          },
+          {
+            "it": "Davanti alla finestra.",
+            "nl": "Vóór het raam."
+          },
+          {
+            "it": "Ve lo presto fino a dopodomani.",
+            "nl": "Ik leen het jullie tot overmorgen."
+          },
+          {
+            "it": "Li vedo fra due giorni.",
+            "nl": "Ik zie ze over twee dagen."
+          },
+          {
+            "it": "Beve tè invece di caffè.",
+            "nl": "Hij drinkt thee in plaats van koffie."
+          },
+          {
+            "it": "Gli telefoniamo prima di venerdì.",
+            "nl": "We bellen hem vóór vrijdag."
+          },
+          {
+            "it": "Il bar è vicino alla stazione.",
+            "nl": "De bar is vlak bij het station."
+          }
+        ]
+      }
+    ]
   }
 ]
