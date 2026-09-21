@@ -1976,5 +1976,667 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bijwoord-vorming",
+    "category": "6. Het bijwoord",
+    "title": "Vorming van het bijwoord",
+    "summary": "Voeg -mente toe aan de vrouwelijke vorm van het bijvoeglijk naamwoord (vera → veramente).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijwoorden zijn onveranderlijke woorden die bij een werkwoord, een bijvoeglijk naamwoord of een ander bijwoord horen. Veel bijwoorden worden gevormd door -mente toe te voegen aan de vrouwelijke vorm van het bijvoeglijk naamwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "Van bijvoeglijk naamwoord naar bijwoord",
+        "head": [
+          "uitgang bnw",
+          "→ bijwoord"
+        ],
+        "rows": [
+          [
+            "-o / -a",
+            "-amente (vero → veramente)"
+          ],
+          [
+            "-e",
+            "-emente (semplice → semplicemente)"
+          ],
+          [
+            "-le",
+            "-lmente (naturale → naturalmente)"
+          ],
+          [
+            "-re",
+            "-rmente (regolare → regolarmente)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Sono veramente pazzi.",
+            "nl": "Ze zijn echt gek."
+          },
+          {
+            "it": "Gli ho parlato brevemente.",
+            "nl": "Ik heb hem kort gesproken."
+          },
+          {
+            "it": "Mi telefona regolarmente.",
+            "nl": "Hij belt me regelmatig."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-vergelijking",
+    "category": "6. Het bijwoord",
+    "title": "Trappen van vergelijking van het bijwoord",
+    "summary": "Net als bij bijvoeglijke naamwoorden; onregelmatig: bene → meglio, male → peggio.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijwoorden hebben trappen van vergelijking, gevormd zoals bij bijvoeglijke naamwoorden: caldamente → più caldamente → caldissimamente. Om lange -mente-vormen te vermijden gebruik je vaak in modo + bijvoeglijk naamwoord: Ha risposto in modo strano."
+      },
+      {
+        "kind": "table",
+        "caption": "Onregelmatige trappen",
+        "head": [
+          "positief",
+          "comparatief",
+          "superlatief"
+        ],
+        "rows": [
+          [
+            "bene (goed)",
+            "meglio",
+            "benissimo / ottimamente"
+          ],
+          [
+            "male (slecht)",
+            "peggio",
+            "malissimo / pessimamente"
+          ],
+          [
+            "molto (veel)",
+            "più",
+            "moltissimo"
+          ],
+          [
+            "poco (weinig)",
+            "meno",
+            "pochissimo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-ontkenning",
+    "category": "6. Het bijwoord",
+    "title": "Bevestiging en ontkenning",
+    "summary": "sì en no; non staat vóór het ontkende woord; dubbele ontkenningen als non ... mai en non ... niente.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste bijwoorden van bevestiging en ontkenning zijn sì en no: Hai visto Mario? Sì / No. Penso di sì. Perché no? Om te ontkennen gebruik je non, direct vóór het ontkende woord (vaak het werkwoord): Non andiamo in vacanza. Non capisce lo spagnolo. Non qui."
+      },
+      {
+        "kind": "table",
+        "caption": "Dubbele ontkenningen (rond het werkwoord)",
+        "head": [
+          "vorm",
+          "betekenis"
+        ],
+        "rows": [
+          [
+            "non ... affatto",
+            "helemaal niet"
+          ],
+          [
+            "non ... ancora",
+            "nog niet"
+          ],
+          [
+            "non ... mica",
+            "heus niet"
+          ],
+          [
+            "né ... né",
+            "noch ... noch"
+          ],
+          [
+            "non ... neanche",
+            "niet eens"
+          ],
+          [
+            "non ... nessuno",
+            "niemand"
+          ],
+          [
+            "non ... niente / nulla",
+            "niets"
+          ],
+          [
+            "non ... mai",
+            "nooit"
+          ],
+          [
+            "non ... più",
+            "niet meer"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Carlo non parla ancora.",
+            "nl": "Carlo praat nog niet."
+          },
+          {
+            "it": "Non ho né voglia né tempo.",
+            "nl": "Ik heb geen zin en geen tijd."
+          },
+          {
+            "it": "Non abbiamo più soldi.",
+            "nl": "We hebben geen geld meer."
+          },
+          {
+            "it": "Non vedono niente.",
+            "nl": "Ze zien niets."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ontbreekt het werkwoord of staat het tweede deel voorop, dan vervalt non: Nessuno ha visto qualcosa. Che cosa hai fatto? Niente. No, mai. Zonder non kan mai ook 'ooit' betekenen: Avete mai bevuto campari? Onbeklemtoonde voornaamwoorden en ci/ne staan tussen non en het werkwoord: Non lo vedo. Non ci andiamo. Non ne parla."
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-overige",
+    "category": "6. Het bijwoord",
+    "title": "Bijwoorden niet van een bnw afgeleid",
+    "summary": "Een grote groep losse bijwoorden: adesso, allora, già, oggi, domani, sempre, presto, tardi ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast de afgeleide bijwoorden zijn er veel losse bijwoorden en woordcombinaties: adesso (nu), allora (toen), a lungo (lang), bene (goed), così (zo), davvero (werkelijk), dentro (binnen), di solito (gewoonlijk), domani (morgen), dopo (straks), d'ora in poi (voortaan), dopodomani (overmorgen), forse (misschien), fuori (buiten), già (al), ieri / l'altro ieri ((eer)gisteren), lì / là (daar), male (slecht), molto (veel), oggi (vandaag), ora (nu), poco (weinig), poi (dan), presto (snel), prima (eerst), sempre (altijd), solo (slechts), tanto (zo veel), tardi ((te) laat), troppo ((te) veel), qui / qua (hier)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Adesso piove.",
+            "nl": "Nu regent het."
+          },
+          {
+            "it": "Si conoscono bene.",
+            "nl": "Ze kennen elkaar goed."
+          },
+          {
+            "it": "Il treno è già arrivato.",
+            "nl": "De trein is al aangekomen."
+          },
+          {
+            "it": "Se non ti sbrighi, fai tardi.",
+            "nl": "Als je niet opschiet, ben je te laat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-vaste-combinaties",
+    "category": "6. Het bijwoord",
+    "title": "Vaste combinaties",
+    "summary": "In vaste combinaties heeft het bijwoord de mannelijke bnw-vorm en verandert niet (andare veloce, parlare piano).",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Abitare vicino.",
+            "nl": "Vlakbij wonen."
+          },
+          {
+            "it": "Andare lontano.",
+            "nl": "Ver weg gaan."
+          },
+          {
+            "it": "Andare veloce.",
+            "nl": "Hard gaan."
+          },
+          {
+            "it": "Gridare forte.",
+            "nl": "Hard schreeuwen."
+          },
+          {
+            "it": "Parlare piano.",
+            "nl": "Zachtjes spreken."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-ne-ci",
+    "category": "6. Het bijwoord",
+    "title": "De partikels ne en ci",
+    "summary": "ne vervangt een groep met di/da of een hoeveelheid; ci vervangt een groep met a/in/su. Samen worden ze ce ne.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "ne vervangt een voorzetselgroep met di of da (Hai parlato di questo? No, non ne ho parlato), een delend lidwoord (Ha del basilico? No, non ne ho più; Prendine!) of een hoeveelheid / getal (Lui aveva quindici anni, ed io ne avevo sette). In voltooide tijden past het voltooid deelwoord zich dan aan: Avete visto molte bestie? Sì, ne abbiamo viste moltissime."
+      },
+      {
+        "kind": "text",
+        "body": "ci vervangt een voorzetselgroep met a, in of su, en wordt c' vóór e of i: Vai a Roma? Sì, ci vado domani. C'è Gianni? Posso contarci? Sì, contaci! Samen met ne wordt ci → ce: Ci sono ancora delle fragole? No, non ce ne sono più. In de spreektaal betekent averci gewoon 'hebben': Non ce l'abbiamo."
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-positie",
+    "category": "6. Het bijwoord",
+    "title": "Positie van het bijwoord",
+    "summary": "Vóór een bnw/bijwoord dat het bepaalt; meestal direct achter het werkwoord; già/più/mai/sempre tussen hulpww en deelwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bepaalt het bijwoord een bijvoeglijk naamwoord of ander bijwoord, dan staat het ervoor: È molto semplice. Dorme estremamente bene. Bepaalt het een werkwoord, dan meestal direct erachter: Arrivo subito. Sono partiti improvvisamente."
+      },
+      {
+        "kind": "text",
+        "body": "Een klein groepje staat tussen het hulpwerkwoord en het voltooid deelwoord: già (al), più (meer), mai (nooit/ooit), sempre (altijd): L'abbiamo già fatto. Non l'hanno mai capito. Ti ho sempre detto la verità. De woorden anche (ook), neanche (ook niet), solo / solamente / soltanto (slechts) staan vóór het woord waar ze bij horen: Non è solo intelligente, ma anche spiritoso. Hanno solo un cane."
+      }
+    ]
+  },
+  {
+    "id": "telwoord-vormen",
+    "category": "7. Het telwoord",
+    "title": "Hoofd- en rangtelwoorden",
+    "summary": "Hoofdtelwoorden (om te tellen, onveranderlijk) en rangtelwoorden (volgorde, als bijvoeglijk naamwoord).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Hoofdtelwoorden dienen om te tellen en zijn onveranderlijk; rangtelwoorden geven een volgorde aan en gedragen zich als bijvoeglijk naamwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "0 t/m 20",
+        "head": [
+          "getal",
+          "hoofdtelwoord",
+          "rangtelwoord"
+        ],
+        "rows": [
+          [
+            "0",
+            "zero",
+            "-"
+          ],
+          [
+            "1",
+            "uno",
+            "primo"
+          ],
+          [
+            "2",
+            "due",
+            "secondo"
+          ],
+          [
+            "3",
+            "tre",
+            "terzo"
+          ],
+          [
+            "4",
+            "quattro",
+            "quarto"
+          ],
+          [
+            "5",
+            "cinque",
+            "quinto"
+          ],
+          [
+            "6",
+            "sei",
+            "sesto"
+          ],
+          [
+            "7",
+            "sette",
+            "settimo"
+          ],
+          [
+            "8",
+            "otto",
+            "ottavo"
+          ],
+          [
+            "9",
+            "nove",
+            "nono"
+          ],
+          [
+            "10",
+            "dieci",
+            "decimo"
+          ],
+          [
+            "11",
+            "undici",
+            "undicesimo"
+          ],
+          [
+            "12",
+            "dodici",
+            "dodicesimo"
+          ],
+          [
+            "13",
+            "tredici",
+            "tredicesimo"
+          ],
+          [
+            "14",
+            "quattordici",
+            "quattordicesimo"
+          ],
+          [
+            "15",
+            "quindici",
+            "quindicesimo"
+          ],
+          [
+            "16",
+            "sedici",
+            "sedicesimo"
+          ],
+          [
+            "17",
+            "diciassette",
+            "diciassettesimo"
+          ],
+          [
+            "18",
+            "diciotto",
+            "diciottesimo"
+          ],
+          [
+            "19",
+            "diciannove",
+            "diciannovesimo"
+          ],
+          [
+            "20",
+            "venti",
+            "ventesimo"
+          ]
+        ]
+      },
+      {
+        "kind": "table",
+        "caption": "Tientallen, honderden, duizenden",
+        "head": [
+          "getal",
+          "hoofdtelwoord"
+        ],
+        "rows": [
+          [
+            "21",
+            "ventuno"
+          ],
+          [
+            "22",
+            "ventidue"
+          ],
+          [
+            "23",
+            "ventitré"
+          ],
+          [
+            "30",
+            "trenta"
+          ],
+          [
+            "40",
+            "quaranta"
+          ],
+          [
+            "50",
+            "cinquanta"
+          ],
+          [
+            "60",
+            "sessanta"
+          ],
+          [
+            "70",
+            "settanta"
+          ],
+          [
+            "80",
+            "ottanta"
+          ],
+          [
+            "90",
+            "novanta"
+          ],
+          [
+            "100",
+            "cento"
+          ],
+          [
+            "200",
+            "duecento"
+          ],
+          [
+            "1000",
+            "mille"
+          ],
+          [
+            "2000",
+            "duemila"
+          ],
+          [
+            "100.000",
+            "centomila"
+          ],
+          [
+            "1.000.000",
+            "un milione"
+          ],
+          [
+            "1.000.000.000",
+            "un miliardo"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Hoofdtelwoorden zijn onveranderlijk. Alleen uno gedraagt zich als het onbepaald lidwoord (una voor een vrouwelijk woord). De eindklinker van ventuno, trentuno enz. valt weg vóór een volgend woord (ventun, trentun). Het meervoud van mille is mila. Milione en miliardo zijn zelfstandige naamwoorden en krijgen di vóór een volgend naamwoord: un milione di euro."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ho un figlio e una figlia.",
+            "nl": "Ik heb een zoon en een dochter."
+          },
+          {
+            "it": "Luglio ha trentun giorni.",
+            "nl": "Juli heeft eenendertig dagen."
+          },
+          {
+            "it": "Millenovecentocinquantaquattro.",
+            "nl": "1954"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-rang-breuken",
+    "category": "7. Het telwoord",
+    "title": "Rangtelwoorden en breuken",
+    "summary": "Vanaf 11: eindklinker → -esimo. Rangtelwoorden dienen ook als noemer in breuken (un terzo, tre quarti).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vanaf undici vorm je het rangtelwoord door de eindklinker te vervangen door -esimo. Bij ventitré, trentatré enz. is de eind-e beklemtoond en valt hij niet weg. Bij namen van vorsten en pausen staat het rangtelwoord — anders dan in het Nederlands — zonder lidwoord, áchter de naam."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il primo giorno.",
+            "nl": "De eerste dag."
+          },
+          {
+            "it": "Il dodicesimo mese.",
+            "nl": "De twaalfde maand."
+          },
+          {
+            "it": "Enrico quarto.",
+            "nl": "Hendrik de vierde."
+          },
+          {
+            "it": "Pio dodicesimo.",
+            "nl": "Pius de twaalfde."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Rangtelwoorden dienen ook als noemer in breuken; is de teller groter dan één, dan krijgt de noemer een meervoudsuitgang: 1/3 = un terzo, 3/4 = tre quarti, 2/5 = due quinti, 1/100 = un centesimo. Bij noemer 2 gebruik je mezzo/mezzi. Un centesimo is ook 'een cent'."
+      }
+    ]
+  },
+  {
+    "id": "telwoord-quantificatoren",
+    "category": "7. Het telwoord",
+    "title": "Andere quantificatoren",
+    "summary": "-ina = 'tal' (una quarantina); centinaio/centinaia, migliaio/migliaia; il doppio, il triplo.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Met het achtervoegsel -ina achter een hoofdtelwoord tot honderd krijg je iets als het Nederlandse '-tal'. Bij honderd is dat centinaio (mv. centinaia) en bij duizend migliaio (mv. migliaia). Dozzina betekent dozijn. Il doppio (het dubbele), il triplo (het drievoudige) en il quadruplo (het viervoudige) geven een veelvoud aan."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Una quarantina di persone.",
+            "nl": "Een veertigtal mensen."
+          },
+          {
+            "it": "Un centinaio di alberi.",
+            "nl": "Een honderdtal bomen."
+          },
+          {
+            "it": "Migliaia di formiche.",
+            "nl": "Duizenden mieren."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-datum",
+    "category": "7. Het telwoord",
+    "title": "De datum",
+    "summary": "Vóór een jaartal het lidwoord; de eerste van de maand met een rangtelwoord, de andere dagen met een hoofdtelwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vóór een jaartal staat het bepaald lidwoord, maar boven een brief gebruik je geen lidwoord. De eerste van de maand duid je aan met een rangtelwoord (il primo), de andere dagen met een hoofdtelwoord. Eeuwen na het jaar 1000 geef je vaak aan met het hoofdtelwoord met een hoofdletter: il Trecento (de 14e eeuw), il Novecento (de 20e eeuw)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Nel 1932.",
+            "nl": "In 1932."
+          },
+          {
+            "it": "Firenze, 12 novembre 1991.",
+            "nl": "Florence, 12 november 1991 (boven een brief)."
+          },
+          {
+            "it": "Il primo agosto.",
+            "nl": "1 augustus."
+          },
+          {
+            "it": "Il diciannove gennaio.",
+            "nl": "19 januari."
+          },
+          {
+            "it": "Quanti ne abbiamo oggi?",
+            "nl": "De hoeveelste is het vandaag?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-tijd",
+    "category": "7. Het telwoord",
+    "title": "De tijd (klok)",
+    "summary": "Het uur krijgt le (want ore); alleen una → l'. mezzogiorno / mezzanotte voor 12 uur. Na het halve uur rekent men terug vanaf het hele uur.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Omdat je stilzwijgend naar het vrouwelijke ore verwijst, staat vóór het uur het lidwoord le; alleen bij una is dat l'. Twaalf uur 's middags en 's nachts zijn mezzogiorno en mezzanotte. Na het halve uur rekent het Italiaans terug vanaf het hele volgende uur."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Che ore sono? / Che ora è?",
+            "nl": "Hoe laat is het?"
+          },
+          {
+            "it": "Sono le due e cinque.",
+            "nl": "Het is vijf over twee."
+          },
+          {
+            "it": "Sono le tre e un quarto.",
+            "nl": "Het is kwart over drie."
+          },
+          {
+            "it": "È l'una.",
+            "nl": "Het is één uur."
+          },
+          {
+            "it": "Le cinque e mezzo.",
+            "nl": "Half zes."
+          },
+          {
+            "it": "Le sei meno un quarto.",
+            "nl": "Kwart voor zes."
+          },
+          {
+            "it": "Alle due e venticinque.",
+            "nl": "Om vijf voor half drie."
+          },
+          {
+            "it": "Alle cinque precise.",
+            "nl": "Om precies vijf uur."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Voor het onderscheid ochtend/avond voeg je di mattina, del pomeriggio, di sera of di notte toe (of de afkortingen a.m. / p.m.). Op stations, vliegvelden en radio gebruikt men de officiële 24-uursindeling: le sedici e quarantacinque (16.45)."
+      }
+    ]
   }
 ]
