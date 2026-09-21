@@ -7,6 +7,11 @@ Speelse trainer voor Italiaanse woordenschat. Gebouwd rond een woordenlijst van
 
 ## Wat het doet
 
+Het startscherm geeft drie ingangen: **Oefenen** (de quiz), **Woordenlijst**
+(alle woorden per les met vertaling en uitspraak) en **Grammatica** (uitleg
+over lidwoorden, naamwoorden, werkwoordsvervoegingen, voorzetsels en de
+onregelmatige werkwoorden).
+
 - **Drie antwoordvormen**: kiezen uit vier opties, zelf typen, of een zin uit
   losse woorden in de juiste volgorde leggen. Elk apart of door elkaar, en in
   beide richtingen.
@@ -49,6 +54,8 @@ src/
   data/words.json      de woordenlijst (les, nl, it, woordsoort)
   data/sentences.json  de zinnen, zelfde vorm met woordsoort "sentence"
   data/lessons.json    lestitels
+  data/grammar.json    de grammaticahoofdstukken (uitleg, tabellen, voorbeelden)
+  lib/grammar.ts       de grammatica inladen en per categorie groeperen
   lib/text.ts          antwoorden vergelijken, Levenshtein, varianten, zinnen
                        opsplitsen in blokjes
   lib/quiz.ts          vragen bouwen, afleiders kiezen, XP berekenen

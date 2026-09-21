@@ -2,17 +2,20 @@ import { AnimatePresence } from "framer-motion";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Background } from "./components/Background";
 import { TopBar } from "./components/TopBar";
+import { Home } from "./components/Home";
 import { SetupScreen } from "./components/SetupScreen";
 import { QuizScreen } from "./components/QuizScreen";
 import { ResultScreen } from "./components/ResultScreen";
 import { StatsScreen } from "./components/StatsScreen";
+import { LibraryScreen } from "./components/LibraryScreen";
+import { GrammarScreen } from "./components/GrammarScreen";
 import { useProgress } from "./hooks";
 import { getProgress, recordSession, update } from "./lib/storage";
 import { buildQuestions, requeue, shuffle } from "./lib/quiz";
 import { WORDS } from "./lib/words";
 import type { Attempt, Options, Question } from "./lib/types";
 
-type Screen = "setup" | "quiz" | "result" | "stats";
+type Screen = "home" | "setup" | "quiz" | "result" | "stats" | "library" | "grammar";
 
 const DEFAULTS: Options = {
   lessons: [1],
@@ -26,7 +29,7 @@ const DEFAULTS: Options = {
 
 export default function App() {
   const progress = useProgress();
-  const [screen, setScreen] = useState<Screen>("setup");
+  const [screen, setScreen] = useState<Screen>("home");
   const [options, setOptionsState] = useState<Options>(() => ({
     ...DEFAULTS,
     ...getProgress().options,
@@ -107,11 +110,20 @@ export default function App() {
           <TopBar
             progress={progress}
             onOpenStats={() => setScreen("stats")}
-            onHome={() => setScreen("setup")}
+            onHome={() => setScreen("home")}
           />
         )}
 
         <AnimatePresence mode="wait">
+          {screen === "home" && (
+            <Home
+              key="home"
+              onPractice={() => setScreen("setup")}
+              onLibrary={() => setScreen("library")}
+              onGrammar={() => setScreen("grammar")}
+            />
+          )}
+
           {screen === "setup" && (
             <SetupScreen
               key="setup"
@@ -119,7 +131,16 @@ export default function App() {
               setOptions={setOptions}
               progress={progress}
               onStart={() => start()}
+              onBack={() => setScreen("home")}
             />
+          )}
+
+          {screen === "library" && (
+            <LibraryScreen key="library" progress={progress} onBack={() => setScreen("home")} />
+          )}
+
+          {screen === "grammar" && (
+            <GrammarScreen key="grammar" onBack={() => setScreen("home")} />
           )}
 
           {screen === "quiz" && (
@@ -140,12 +161,12 @@ export default function App() {
               seconds={finished.seconds}
               onRetry={() => start()}
               onDrillMistakes={drillMistakes}
-              onHome={() => setScreen("setup")}
+              onHome={() => setScreen("home")}
             />
           )}
 
           {screen === "stats" && (
-            <StatsScreen key="stats" progress={progress} onBack={() => setScreen("setup")} />
+            <StatsScreen key="stats" progress={progress} onBack={() => setScreen("home")} />
           )}
         </AnimatePresence>
       </div>

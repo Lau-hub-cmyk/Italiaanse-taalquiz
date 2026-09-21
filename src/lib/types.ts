@@ -39,6 +39,24 @@ export interface Question {
   isReview: boolean;
 }
 
+/** Een blok binnen een grammaticahoofdstuk: uitleg, tabel, voorbeelden of tip. */
+export type GrammarBlock =
+  | { kind: "text"; body: string }
+  | { kind: "table"; caption?: string; head: string[]; rows: string[][] }
+  | { kind: "examples"; items: { it: string; nl: string }[] }
+  | { kind: "tip"; body: string };
+
+export interface GrammarChapter {
+  /** stabiele slug, dient als key en (later) voor oefeningen */
+  id: string;
+  /** groep in het overzicht, bv. "Werkwoorden" of "Voorzetsels" */
+  category: string;
+  title: string;
+  /** korte omschrijving van één regel */
+  summary: string;
+  blocks: GrammarBlock[];
+}
+
 export type Verdict = "correct" | "almost" | "wrong";
 
 export interface Attempt {

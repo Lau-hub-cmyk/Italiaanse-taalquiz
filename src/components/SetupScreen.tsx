@@ -18,6 +18,7 @@ interface Props {
   setOptions: (patch: Partial<Options>) => void;
   progress: Progress;
   onStart: () => void;
+  onBack?: () => void;
 }
 
 const DIRECTIONS: { value: Options["direction"]; label: string; sub: string }[] = [
@@ -67,7 +68,7 @@ function MasteryBar({ pct, light }: { pct: number; light?: boolean }) {
   );
 }
 
-export function SetupScreen({ options, setOptions, progress, onStart }: Props) {
+export function SetupScreen({ options, setOptions, progress, onStart, onBack }: Props) {
   const selected = useMemo(() => new Set(options.lessons), [options.lessons]);
 
   const wordCount = useMemo(
@@ -101,6 +102,16 @@ export function SetupScreen({ options, setOptions, progress, onStart }: Props) {
       transition={{ duration: 0.28 }}
       className="mx-auto w-full max-w-3xl px-4 pb-32 sm:px-6"
     >
+      {onBack && (
+        <button
+          type="button"
+          onClick={onBack}
+          className="mt-5 rounded-xl px-2 py-1 text-sm font-extrabold text-muted transition hover:text-ink"
+        >
+          ← Terug
+        </button>
+      )}
+
       <div className="py-8 text-center">
         <motion.h1
           className="font-display text-4xl leading-tight font-bold text-balance text-ink sm:text-5xl"

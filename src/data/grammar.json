@@ -1,0 +1,194 @@
+[
+  {
+    "id": "lidwoorden",
+    "category": "Woordsoorten",
+    "title": "Lidwoorden",
+    "summary": "Bepaald (il, lo, la, i, gli, le) en onbepaald (un, uno, una). De vorm hangt af van geslacht, getal en de eerste klank van het volgende woord.",
+    "blocks": [
+      { "kind": "text", "body": "In het Italiaans heeft elk zelfstandig naamwoord een geslacht: mannelijk of vrouwelijk. Het lidwoord past zich daaraan aan, en ook aan de eerste klank van het woord dat erna komt." },
+      {
+        "kind": "table",
+        "caption": "Bepaald lidwoord (de/het)",
+        "head": ["vorm", "wanneer", "voorbeeld"],
+        "rows": [
+          ["il", "mannelijk enkelvoud, voor medeklinker", "il libro"],
+          ["lo", "mannelijk ev., voor s+medeklinker, z, gn, ps, y", "lo studente, lo zio"],
+          ["l'", "mannelijk of vrouwelijk ev., voor klinker", "l'amico, l'ora"],
+          ["la", "vrouwelijk enkelvoud, voor medeklinker", "la casa"],
+          ["i", "mannelijk meervoud (bij il)", "i libri"],
+          ["gli", "mannelijk meervoud (bij lo en l')", "gli studenti, gli amici"],
+          ["le", "vrouwelijk meervoud", "le case"]
+        ]
+      },
+      {
+        "kind": "table",
+        "caption": "Onbepaald lidwoord (een)",
+        "head": ["vorm", "wanneer", "voorbeeld"],
+        "rows": [
+          ["un", "mannelijk, voor klinker of gewone medeklinker", "un libro, un amico"],
+          ["uno", "mannelijk, voor s+medeklinker, z, gn, ps, y", "uno studente, uno zio"],
+          ["una", "vrouwelijk, voor medeklinker", "una casa"],
+          ["un'", "vrouwelijk, voor klinker", "un'amica"]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          { "it": "il ragazzo", "nl": "de jongen" },
+          { "it": "lo zaino", "nl": "de rugzak" },
+          { "it": "l'insegnante", "nl": "de docent" },
+          { "it": "una macchina", "nl": "een auto" }
+        ]
+      },
+      { "kind": "tip", "body": "Het onbepaald lidwoord heeft geen echt meervoud. Voor 'enkele/wat' gebruik je het partitief: dei, degli, delle (bv. dei libri = enkele boeken)." }
+    ]
+  },
+  {
+    "id": "naamwoorden-geslacht-meervoud",
+    "category": "Woordsoorten",
+    "title": "Zelfstandige naamwoorden: geslacht en meervoud",
+    "summary": "Woorden op -o zijn meestal mannelijk, op -a meestal vrouwelijk, op -e kan beide. Het meervoud verandert de uitgang.",
+    "blocks": [
+      { "kind": "text", "body": "Je herkent het geslacht vaak aan de uitgang. Woorden op -o zijn meestal mannelijk, woorden op -a meestal vrouwelijk. Woorden op -e kunnen mannelijk of vrouwelijk zijn; dat leer je per woord." },
+      {
+        "kind": "table",
+        "caption": "Het meervoud vormen",
+        "head": ["enkelvoud", "meervoud", "regel"],
+        "rows": [
+          ["il libro", "i libri", "-o → -i"],
+          ["la casa", "le case", "-a → -e"],
+          ["il fiore", "i fiori", "-e → -i (mannelijk)"],
+          ["la chiave", "le chiavi", "-e → -i (vrouwelijk)"]
+        ]
+      },
+      { "kind": "tip", "body": "Let op de uitzonderingen: la mano (vrouwelijk), il problema en il tema (mannelijk, op -a). Woorden met een klemtoon op de laatste klinker blijven gelijk: la città → le città." }
+    ]
+  },
+  {
+    "id": "tegenwoordige-tijd-regelmatig",
+    "category": "Werkwoorden",
+    "title": "Tegenwoordige tijd: regelmatige werkwoorden",
+    "summary": "Drie groepen: -are, -ere en -ire. Haal de uitgang weg en plak de juiste persoonsuitgang eraan.",
+    "blocks": [
+      { "kind": "text", "body": "Italiaanse werkwoorden eindigen op -are, -ere of -ire. Je haalt die uitgang van de stam en zet er de uitgang van de juiste persoon aan. De persoonlijke voornaamwoorden (io, tu, ...) laat je meestal weg, want de uitgang zegt al wie het doet." },
+      {
+        "kind": "table",
+        "caption": "parlare, prendere, dormire en capire (met -isc-)",
+        "head": ["", "parlare", "prendere", "dormire", "capire"],
+        "rows": [
+          ["io", "parlo", "prendo", "dormo", "capisco"],
+          ["tu", "parli", "prendi", "dormi", "capisci"],
+          ["lui/lei", "parla", "prende", "dorme", "capisce"],
+          ["noi", "parliamo", "prendiamo", "dormiamo", "capiamo"],
+          ["voi", "parlate", "prendete", "dormite", "capite"],
+          ["loro", "parlano", "prendono", "dormono", "capiscono"]
+        ]
+      },
+      { "kind": "tip", "body": "Sommige -ire-werkwoorden krijgen -isc- in io, tu, lui/lei en loro: capire, finire, preferire, pulire. De uitgangen blijven dezelfde." }
+    ]
+  },
+  {
+    "id": "essere-avere",
+    "category": "Werkwoorden",
+    "title": "essere en avere",
+    "summary": "De twee belangrijkste werkwoorden: 'zijn' en 'hebben'. Onregelmatig, en samen de hulpwerkwoorden voor de verleden tijd.",
+    "blocks": [
+      { "kind": "text", "body": "essere (zijn) en avere (hebben) gebruik je overal. Ze zijn onregelmatig, dus leer ze goed uit het hoofd. Later zijn het ook de hulpwerkwoorden voor de voltooide tijd (passato prossimo)." },
+      {
+        "kind": "table",
+        "head": ["", "essere (zijn)", "avere (hebben)"],
+        "rows": [
+          ["io", "sono", "ho"],
+          ["tu", "sei", "hai"],
+          ["lui/lei", "è", "ha"],
+          ["noi", "siamo", "abbiamo"],
+          ["voi", "siete", "avete"],
+          ["loro", "sono", "hanno"]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          { "it": "Sono belga.", "nl": "Ik ben Belg." },
+          { "it": "Ho fame.", "nl": "Ik heb honger." },
+          { "it": "È tardi.", "nl": "Het is laat." },
+          { "it": "Abbiamo tempo.", "nl": "We hebben tijd." }
+        ]
+      },
+      { "kind": "tip", "body": "De h in ho, hai, ha en hanno spreek je niet uit; ze staat er alleen om die vormen te onderscheiden van o, ai, a en anno." }
+    ]
+  },
+  {
+    "id": "onregelmatige-werkwoorden",
+    "category": "Werkwoorden",
+    "title": "Onregelmatige werkwoorden (tegenwoordige tijd)",
+    "summary": "Veelgebruikte werkwoorden die je niet volgens de regels vervoegt: andare, fare, venire, potere, volere, dovere ...",
+    "blocks": [
+      { "kind": "text", "body": "Een aantal veelvoorkomende werkwoorden volgt niet het vaste patroon. Deze kom je zo vaak tegen dat je ze het best gewoon vanbuiten leert." },
+      {
+        "kind": "table",
+        "caption": "andare, fare, venire, stare, dire",
+        "head": ["", "andare", "fare", "venire", "stare", "dire"],
+        "rows": [
+          ["io", "vado", "faccio", "vengo", "sto", "dico"],
+          ["tu", "vai", "fai", "vieni", "stai", "dici"],
+          ["lui/lei", "va", "fa", "viene", "sta", "dice"],
+          ["noi", "andiamo", "facciamo", "veniamo", "stiamo", "diciamo"],
+          ["voi", "andate", "fate", "venite", "state", "dite"],
+          ["loro", "vanno", "fanno", "vengono", "stanno", "dicono"]
+        ]
+      },
+      {
+        "kind": "table",
+        "caption": "De hulpwerkwoorden potere, volere, dovere (kunnen, willen, moeten)",
+        "head": ["", "potere", "volere", "dovere"],
+        "rows": [
+          ["io", "posso", "voglio", "devo"],
+          ["tu", "puoi", "vuoi", "devi"],
+          ["lui/lei", "può", "vuole", "deve"],
+          ["noi", "possiamo", "vogliamo", "dobbiamo"],
+          ["voi", "potete", "volete", "dovete"],
+          ["loro", "possono", "vogliono", "devono"]
+        ]
+      },
+      { "kind": "tip", "body": "Na potere, volere en dovere komt het volgende werkwoord in de infinitief: Voglio mangiare (Ik wil eten), Devo andare (Ik moet gaan)." }
+    ]
+  },
+  {
+    "id": "voorzetsels",
+    "category": "Voorzetsels",
+    "title": "Voorzetsels",
+    "summary": "di, a, da, in, con, su, per, tra/fra. Sommige smelten samen met het lidwoord tot del, al, dal, nel, sul ...",
+    "blocks": [
+      { "kind": "text", "body": "Voorzetsels zijn kleine woordjes met een grote rol. De betekenis komt niet altijd overeen met het Nederlands, dus let goed op de vaste combinaties." },
+      {
+        "kind": "table",
+        "caption": "De eenvoudige voorzetsels",
+        "head": ["voorzetsel", "betekenis", "voorbeeld"],
+        "rows": [
+          ["di", "van (bezit), over", "il libro di Marco"],
+          ["a", "naar, in (een stad), aan", "a Roma, a casa"],
+          ["da", "van(af), bij, sinds", "da Milano, da Luca"],
+          ["in", "in, naar (een land)", "in Italia"],
+          ["con", "met", "con te"],
+          ["su", "op, over", "sul tavolo"],
+          ["per", "voor, om te", "per te"],
+          ["tra / fra", "tussen, over (tijd)", "tra due ore"]
+        ]
+      },
+      {
+        "kind": "table",
+        "caption": "Samengesteld met het lidwoord (preposizioni articolate)",
+        "head": ["", "il", "lo", "l'", "la", "i", "gli", "le"],
+        "rows": [
+          ["di", "del", "dello", "dell'", "della", "dei", "degli", "delle"],
+          ["a", "al", "allo", "all'", "alla", "ai", "agli", "alle"],
+          ["da", "dal", "dallo", "dall'", "dalla", "dai", "dagli", "dalle"],
+          ["in", "nel", "nello", "nell'", "nella", "nei", "negli", "nelle"],
+          ["su", "sul", "sullo", "sull'", "sulla", "sui", "sugli", "sulle"]
+        ]
+      },
+      { "kind": "tip", "body": "di, a, da, in en su smelten samen met het bepaald lidwoord. con en per doen dat in modern Italiaans meestal niet: con il treno, per il lavoro." }
+    ]
+  }
+]
