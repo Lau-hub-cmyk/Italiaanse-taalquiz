@@ -5,28 +5,100 @@
     "title": "Het alfabet",
     "summary": "Het Italiaanse alfabet telt 21 letters; j, k, w, x en y komen alleen in vreemde woorden voor.",
     "blocks": [
-      { "kind": "text", "body": "Het Italiaanse alfabet telt 21 letters. De letternamen klinken zo (Nederlandse benadering van de uitspraak):" },
+      {
+        "kind": "text",
+        "body": "Het Italiaanse alfabet telt 21 letters. De letternamen klinken zo (Nederlandse benadering van de uitspraak):"
+      },
       {
         "kind": "table",
         "caption": "Het Italiaanse alfabet",
-        "head": ["letter", "naam", "letter", "naam"],
+        "head": [
+          "letter",
+          "naam",
+          "letter",
+          "naam"
+        ],
         "rows": [
-          ["a", "a", "n", "enne"],
-          ["b", "bie", "o", "o"],
-          ["c", "tsjie", "p", "pie"],
-          ["d", "die", "q", "koe"],
-          ["e", "e", "r", "erre"],
-          ["f", "effe", "s", "esse"],
-          ["g", "dzjie", "t", "tie"],
-          ["h", "acca", "u", "oe"],
-          ["i", "ie", "v", "woe"],
-          ["l", "elle", "z", "dzeta"],
-          ["m", "emme", "", ""]
+          [
+            "a",
+            "a",
+            "n",
+            "enne"
+          ],
+          [
+            "b",
+            "bie",
+            "o",
+            "o"
+          ],
+          [
+            "c",
+            "tsjie",
+            "p",
+            "pie"
+          ],
+          [
+            "d",
+            "die",
+            "q",
+            "koe"
+          ],
+          [
+            "e",
+            "e",
+            "r",
+            "erre"
+          ],
+          [
+            "f",
+            "effe",
+            "s",
+            "esse"
+          ],
+          [
+            "g",
+            "dzjie",
+            "t",
+            "tie"
+          ],
+          [
+            "h",
+            "acca",
+            "u",
+            "oe"
+          ],
+          [
+            "i",
+            "ie",
+            "v",
+            "woe"
+          ],
+          [
+            "l",
+            "elle",
+            "z",
+            "dzeta"
+          ],
+          [
+            "m",
+            "emme",
+            "",
+            ""
+          ]
         ]
       },
-      { "kind": "text", "body": "De letters j (i lunga), k (kappa), w (doppia vu), x (ics) en y (ipsilon of i greca) komen alleen in vreemde woorden en namen voor. Omdat het woord 'letter' vrouwelijk is (la lettera), zeg je la d, la v, enzovoort." },
-      { "kind": "text", "body": "De Italiaanse spelling is vrijwel fonetisch. Overbodige letters vallen weg: combinaties als 'rh', 'th' en 'ph' bestaan niet — reuma, teatro, filosofia." },
-      { "kind": "tip", "body": "Namen spellen aan de telefoon doe je vaak met steden: Ancona, Bari, Como, Domodossola, Empoli, Firenze, Genova, Imola, Livorno, Milano, Napoli, Otranto, Palermo, Quarto, Roma, Savona (of Siena), Torino, Urbino, Venezia." }
+      {
+        "kind": "text",
+        "body": "De letters j (i lunga), k (kappa), w (doppia vu), x (ics) en y (ipsilon of i greca) komen alleen in vreemde woorden en namen voor. Omdat het woord 'letter' vrouwelijk is (la lettera), zeg je la d, la v, enzovoort."
+      },
+      {
+        "kind": "text",
+        "body": "De Italiaanse spelling is vrijwel fonetisch. Overbodige letters vallen weg: combinaties als 'rh', 'th' en 'ph' bestaan niet — reuma, teatro, filosofia."
+      },
+      {
+        "kind": "tip",
+        "body": "Namen spellen aan de telefoon doe je vaak met steden: Ancona, Bari, Como, Domodossola, Empoli, Firenze, Genova, Imola, Livorno, Milano, Napoli, Otranto, Palermo, Quarto, Roma, Savona (of Siena), Torino, Urbino, Venezia."
+      }
     ]
   },
   {
@@ -35,14 +107,29 @@
     "title": "De klinkers",
     "summary": "a, i en u zijn eenvoudig; e en o hebben een open en een gesloten variant.",
     "blocks": [
-      { "kind": "text", "body": "In het Italiaans wordt goed gearticuleerd: elke klank is apart te horen. De a, i en u lijken op de 'a' van kamer, de 'i' van fiets en de 'oe' van voet." },
-      { "kind": "text", "body": "De e en de o hebben een open en een gesloten variant. De open e lijkt op het Franse 'mère', de gesloten e op de 'e' in 'beter'. De open o lijkt op de 'o' in 'hor', de gesloten o op die in 'boter'. De regels zijn ingewikkeld en er zijn streekverschillen." },
-      { "kind": "text", "body": "Een onbeklemtoonde i die na een medeklinker en vóór een klinker staat, klinkt als de Nederlandse 'j'." },
+      {
+        "kind": "text",
+        "body": "In het Italiaans wordt goed gearticuleerd: elke klank is apart te horen. De a, i en u lijken op de 'a' van kamer, de 'i' van fiets en de 'oe' van voet."
+      },
+      {
+        "kind": "text",
+        "body": "De e en de o hebben een open en een gesloten variant. De open e lijkt op het Franse 'mère', de gesloten e op de 'e' in 'beter'. De open o lijkt op de 'o' in 'hor', de gesloten o op die in 'boter'. De regels zijn ingewikkeld en er zijn streekverschillen."
+      },
+      {
+        "kind": "text",
+        "body": "Een onbeklemtoonde i die na een medeklinker en vóór een klinker staat, klinkt als de Nederlandse 'j'."
+      },
       {
         "kind": "examples",
         "items": [
-          { "it": "piede", "nl": "voet" },
-          { "it": "pianta", "nl": "plant" }
+          {
+            "it": "piede",
+            "nl": "voet"
+          },
+          {
+            "it": "pianta",
+            "nl": "plant"
+          }
         ]
       }
     ]
@@ -53,30 +140,74 @@
     "title": "De medeklinkers",
     "summary": "gl, gn, z, s en de c en g voor verschillende klinkers; de h en de dubbele medeklinkers.",
     "blocks": [
-      { "kind": "text", "body": "De b, d, f, l, m, n, p en t klinken bijna als in het Nederlands. De r rolt meestal, de v neigt naar de Nederlandse 'w'." },
+      {
+        "kind": "text",
+        "body": "De b, d, f, l, m, n, p en t klinken bijna als in het Nederlands. De r rolt meestal, de v neigt naar de Nederlandse 'w'."
+      },
       {
         "kind": "table",
         "caption": "Bijzondere medeklinkercombinaties",
-        "head": ["combinatie", "klinkt als", "voorbeeld"],
+        "head": [
+          "combinatie",
+          "klinkt als",
+          "voorbeeld"
+        ],
         "rows": [
-          ["gl (voor i)", "lj", "famiglia, figlia, moglie"],
-          ["gn", "nj", "agnello, bagno"],
-          ["z", "ts (stemloos)", "lezione, amicizia"],
-          ["z", "dz (stemhebbend)", "manzo, mezzo, zero"]
+          [
+            "gl (voor i)",
+            "lj",
+            "famiglia, figlia, moglie"
+          ],
+          [
+            "gn",
+            "nj",
+            "agnello, bagno"
+          ],
+          [
+            "z",
+            "ts (stemloos)",
+            "lezione, amicizia"
+          ],
+          [
+            "z",
+            "dz (stemhebbend)",
+            "manzo, mezzo, zero"
+          ]
         ]
       },
-      { "kind": "text", "body": "De s is stemloos aan het begin van een woord, voor een harde medeklinker (c, f, p, q, t), na een andere medeklinker en bij een dubbele s: sistema, scusa, spada, pasto, passo. De s is stemhebbend voor een zachte medeklinker (b, d, g, v) en voor l, m, n of r: sbagliare, sdraio, sguardo, sviluppo, smettere, snello." },
+      {
+        "kind": "text",
+        "body": "De s is stemloos aan het begin van een woord, voor een harde medeklinker (c, f, p, q, t), na een andere medeklinker en bij een dubbele s: sistema, scusa, spada, pasto, passo. De s is stemhebbend voor een zachte medeklinker (b, d, g, v) en voor l, m, n of r: sbagliare, sdraio, sguardo, sviluppo, smettere, snello."
+      },
       {
         "kind": "table",
         "caption": "De c en de g",
-        "head": ["", "voor a / o / u / medeklinker", "voor e / i"],
+        "head": [
+          "",
+          "voor a / o / u / medeklinker",
+          "voor e / i"
+        ],
         "rows": [
-          ["c", "hard (k): calmo, come, curioso, clima", "zacht (tsj): cena, cinema"],
-          ["g", "hard (g): galleria, gola, gusto, grande", "zacht (dzj): gengiva, gita"]
+          [
+            "c",
+            "hard (k): calmo, come, curioso, clima",
+            "zacht (tsj): cena, cinema"
+          ],
+          [
+            "g",
+            "hard (g): galleria, gola, gusto, grande",
+            "zacht (dzj): gengiva, gita"
+          ]
         ]
       },
-      { "kind": "text", "body": "Een 'h' achter een c of g wordt zelf niet uitgesproken; ze houdt de klank hard: chilo, ghiaia. Verder komt de h alleen voor in enkele vormen van avere (ho, hai, ha, hanno — niet uitgesproken) en in uitroepen." },
-      { "kind": "text", "body": "Dubbele medeklinkers houd je langer aan dan enkele: ballare, difficile, freddo, guerra, mamma, matto, rabbia." }
+      {
+        "kind": "text",
+        "body": "Een 'h' achter een c of g wordt zelf niet uitgesproken; ze houdt de klank hard: chilo, ghiaia. Verder komt de h alleen voor in enkele vormen van avere (ho, hai, ha, hanno — niet uitgesproken) en in uitroepen."
+      },
+      {
+        "kind": "text",
+        "body": "Dubbele medeklinkers houd je langer aan dan enkele: ballare, difficile, freddo, guerra, mamma, matto, rabbia."
+      }
     ]
   },
   {
@@ -85,28 +216,61 @@
     "title": "De klemtoon",
     "summary": "Meestal op de voorlaatste lettergreep; valt hij op de laatste, dan staat er een accent (città, caffè).",
     "blocks": [
-      { "kind": "text", "body": "Meestal valt de klemtoon op de voorlaatste lettergreep: casa, matita, orologio, settimana, pericoloso, balcone, bicicletta, passaporto." },
+      {
+        "kind": "text",
+        "body": "Meestal valt de klemtoon op de voorlaatste lettergreep: casa, matita, orologio, settimana, pericoloso, balcone, bicicletta, passaporto."
+      },
       {
         "kind": "examples",
         "items": [
-          { "it": "caffè", "nl": "koffie (klemtoon op het eind, met accent)" },
-          { "it": "città", "nl": "stad" },
-          { "it": "università", "nl": "universiteit" },
-          { "it": "velocità", "nl": "snelheid" }
+          {
+            "it": "caffè",
+            "nl": "koffie (klemtoon op het eind, met accent)"
+          },
+          {
+            "it": "città",
+            "nl": "stad"
+          },
+          {
+            "it": "università",
+            "nl": "universiteit"
+          },
+          {
+            "it": "velocità",
+            "nl": "snelheid"
+          }
         ]
       },
-      { "kind": "text", "body": "Bij eenlettergrepige woorden wordt de klemtoon niet aangegeven (ma, me, re). Wel gebruikt men een accent om gelijkgeschreven woorden met een verschillende betekenis te onderscheiden." },
+      {
+        "kind": "text",
+        "body": "Bij eenlettergrepige woorden wordt de klemtoon niet aangegeven (ma, me, re). Wel gebruikt men een accent om gelijkgeschreven woorden met een verschillende betekenis te onderscheiden."
+      },
       {
         "kind": "table",
         "caption": "Accent als onderscheid",
-        "head": ["zonder accent", "met accent"],
+        "head": [
+          "zonder accent",
+          "met accent"
+        ],
         "rows": [
-          ["da (sinds, vanaf)", "dà (hij/zij/u geeft)"],
-          ["si (zich)", "sì (ja, wel)"],
-          ["e (en)", "è (hij/zij/u is)"]
+          [
+            "da (sinds, vanaf)",
+            "dà (hij/zij/u geeft)"
+          ],
+          [
+            "si (zich)",
+            "sì (ja, wel)"
+          ],
+          [
+            "e (en)",
+            "è (hij/zij/u is)"
+          ]
         ]
       },
-      { "kind": "text", "body": "Bij een beklemtoonde tweeklank van één lettergreep staat een accent: può, più. Uitzonderingen zijn qui en qua (hier)." }
+      {
+        "kind": "text",
+        "body": "Bij een beklemtoonde tweeklank van één lettergreep staat een accent: può, più. Uitzonderingen zijn qui en qua (hier)."
+      }
     ]
   },
   {
@@ -118,28 +282,88 @@
       {
         "kind": "table",
         "caption": "De vormen van het lidwoord",
-        "head": ["geslacht", "bepaald ev.", "bepaald mv.", "onbepaald", "wanneer"],
+        "head": [
+          "geslacht",
+          "bepaald ev.",
+          "bepaald mv.",
+          "onbepaald",
+          "wanneer"
+        ],
         "rows": [
-          ["mannelijk", "il", "i", "un", "voor medeklinker"],
-          ["mannelijk", "l'", "gli", "un", "voor klinker"],
-          ["mannelijk", "lo", "gli", "uno", "voor s + medeklinker, z, ps"],
-          ["vrouwelijk", "la", "le", "una", "voor medeklinker"],
-          ["vrouwelijk", "l'", "le", "un'", "voor klinker"]
+          [
+            "mannelijk",
+            "il",
+            "i",
+            "un",
+            "voor medeklinker"
+          ],
+          [
+            "mannelijk",
+            "l'",
+            "gli",
+            "un",
+            "voor klinker"
+          ],
+          [
+            "mannelijk",
+            "lo",
+            "gli",
+            "uno",
+            "voor s + medeklinker, z, ps"
+          ],
+          [
+            "vrouwelijk",
+            "la",
+            "le",
+            "una",
+            "voor medeklinker"
+          ],
+          [
+            "vrouwelijk",
+            "l'",
+            "le",
+            "un'",
+            "voor klinker"
+          ]
         ]
       },
       {
         "kind": "examples",
         "items": [
-          { "it": "il libro, i libri, un libro", "nl": "het boek, de boeken, een boek" },
-          { "it": "lo studente, gli studenti, uno studente", "nl": "de student (s impura)" },
-          { "it": "lo zero, gli zeri, uno zero", "nl": "de nul (z)" },
-          { "it": "l'albero, gli alberi, un albero", "nl": "de boom (klinker)" },
-          { "it": "la ragazza, le ragazze, una ragazza", "nl": "het meisje" },
-          { "it": "l'oliva, le olive, un'oliva", "nl": "de olijf (vrouwelijk, klinker)" }
+          {
+            "it": "il libro, i libri, un libro",
+            "nl": "het boek, de boeken, een boek"
+          },
+          {
+            "it": "lo studente, gli studenti, uno studente",
+            "nl": "de student (s impura)"
+          },
+          {
+            "it": "lo zero, gli zeri, uno zero",
+            "nl": "de nul (z)"
+          },
+          {
+            "it": "l'albero, gli alberi, un albero",
+            "nl": "de boom (klinker)"
+          },
+          {
+            "it": "la ragazza, le ragazze, una ragazza",
+            "nl": "het meisje"
+          },
+          {
+            "it": "l'oliva, le olive, un'oliva",
+            "nl": "de olijf (vrouwelijk, klinker)"
+          }
         ]
       },
-      { "kind": "text", "body": "Eén woord heeft een onregelmatig lidwoord: il dio, gli dei, un dio (god)." },
-      { "kind": "tip", "body": "'s impura' is een s gevolgd door een medeklinker (lo studente, uno sbaglio). De vorm hangt ook af van het woord dat direct volgt — een bijvoeglijk naamwoord ertussen telt mee: uno sbaglio, maar con un solo sbaglio." }
+      {
+        "kind": "text",
+        "body": "Eén woord heeft een onregelmatig lidwoord: il dio, gli dei, un dio (god)."
+      },
+      {
+        "kind": "tip",
+        "body": "'s impura' is een s gevolgd door een medeklinker (lo studente, uno sbaglio). De vorm hangt ook af van het woord dat direct volgt — een bijvoeglijk naamwoord ertussen telt mee: uno sbaglio, maar con un solo sbaglio."
+      }
     ]
   },
   {
@@ -148,7 +372,10 @@
     "title": "Gebruik van het onbepaalde lidwoord",
     "summary": "Vrijwel gelijk aan het Nederlands.",
     "blocks": [
-      { "kind": "text", "body": "Het gebruik van het onbepaalde lidwoord is in het Italiaans vrijwel gelijk aan dat in het Nederlands." }
+      {
+        "kind": "text",
+        "body": "Het gebruik van het onbepaalde lidwoord is in het Italiaans vrijwel gelijk aan dat in het Nederlands."
+      }
     ]
   },
   {
@@ -157,21 +384,51 @@
     "title": "Gebruik van het bepaalde lidwoord",
     "summary": "In het Italiaans veel vaker dan in het Nederlands: ook bij landen, talen, bezit, tijd en algemene begrippen.",
     "blocks": [
-      { "kind": "text", "body": "Het bepaalde lidwoord gebruik je als iets bekend, bepaald of eerder genoemd is, en ook vóór abstracte naamwoorden en vóór concrete naamwoorden in algemene zin." },
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord gebruik je als iets bekend, bepaald of eerder genoemd is, en ook vóór abstracte naamwoorden en vóór concrete naamwoorden in algemene zin."
+      },
       {
         "kind": "examples",
         "items": [
-          { "it": "La luna non c'è ancora.", "nl": "De maan is er nog niet." },
-          { "it": "La pigrizia è un vizio.", "nl": "Luiheid is een ondeugd." },
-          { "it": "La donna è mobile.", "nl": "De vrouw is veranderlijk." }
+          {
+            "it": "La luna non c'è ancora.",
+            "nl": "De maan is er nog niet."
+          },
+          {
+            "it": "La pigrizia è un vizio.",
+            "nl": "Luiheid is een ondeugd."
+          },
+          {
+            "it": "La donna è mobile.",
+            "nl": "De vrouw is veranderlijk."
+          }
         ]
       },
-      { "kind": "text", "body": "Namen van werelddelen, landen, provincies, grote eilanden, rivieren, meren, zeeën en bergen krijgen een lidwoord: l'Europa, la Germania, l'Italia, l'Olanda, la Toscana, la Sardegna, il Tevere, il Lago di Garda. Maar na het voorzetsel in vervalt het: Vado in Italia. Abiti in Olanda?" },
-      { "kind": "text", "body": "Vóór signore, signora en signorina staat het lidwoord, behalve als je de persoon aanspreekt: Il signor Longo è in ritardo. — È in casa la signora Rossi? — Come sta, signorina?" },
-      { "kind": "text", "body": "Vóór een taalnaam staat meestal het lidwoord (Ho imparato l'italiano), behalve na in en na parlare (Parli italiano?). Vóór jaartallen en percentages staat het lidwoord: È nato nel 1980. Solo il 30 per cento ha votato." },
-      { "kind": "text", "body": "Het bepaald lidwoord komt ook waar het Nederlands een onbepaald lidwoord of een bezittelijk voornaamwoord heeft: Nino ha il naso grande. Ha la moglie tedesca. Mi fa male la testa. Ha perso l'agenda." },
-      { "kind": "text", "body": "Vóór een dag betekent het lidwoord 'elke': Il giovedì fa lezione (donderdags). Il sabato mi alzo tardi. Zonder lidwoord is de eerstvolgende bedoeld: Martedì partiamo per Madrid." },
-      { "kind": "text", "body": "Bij tijdsaanduiding staat een lidwoord (ora/ore vervalt): Sono le due. È l'una e un quarto. Arrivo alle quattro e mezzo. Maar zonder lidwoord: È mezzogiorno. È mezzanotte." }
+      {
+        "kind": "text",
+        "body": "Namen van werelddelen, landen, provincies, grote eilanden, rivieren, meren, zeeën en bergen krijgen een lidwoord: l'Europa, la Germania, l'Italia, l'Olanda, la Toscana, la Sardegna, il Tevere, il Lago di Garda. Maar na het voorzetsel in vervalt het: Vado in Italia. Abiti in Olanda?"
+      },
+      {
+        "kind": "text",
+        "body": "Vóór signore, signora en signorina staat het lidwoord, behalve als je de persoon aanspreekt: Il signor Longo è in ritardo. — È in casa la signora Rossi? — Come sta, signorina?"
+      },
+      {
+        "kind": "text",
+        "body": "Vóór een taalnaam staat meestal het lidwoord (Ho imparato l'italiano), behalve na in en na parlare (Parli italiano?). Vóór jaartallen en percentages staat het lidwoord: È nato nel 1980. Solo il 30 per cento ha votato."
+      },
+      {
+        "kind": "text",
+        "body": "Het bepaald lidwoord komt ook waar het Nederlands een onbepaald lidwoord of een bezittelijk voornaamwoord heeft: Nino ha il naso grande. Ha la moglie tedesca. Mi fa male la testa. Ha perso l'agenda."
+      },
+      {
+        "kind": "text",
+        "body": "Vóór een dag betekent het lidwoord 'elke': Il giovedì fa lezione (donderdags). Il sabato mi alzo tardi. Zonder lidwoord is de eerstvolgende bedoeld: Martedì partiamo per Madrid."
+      },
+      {
+        "kind": "text",
+        "body": "Bij tijdsaanduiding staat een lidwoord (ora/ore vervalt): Sono le due. È l'una e un quarto. Arrivo alle quattro e mezzo. Maar zonder lidwoord: È mezzogiorno. È mezzanotte."
+      }
     ]
   },
   {
@@ -180,10 +437,22 @@
     "title": "Het ontbreken van het lidwoord",
     "summary": "Geen lidwoord bij steden, bij via/piazza + naam, bij het naamwoordelijk deel van het gezegde en in vaste combinaties.",
     "blocks": [
-      { "kind": "text", "body": "Namen van steden hebben geen lidwoord (Roma è bella); L'Aia (Den Haag) is een uitzondering. Vóór corso, via, piazza en palazzo + een naam staat geen lidwoord: Abito in piazza Dante." },
-      { "kind": "text", "body": "Ook het naamwoordelijk deel van het gezegde staat zonder lidwoord (È americano), net als veel spreekwoorden en vaste combinaties: arrivare in tempo, far visita a qualcuno, partire in fretta, prendere moglie, rimanere a casa." },
-      { "kind": "text", "body": "Vaste combinaties van voorzetsel + naamwoord: a casa, in città, in chiesa, in cucina, in giardino, a letto, in montagna, a scuola, a teatro." },
-      { "kind": "text", "body": "Na che aan het begin van een uitroep komt geen lidwoord: Che film! Che bellissima giornata!" }
+      {
+        "kind": "text",
+        "body": "Namen van steden hebben geen lidwoord (Roma è bella); L'Aia (Den Haag) is een uitzondering. Vóór corso, via, piazza en palazzo + een naam staat geen lidwoord: Abito in piazza Dante."
+      },
+      {
+        "kind": "text",
+        "body": "Ook het naamwoordelijk deel van het gezegde staat zonder lidwoord (È americano), net als veel spreekwoorden en vaste combinaties: arrivare in tempo, far visita a qualcuno, partire in fretta, prendere moglie, rimanere a casa."
+      },
+      {
+        "kind": "text",
+        "body": "Vaste combinaties van voorzetsel + naamwoord: a casa, in città, in chiesa, in cucina, in giardino, a letto, in montagna, a scuola, a teatro."
+      },
+      {
+        "kind": "text",
+        "body": "Na che aan het begin van een uitroep komt geen lidwoord: Che film! Che bellissima giornata!"
+      }
     ]
   },
   {
@@ -192,25 +461,61 @@
     "title": "Het delend lidwoord (partitief)",
     "summary": "di + het bepaald lidwoord = del, dello, dell', della, dei, degli, delle; duidt een onbepaalde hoeveelheid aan.",
     "blocks": [
-      { "kind": "text", "body": "Het delend lidwoord ontstaat uit het voorzetsel di + het bepaald lidwoord en duidt een onbepaalde hoeveelheid aan (zoals het partitief in het Frans)." },
+      {
+        "kind": "text",
+        "body": "Het delend lidwoord ontstaat uit het voorzetsel di + het bepaald lidwoord en duidt een onbepaalde hoeveelheid aan (zoals het partitief in het Frans)."
+      },
       {
         "kind": "table",
         "caption": "Vormen van het delend lidwoord",
-        "head": ["+", "il", "lo", "l'", "la", "i", "gli", "le"],
+        "head": [
+          "+",
+          "il",
+          "lo",
+          "l'",
+          "la",
+          "i",
+          "gli",
+          "le"
+        ],
         "rows": [
-          ["di", "del", "dello", "dell'", "della", "dei", "degli", "delle"]
+          [
+            "di",
+            "del",
+            "dello",
+            "dell'",
+            "della",
+            "dei",
+            "degli",
+            "delle"
+          ]
         ]
       },
       {
         "kind": "examples",
         "items": [
-          { "it": "Hanno mangiato del pane.", "nl": "Ze hebben wat brood gegeten." },
-          { "it": "Ho comprato dei tulipani.", "nl": "Ik heb (wat) tulpen gekocht." },
-          { "it": "C'è dello zucchero?", "nl": "Is er suiker?" },
-          { "it": "Abbiamo delle novità.", "nl": "We hebben nieuws." }
+          {
+            "it": "Hanno mangiato del pane.",
+            "nl": "Ze hebben wat brood gegeten."
+          },
+          {
+            "it": "Ho comprato dei tulipani.",
+            "nl": "Ik heb (wat) tulpen gekocht."
+          },
+          {
+            "it": "C'è dello zucchero?",
+            "nl": "Is er suiker?"
+          },
+          {
+            "it": "Abbiamo delle novità.",
+            "nl": "We hebben nieuws."
+          }
         ]
       },
-      { "kind": "text", "body": "De toevoeging is niet verplicht: je laat ze weg als het deelbegrip niet op de voorgrond staat, bij abstracte woorden en in ontkennende zinnen (Non ci sono più francobolli). Het delend lidwoord kan ook vóór een bijvoeglijk naamwoord staan: Hanno avuto dei grandi problemi." }
+      {
+        "kind": "text",
+        "body": "De toevoeging is niet verplicht: je laat ze weg als het deelbegrip niet op de voorgrond staat, bij abstracte woorden en in ontkennende zinnen (Non ci sono più francobolli). Het delend lidwoord kan ook vóór een bijvoeglijk naamwoord staan: Hanno avuto dei grandi problemi."
+      }
     ]
   },
   {
@@ -219,10 +524,579 @@
     "title": "Samenvatting van het lidwoord",
     "summary": "De vormen op een rij en wanneer je het lidwoord wel of niet gebruikt.",
     "blocks": [
-      { "kind": "text", "body": "Het bepaalde lidwoord heeft zeven vormen: il, lo, l', la, i, gli, le. Het onbepaalde er vier: un, uno, un', una. De keuze hangt af van geslacht, getal én van de beginletters van het woord dat direct volgt." },
-      { "kind": "text", "body": "Het bepaalde lidwoord wordt in het Italiaans veel vaker gebruikt dan in het Nederlands: vóór bezittelijke voornaamwoorden, taalnamen, woorden als signore en dottore, per cento, jaartallen, tijdsaanduidingen, achternamen van vrouwen, namen van voetbalclubs, werelddelen, landen, regio's, provincies, bergen, zeeën, grote eilanden, windstreken, stofnamen, vakken en abstracte begrippen." },
-      { "kind": "text", "body": "Het lidwoord ontbreekt vóór namen van steden, vóór via en piazza, bij het naamwoordelijk deel van het gezegde, bij achternamen van mannen, bij personen die bekend zijn onder hun voornaam, bij het aanspreken van signore/dottore, in veel vaste combinaties en na het voorzetsel in." },
-      { "kind": "text", "body": "Het delend lidwoord (del, dello, dell', della, dei, degli, delle) dient als meervoud van het onbepaald lidwoord en om een onbepaalde hoeveelheid aan te duiden. Het gebruik is niet verplicht en vervalt in negatieve zinnen." }
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord heeft zeven vormen: il, lo, l', la, i, gli, le. Het onbepaalde er vier: un, uno, un', una. De keuze hangt af van geslacht, getal én van de beginletters van het woord dat direct volgt."
+      },
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord wordt in het Italiaans veel vaker gebruikt dan in het Nederlands: vóór bezittelijke voornaamwoorden, taalnamen, woorden als signore en dottore, per cento, jaartallen, tijdsaanduidingen, achternamen van vrouwen, namen van voetbalclubs, werelddelen, landen, regio's, provincies, bergen, zeeën, grote eilanden, windstreken, stofnamen, vakken en abstracte begrippen."
+      },
+      {
+        "kind": "text",
+        "body": "Het lidwoord ontbreekt vóór namen van steden, vóór via en piazza, bij het naamwoordelijk deel van het gezegde, bij achternamen van mannen, bij personen die bekend zijn onder hun voornaam, bij het aanspreken van signore/dottore, in veel vaste combinaties en na het voorzetsel in."
+      },
+      {
+        "kind": "text",
+        "body": "Het delend lidwoord (del, dello, dell', della, dei, degli, delle) dient als meervoud van het onbepaald lidwoord en om een onbepaalde hoeveelheid aan te duiden. Het gebruik is niet verplicht en vervalt in negatieve zinnen."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-basis",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Basisregels",
+    "summary": "Mannelijk -o → -i, vrouwelijk -a → -e, en een derde groep op -e → -i (beide geslachten).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee typen zelfstandige naamwoorden: mannelijke en vrouwelijke. Mannelijke woorden eindigen in het enkelvoud op -o en in het meervoud op -i; vrouwelijke op -a (enkelvoud) en -e (meervoud). Een derde groep eindigt op -e in het enkelvoud en -i in het meervoud, en bevat zowel mannelijke als vrouwelijke woorden. Bij die groep helpt het lidwoord of een bijvoeglijk naamwoord om het geslacht vast te stellen."
+      },
+      {
+        "kind": "table",
+        "caption": "Meervoudsvorming",
+        "head": [
+          "geslacht",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk",
+            "-o",
+            "-i"
+          ],
+          [
+            "vrouwelijk",
+            "-a",
+            "-e"
+          ],
+          [
+            "mannelijk / vrouwelijk",
+            "-e",
+            "-i"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "fratello, fratelli",
+            "nl": "broer, broers"
+          },
+          {
+            "it": "casa, case",
+            "nl": "huis, huizen"
+          },
+          {
+            "it": "il mese, i mesi",
+            "nl": "de maand (m, op -e)"
+          },
+          {
+            "it": "la notte, le notti",
+            "nl": "de nacht (v, op -e)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-mannelijk-a",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Mannelijke woorden op -a",
+    "summary": "Een groep mannelijke woorden (vaak Grieks) op -a, meervoud -i.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een vrij grote groep mannelijke woorden eindigt op -a (vaak van Griekse oorsprong) en krijgt in het meervoud -i."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il problema, i problemi",
+            "nl": "het probleem"
+          },
+          {
+            "it": "il programma, i programmi",
+            "nl": "het programma"
+          },
+          {
+            "it": "il diploma, i diplomi",
+            "nl": "het diploma"
+          },
+          {
+            "it": "il poeta, i poeti",
+            "nl": "de dichter"
+          },
+          {
+            "it": "il panorama, i panorami",
+            "nl": "het panorama"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Woorden met een c of g als voorlaatste letter krijgen in het meervoud een h erbij: il collega, i colleghi; la collega, le colleghe; il duca, i duchi. Uitzondering: il Belga, i Belgi."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-ista",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -ista",
+    "summary": "Zowel mannelijk als vrouwelijk; mannelijk mv. -isti, vrouwelijk mv. -iste.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Woorden op -ista zijn zowel mannelijk als vrouwelijk. Naast il giornalista (mv. i giornalisti) bestaat la giornalista (mv. le giornaliste). Vaak duiden ze een beroep aan; het Nederlands eindigt dan meestal op -ist."
+      },
+      {
+        "kind": "table",
+        "caption": "Woorden op -ista",
+        "head": [
+          "geslacht",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk",
+            "-ista",
+            "-isti"
+          ],
+          [
+            "vrouwelijk",
+            "-ista",
+            "-iste"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il/la dentista",
+            "nl": "de tandarts"
+          },
+          {
+            "it": "il/la turista",
+            "nl": "de toerist(e)"
+          },
+          {
+            "it": "il/la pianista",
+            "nl": "de pianist(e)"
+          },
+          {
+            "it": "l'artista",
+            "nl": "de artiest(e)"
+          },
+          {
+            "it": "il/la giornalista",
+            "nl": "de journalist(e)"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Naast veel woorden op -ista bestaat vaak een vorm op -ismo, die het bijbehorende verschijnsel aanduidt (= Nederlands -isme): femminista → femminismo, turista → turismo, specialista → specialismo."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-vrouwelijk-o",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Vrouwelijke woorden op -o",
+    "summary": "Uiterst zeldzaam; de belangrijkste is la mano.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vrouwelijke woorden die op -o eindigen, zijn heel zeldzaam. De belangrijkste is la mano, le mani (de hand)."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-onveranderlijk",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Onveranderlijke naamwoorden",
+    "summary": "Enkelvoud = meervoud: eenlettergrepige woorden, woorden op een beklemtoonde klinker of op -i, en afkortingen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij een grote groep woorden is de meervoudsvorm gelijk aan het enkelvoud."
+      },
+      {
+        "kind": "text",
+        "body": "Eenlettergrepige woorden (vaak buitenlands): il bar / i bar, il film / i film, il gas / i gas, la gru / le gru, il re / i re."
+      },
+      {
+        "kind": "text",
+        "body": "Woorden op een beklemtoonde eindklinker: la città / le città, il caffè / i caffè, l'università / le università, la verità / le verità, la velocità / le velocità, il tabù / i tabù."
+      },
+      {
+        "kind": "text",
+        "body": "Woorden op -i: l'analisi / le analisi, la crisi / le crisi, il brindisi / i brindisi."
+      },
+      {
+        "kind": "text",
+        "body": "Afkortingen: l'auto / le auto, il cinema / i cinema, la foto / le foto, il frigo / i frigo, la moto / le moto, la radio / le radio."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-twee-meervouden",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Twee meervoudsvormen",
+    "summary": "Sommige woorden hebben twee meervouden met verschillende betekenis (le braccia / i bracci).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een aantal woorden heeft twee meervoudsvormen die in betekenis (iets) verschillen. Vaak is de vorm op -a (vrouwelijk) de 'natuurlijke' groep en de vorm op -i de figuurlijke of losse betekenis."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "enkelvoud",
+          "meervoud op -i",
+          "meervoud op -a"
+        ],
+        "rows": [
+          [
+            "il braccio",
+            "i bracci (armen van bv. rivier)",
+            "le braccia (de armen)"
+          ],
+          [
+            "il dito",
+            "i diti (losse vingers)",
+            "le dita (de vingers)"
+          ],
+          [
+            "il labbro",
+            "i labbri (randen)",
+            "le labbra (de lippen)"
+          ],
+          [
+            "il membro",
+            "i membri (leden)",
+            "le membra (ledematen)"
+          ],
+          [
+            "l'osso",
+            "gli ossi (losse botten)",
+            "le ossa (het gebeente)"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-o-naar-a",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Mannelijk -o met vrouwelijk meervoud -a",
+    "summary": "Enkele woorden zijn mannelijk op -o maar hebben een vrouwelijk meervoud op -a.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il paio, le paia",
+            "nl": "het paar, de paren"
+          },
+          {
+            "it": "l'uovo, le uova",
+            "nl": "het ei, de eieren"
+          },
+          {
+            "it": "il riso, le risa",
+            "nl": "het gelach"
+          },
+          {
+            "it": "il centinaio, le centinaia",
+            "nl": "het honderdtal, honderden"
+          },
+          {
+            "it": "il migliaio, le migliaia",
+            "nl": "het duizendtal, duizenden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-io",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -io",
+    "summary": "Onbeklemtoonde i: meervoud met één i; beklemtoonde i (zio) houdt -ii.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Eindigt een woord op -io met een onbeklemtoonde i, dan heeft het meervoud één -i."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il bacio, i baci",
+            "nl": "de kus"
+          },
+          {
+            "it": "il figlio, i figli",
+            "nl": "de zoon"
+          },
+          {
+            "it": "l'occhio, gli occhi",
+            "nl": "het oog"
+          },
+          {
+            "it": "l'orologio, gli orologi",
+            "nl": "de klok"
+          },
+          {
+            "it": "lo studio, gli studi",
+            "nl": "de studie"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Maar bij een beklemtoonde i blijft de dubbele i: lo zio, gli zii (de oom)."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-co-go",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -co en -go",
+    "summary": "Meervoud soms -chi/-ghi (harde klank), soms -ci/-gi (zachte klank). Geen sluitende regel — leer per woord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij woorden op -co en -go blijft de klank soms hard (dan komt er een h bij: -chi / -ghi) en verandert hij soms naar een zachte klank (-ci / -gi). Er is geen sluitende regel; hieronder een lijst."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "hard: -chi / -ghi",
+          "zacht: -ci / -gi"
+        ],
+        "rows": [
+          [
+            "l'albergo → gli alberghi",
+            "l'amico → gli amici"
+          ],
+          [
+            "il cuoco → i cuochi",
+            "il medico → i medici"
+          ],
+          [
+            "il lago → i laghi",
+            "il nemico → i nemici"
+          ],
+          [
+            "il fungo → i funghi",
+            "il Greco → i Greci"
+          ],
+          [
+            "il dialogo → i dialoghi",
+            "lo psicologo → gli psicologi"
+          ],
+          [
+            "il Tedesco → i Tedeschi",
+            "il sindaco → i sindaci"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-cia-gia",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -cia en -gia",
+    "summary": "Klemtoon vóór de uitgang: i vervalt (le arance). Klinker vóór c/g of beklemtoonde i: i blijft (le camicie, le farmacie).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Ligt de klemtoon op de lettergreep vóór -cia / -gia, dan vervalt de i in het meervoud: l'arancia → le arance, la faccia → le facce, la mancia → le mance, la spiaggia → le spiagge."
+      },
+      {
+        "kind": "text",
+        "body": "Staat er onmiddellijk vóór de c of g een klinker, dan blijft de i geschreven: la camicia → le camicie, la valigia → le valigie, la ciliegia → le ciliegie."
+      },
+      {
+        "kind": "text",
+        "body": "En als de i beklemtoond is, blijft hij uiteraard staan: la bugia → le bugie, la farmacia → le farmacie."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-onregelmatig",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Totaal onregelmatige vormen",
+    "summary": "Een klein aantal woorden met een geheel afwijkend meervoud.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "l'uomo, gli uomini",
+            "nl": "de man, de mannen"
+          },
+          {
+            "it": "l'arma, le armi",
+            "nl": "het wapen"
+          },
+          {
+            "it": "il bue, i buoi",
+            "nl": "de os"
+          },
+          {
+            "it": "il dio, gli dei",
+            "nl": "de god"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-samenstellingen",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Samenstellingen",
+    "summary": "Meestal een gewoon meervoud, net als niet-samengestelde woorden.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il francobollo, i francobolli",
+            "nl": "de postzegel"
+          },
+          {
+            "it": "il grattacielo, i grattacieli",
+            "nl": "de wolkenkrabber"
+          },
+          {
+            "it": "l'asciugamano, gli asciugamani",
+            "nl": "de handdoek"
+          },
+          {
+            "it": "il marciapiede, i marciapiedi",
+            "nl": "de stoep"
+          },
+          {
+            "it": "il terremoto, i terremoti",
+            "nl": "de aardbeving"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-vrouwelijke-vorm",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "De vrouwelijke vorm",
+    "summary": "-o → -a; woorden op -e blijven gelijk of worden -a/-essa; -tore → -trice; plus onregelmatige gevallen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij persoonsaanduidingen wordt de vrouwelijke vorm meestal gemaakt door de eind-o te vervangen door -a: l'amico → l'amica, il bambino → la bambina, il nonno → la nonna, lo zio → la zia, il segretario → la segretaria."
+      },
+      {
+        "kind": "text",
+        "body": "Bij veel woorden op -e is de vrouwelijke vorm gelijk aan de mannelijke: il cantante / la cantante, il cliente / la cliente, il nipote / la nipote, l'ospite (m/v)."
+      },
+      {
+        "kind": "text",
+        "body": "Sommige woorden op -e krijgen -a: il cameriere → la cameriera, l'infermiere → l'infermiera, il padrone → la padrona, il signore → la signora."
+      },
+      {
+        "kind": "table",
+        "caption": "Vrouwelijk op -essa en -trice",
+        "head": [
+          "mannelijk",
+          "vrouwelijk"
+        ],
+        "rows": [
+          [
+            "lo studente",
+            "la studentessa"
+          ],
+          [
+            "il professore",
+            "la professoressa"
+          ],
+          [
+            "il barone",
+            "la baronessa"
+          ],
+          [
+            "il dottore",
+            "la dottoressa"
+          ],
+          [
+            "l'autore",
+            "l'autrice (-tore → -trice)"
+          ],
+          [
+            "il direttore",
+            "la direttrice"
+          ],
+          [
+            "il pittore",
+            "la pittrice"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Onregelmatig: il cane → la cagna, il dio → la dea, l'eroe → l'eroina, il re → la regina."
+      },
+      {
+        "kind": "text",
+        "body": "Twee aparte woorden voor mannelijk en vrouwelijk: il fratello / la sorella, il marito / la moglie, il maschio / la femmina, il padre / la madre, l'uomo / la donna."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-geslacht-e",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Geslacht van woorden op -e",
+    "summary": "Woorden op -ione zijn bijna altijd vrouwelijk; woorden op -ore meestal mannelijk.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij woorden op -e kun je het geslacht niet aan de uitgang zien, maar er zijn hulpregels. Vrijwel alle woorden op -ione zijn vrouwelijk (uitzondering: il milione)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "la lezione",
+            "nl": "de les"
+          },
+          {
+            "it": "la nazione",
+            "nl": "de natie"
+          },
+          {
+            "it": "la situazione",
+            "nl": "de situatie"
+          },
+          {
+            "it": "l'informazione",
+            "nl": "de informatie"
+          },
+          {
+            "it": "la televisione",
+            "nl": "de televisie"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De meeste woorden op -ore zijn daarentegen mannelijk: l'amore (de liefde), il colore (de kleur), il dolore (de pijn), il valore (de waarde)."
+      }
     ]
   }
 ]
