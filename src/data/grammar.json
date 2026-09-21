@@ -2638,5 +2638,711 @@
         "body": "Voor het onderscheid ochtend/avond voeg je di mattina, del pomeriggio, di sera of di notte toe (of de afkortingen a.m. / p.m.). Op stations, vliegvelden en radio gebruikt men de officiële 24-uursindeling: le sedici e quarantacinque (16.45)."
       }
     ]
+  },
+  {
+    "id": "vnw-aanwijzend",
+    "category": "8. Het voornaamwoord",
+    "title": "Het aanwijzend voornaamwoord",
+    "summary": "questo (deze/dit) voor dichtbij, quello (die/dat) voor veraf; quello verkort als bello en het lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste aanwijzende voornaamwoorden zijn questo (deze/dit, dichtbij) en quello (die/dat, veraf). Beide kunnen bijvoeglijk (met het naamwoord) en zelfstandig (zonder) gebruikt worden. questo gedraagt zich als een bnw op -o; quello verkort vóór het naamwoord net als bello en het bepaald lidwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "quello vóór het naamwoord",
+        "head": [
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "quel libro",
+            "quei libri"
+          ],
+          [
+            "quello studente",
+            "quegli studenti"
+          ],
+          [
+            "quell'uomo",
+            "quegli uomini"
+          ],
+          [
+            "quella donna",
+            "quelle donne"
+          ],
+          [
+            "quell'amica",
+            "quelle amiche"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Questo giornale è di ieri.",
+            "nl": "Deze krant is van gisteren."
+          },
+          {
+            "it": "Odio quel ragazzo.",
+            "nl": "Ik haat die jongen."
+          },
+          {
+            "it": "È bello quello specchio.",
+            "nl": "Die spiegel is mooi."
+          },
+          {
+            "it": "Non voglio il tuo orologio, ma quello di mio padre.",
+            "nl": "Ik wil niet jouw horloge, maar dat van mijn vader."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "In de schrijftaal gebruikt men ciò (dat, dit, dat wat) voor het zelfstandige questo/quello. ciò en quello dienen ook vaak als antecedent van een betrekkelijk voornaamwoord: Ciò che dici non è vero (Wat je zegt is niet waar)."
+      }
+    ]
+  },
+  {
+    "id": "vnw-betrekkelijk",
+    "category": "8. Het voornaamwoord",
+    "title": "Het betrekkelijk voornaamwoord",
+    "summary": "che (onderwerp/lijdend vw.), cui (na een voorzetsel), il quale (om verwarring te vermijden) en chi (zonder antecedent).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "che is het meest gebruikte, onveranderlijke betrekkelijke voornaamwoord; het slaat terug op personen en zaken en kan onderwerp of lijdend voorwerp zijn: C'è un signore che l'attende. L'orologio che hai comprato. Slaat het terug op een hele zin, dan komt il che: Dormiamo bene, il che è magnifico."
+      },
+      {
+        "kind": "text",
+        "body": "Na een voorzetsel gebruik je cui (onveranderlijk): la macchina con cui viaggiamo; una cosa di cui dobbiamo parlare; il motivo per cui... Bij a cui mag a wegvallen. Met een lidwoord ervoor drukt cui bezit uit: il libro il cui scrittore è famoso."
+      },
+      {
+        "kind": "text",
+        "body": "che en cui kunnen vervangen worden door il quale, la quale, del quale, con il quale enz. — vaak om onduidelijkheid te vermijden (het lidwoord verraadt geslacht en getal) of als het antecedent ver weg staat: Hanno invitato la moglie di Mario, la quale è professoressa."
+      },
+      {
+        "kind": "text",
+        "body": "chi is het enige betrekkelijk voornaamwoord zonder antecedent; het verwijst naar mensen en komt veel voor in spreekwoorden: Chi cerca trova. Ride ben chi ride l'ultimo. In plaats van chi kun je quello che, colui che, coloro che gebruiken."
+      }
+    ]
+  },
+  {
+    "id": "vnw-onderwerp",
+    "category": "8. Het voornaamwoord",
+    "title": "Persoonlijk voornaamwoord als onderwerp",
+    "summary": "io, tu, lui/lei, noi, voi, loro; meestal weggelaten, alleen bij nadruk of onduidelijkheid. Lei/Loro zijn de beleefdheidsvormen.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Onderwerpsvormen",
+        "head": [
+          "persoon",
+          "voornaamwoord"
+        ],
+        "rows": [
+          [
+            "1e enkelvoud",
+            "io (ik)"
+          ],
+          [
+            "2e enkelvoud",
+            "tu (jij)"
+          ],
+          [
+            "3e enkelvoud",
+            "lui (hij) / lei (zij)"
+          ],
+          [
+            "beleefd",
+            "Lei (u)"
+          ],
+          [
+            "1e meervoud",
+            "noi (wij)"
+          ],
+          [
+            "2e meervoud",
+            "voi (jullie)"
+          ],
+          [
+            "3e meervoud",
+            "loro (zij)"
+          ],
+          [
+            "beleefd mv.",
+            "Loro (u)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het onderwerpsvoornaamwoord wordt normaal weggelaten; je gebruikt het alleen als het onderwerp onduidelijk is of nadruk heeft, of na woordjes als (ne)anche: Io non sopporto il fumo. E tu, dove vai? Neanche loro lo sanno. In de schrijftaal kom je ook egli/ella (personen) en esso/essa (dingen) tegen."
+      },
+      {
+        "kind": "text",
+        "body": "Lei en Loro zijn de beleefdheidsvormen (met of zonder hoofdletter). Lei is oorspronkelijk vrouwelijk, maar bij een man staat het bijbehorende deelwoord of bijvoeglijk naamwoord in de mannelijke vorm. Het onpersoonlijke 'het' wordt niet met een apart woord uitgedrukt: Fa bel tempo. Chi è? Sono io."
+      }
+    ]
+  },
+  {
+    "id": "vnw-voorwerp",
+    "category": "8. Het voornaamwoord",
+    "title": "Lijdend en meewerkend voorwerp",
+    "summary": "Onbeklemtoonde vormen (mi, ti, lo/la, gli/le, ci, vi, li/le, gli) en beklemtoonde (a me, me ...). De onbeklemtoonde komen het meest voor.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De persoonlijke voornaamwoorden hebben ook een meewerkend voorwerp (datief) en een lijdend voorwerp (accusatief), elk in een onbeklemtoonde (forme atone) en een beklemtoonde vorm (forme toniche). De onbeklemtoonde komen het vaakst voor; de beklemtoonde gebruik je bij nadruk of na een voorzetsel."
+      },
+      {
+        "kind": "table",
+        "caption": "Voorwerpsvormen",
+        "head": [
+          "persoon",
+          "meew. onbekl.",
+          "lijd. onbekl.",
+          "meew. beklemt.",
+          "lijd. beklemt."
+        ],
+        "rows": [
+          [
+            "1e ev",
+            "mi",
+            "mi",
+            "a me",
+            "me"
+          ],
+          [
+            "2e ev",
+            "ti",
+            "ti",
+            "a te",
+            "te"
+          ],
+          [
+            "3e ev m.",
+            "gli",
+            "lo",
+            "a lui",
+            "lui"
+          ],
+          [
+            "3e ev v.",
+            "le",
+            "la",
+            "a lei",
+            "lei"
+          ],
+          [
+            "1e mv",
+            "ci",
+            "ci",
+            "a noi",
+            "noi"
+          ],
+          [
+            "2e mv",
+            "vi",
+            "vi",
+            "a voi",
+            "voi"
+          ],
+          [
+            "3e mv m.",
+            "gli",
+            "li",
+            "a loro",
+            "loro"
+          ],
+          [
+            "3e mv v.",
+            "gli",
+            "le",
+            "a loro",
+            "loro"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Carlo non mi saluta mai.",
+            "nl": "Carlo groet me nooit."
+          },
+          {
+            "it": "Gli vuoi ancora bene?",
+            "nl": "Houd je nog van hem?"
+          },
+          {
+            "it": "Lo vediamo domani.",
+            "nl": "We zien hem morgen."
+          },
+          {
+            "it": "Le scrive una lettera.",
+            "nl": "Hij schrijft haar/u een brief."
+          },
+          {
+            "it": "Li vedrò domani.",
+            "nl": "Ik zal ze morgen zien."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "lo en la worden l' vóór een klinker of h; de meervoudsvormen (li, le) worden nooit afgekapt. lo pronominaliseert ook een hele zin of een bijvoeglijk naamwoord: Verrà? Non lo so ancora. Puoi venire? Lo spero."
+      }
+    ]
+  },
+  {
+    "id": "vnw-combinaties",
+    "category": "8. Het voornaamwoord",
+    "title": "Combinaties van voornaamwoorden",
+    "summary": "Meewerkend voorop, met klankverandering naar e: mi + lo → me lo; gli/le + lo → glielo. Ook met ne: me ne, gliene.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Meewerkend en lijdend voorwerp kunnen gecombineerd worden. Het meewerkend voorwerp komt voorop en de klinker verandert in e (mi + lo → me lo). gli en le worden vóór lo/la/li/le altijd gliel...: glielo, gliela, glieli, gliele."
+      },
+      {
+        "kind": "table",
+        "caption": "Combinaties",
+        "head": [
+          "+",
+          "lo",
+          "la",
+          "li",
+          "le"
+        ],
+        "rows": [
+          [
+            "mi",
+            "me lo",
+            "me la",
+            "me li",
+            "me le"
+          ],
+          [
+            "ti",
+            "te lo",
+            "te la",
+            "te li",
+            "te le"
+          ],
+          [
+            "ci",
+            "ce lo",
+            "ce la",
+            "ce li",
+            "ce le"
+          ],
+          [
+            "vi",
+            "ve lo",
+            "ve la",
+            "ve li",
+            "ve le"
+          ],
+          [
+            "gli / le",
+            "glielo",
+            "gliela",
+            "glieli",
+            "gliele"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Me lo hanno detto.",
+            "nl": "Ze hebben het me gezegd."
+          },
+          {
+            "it": "Ce lo vuole prestare.",
+            "nl": "Hij wil het ons lenen."
+          },
+          {
+            "it": "Glielo diremo.",
+            "nl": "We zullen het hem/haar/u zeggen."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ook het partikel ne combineert zo: mi + ne → me ne, gli/le + ne → gliene. Me ne dà una spiegazione? Non gliene hanno parlato."
+      }
+    ]
+  },
+  {
+    "id": "vnw-enclitisch",
+    "category": "8. Het voornaamwoord",
+    "title": "Voornaamwoord vast aan het werkwoord",
+    "summary": "Bij gebiedende wijs, gerundio, deelwoord, infinitief en ecco komt het vnw erachter en vast eraan (chiamalo, eccola).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Soms komt het onbeklemtoonde voornaamwoord achter de werkwoordsvorm en wordt het eraan vastgeschreven (enclitisch): bij de gebiedende wijs, een zelfstandig gebruikt gerundio, een zelfstandig voltooid deelwoord, een infinitief en het woordje ecco: Chiamalo subito! Aspettandolo... È partito senza salutarli. Eccola."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een modaal hulpwerkwoord (dovere, potere, sapere, volere) + infinitief mag het voornaamwoord vóór het hulpwerkwoord óf vast aan de infinitief staan: Non voglio farlo = Non lo voglio fare. Possiamo darglielo = Glielo possiamo dare. Een cluster blijft wel onscheidbaar. Ook constructies met a en de partikels ne/ci gedragen zich zo: Lo vado a prendere = Vado a prenderlo. Gliene voglio parlare = Voglio parlargliene."
+      }
+    ]
+  },
+  {
+    "id": "vnw-wederkerend",
+    "category": "8. Het voornaamwoord",
+    "title": "Het wederkerend voornaamwoord",
+    "summary": "mi, ti, si, ci, vi, si als het voornaamwoord naar het onderwerp verwijst; beklemtoond sé; meervoud kan 'elkaar' betekenen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Verwijst het voornaamwoord naar dezelfde persoon als het onderwerp, dan is het wederkerend: mi, ti, si, ci, vi, si."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Mi alzo alle sette.",
+            "nl": "Ik sta om zeven uur op."
+          },
+          {
+            "it": "Ti diverti?",
+            "nl": "Amuseer je je?"
+          },
+          {
+            "it": "Si preoccupa.",
+            "nl": "Hij maakt zich zorgen."
+          },
+          {
+            "it": "Ci scusiamo.",
+            "nl": "Wij verontschuldigen ons."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Van de derde persoon bestaat naast si een beklemtoond sé (met accent): Luigi non pensa che a sé. Met stesso krijgt het geen accent: Carlo fotografa se stesso. De meervoudsvormen kunnen ook 'elkaar' betekenen: Ci mandiamo delle cartoline (We sturen elkaar kaarten)."
+      }
+    ]
+  },
+  {
+    "id": "bezit-vormen",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Vormen van het bezittelijk voornaamwoord",
+    "summary": "mio, tuo, suo, nostro, vostro, loro; ze passen zich aan aan het naamwoord (niet aan de bezitter) en hebben meestal een lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bezittelijke voornaamwoorden gedragen zich als bijvoeglijke naamwoorden: ze passen zich in geslacht en getal aan aan het zelfstandig naamwoord waar ze bij horen — dus niet, zoals in het Nederlands, aan de 'bezitter'. Meestal staat er een lidwoord voor."
+      },
+      {
+        "kind": "table",
+        "caption": "De vormen",
+        "head": [
+          "betekenis",
+          "m. ev.",
+          "v. ev.",
+          "m. mv.",
+          "v. mv."
+        ],
+        "rows": [
+          [
+            "mijn",
+            "mio",
+            "mia",
+            "miei",
+            "mie"
+          ],
+          [
+            "jouw",
+            "tuo",
+            "tua",
+            "tuoi",
+            "tue"
+          ],
+          [
+            "zijn / haar / uw",
+            "suo",
+            "sua",
+            "suoi",
+            "sue"
+          ],
+          [
+            "onze",
+            "nostro",
+            "nostra",
+            "nostri",
+            "nostre"
+          ],
+          [
+            "jullie",
+            "vostro",
+            "vostra",
+            "vostri",
+            "vostre"
+          ],
+          [
+            "hun",
+            "loro",
+            "loro",
+            "loro",
+            "loro"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il mio libro.",
+            "nl": "Mijn boek."
+          },
+          {
+            "it": "La tua bicicletta.",
+            "nl": "Jouw fiets."
+          },
+          {
+            "it": "I suoi occhiali.",
+            "nl": "Zijn / haar / uw bril."
+          },
+          {
+            "it": "I nostri studenti.",
+            "nl": "Onze studenten."
+          },
+          {
+            "it": "Il loro tempo.",
+            "nl": "Hun tijd."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "I suoi libri kan 'zijn', 'haar' of 'uw' boeken betekenen; de context beslist. Is de bezitter gelijk aan het onderwerp, dan kan proprio (eigen). Zelfstandig gebruikt vervalt meestal het lidwoord: Di chi è questo libro? È mio. Non ho la biro, mi presti la tua? Het bezittelijk voornaamwoord wordt minder gebruikt dan in het Nederlands: als de bezitter duidelijk is, laat je het weg: Ho ritrovato la valigia. Ti lavi le mani?"
+      }
+    ]
+  },
+  {
+    "id": "bezit-lidwoord",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Lidwoord bij het bezittelijk voornaamwoord",
+    "summary": "Geen lidwoord bij nauwe verwantschapsnamen in het enkelvoud (mio nonno), wél in meervoud en enkele andere gevallen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Normaal staat er een lidwoord voor. Maar bij nauwe verwantschapsnamen in het enkelvoud laat je het weg: padre, madre, figlio, figlia, zio, zia, nonno, nonna, marito, moglie, fratello, sorella. Bij cognato, suocero, cugino, nipote enz. mag het met of zonder: Mio nonno è vecchio. Come si chiama tua figlia? Suo marito lavora?"
+      },
+      {
+        "kind": "text",
+        "body": "Bij familieleden gebruik je tóch het lidwoord als: ze in het meervoud staan (i tuoi fratelli), ze een verkleinvorm hebben (il vostro fratellino), ze nader bepaald zijn door een eigennaam, bijvoeglijk naamwoord of bijzin (il mio fratello Mario; il tuo zio che abita a Roma), het voornaamwoord loro is (la loro madre), of een koosnaam gebruikt wordt (il mio babbo)."
+      },
+      {
+        "kind": "text",
+        "body": "Bezittelijke voornaamwoorden combineren met een lidwoord, aanwijzend/onbepaald voornaamwoord of getal: un mio amico (een vriend van mij), quel suo eterno sigaro, alcune tue amiche, due tuoi vestiti. Bij het aanspreken vervalt het lidwoord en staat het meestal achter het naamwoord: amico mio. Vaste uitdrukkingen zonder lidwoord: a casa tua, a mio parere, per colpa tua, in nostro favore."
+      }
+    ]
+  },
+  {
+    "id": "vraag-vnw",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Vragend en uitroepend voornaamwoord",
+    "summary": "chi (wie), che / cosa (wat), quale / quali (welke), quanto (hoeveel).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste zijn chi (wie), che / che cosa / cosa (wat), quale / quali (welke) en quanto (hoeveel). chi gebruik je voor personen (onveranderlijk, ook na een voorzetsel); che voor dingen, zelfstandig en bijvoeglijk. quanto heeft vier uitgangen."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Chi sei?",
+            "nl": "Wie ben je?"
+          },
+          {
+            "it": "Con chi vai al cinema?",
+            "nl": "Met wie ga je naar de film?"
+          },
+          {
+            "it": "Che cosa vuole?",
+            "nl": "Wat wil hij?"
+          },
+          {
+            "it": "Che caldo!",
+            "nl": "Wat warm!"
+          },
+          {
+            "it": "Quale macchina vuole?",
+            "nl": "Welke auto wilt u?"
+          },
+          {
+            "it": "Quanto costa?",
+            "nl": "Hoeveel kost het?"
+          },
+          {
+            "it": "Quante volte devo dirtelo?",
+            "nl": "Hoe vaak moet ik het je zeggen?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "onbepaald-vnw",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Onbepaald voornaamwoord",
+    "summary": "qualche en ogni (alleen bijvoeglijk, enkelvoud); alcuno, nessuno, altro, molto, tutto; qualcuno, qualcosa, niente (alleen zelfstandig).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "qualche (enkele) en ogni (iedere) worden alleen bijvoeglijk gebruikt, zijn onveranderlijk en hebben altijd een enkelvoud achter zich: Qualche volta. Qualche libro. Ogni giorno. Ogni settimana."
+      },
+      {
+        "kind": "text",
+        "body": "Bijvoeglijk én zelfstandig: alcuno, ciascuno, nessuno, altro, poco / po', parecchio, molto, troppo, più, meno, tutto. Na tutto komt een lidwoord; tutto + getal wordt verbonden met e."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Nessuno è responsabile.",
+            "nl": "Niemand is verantwoordelijk."
+          },
+          {
+            "it": "Un'altra volta.",
+            "nl": "Een andere keer."
+          },
+          {
+            "it": "Vuoi un po' di vino?",
+            "nl": "Wil je wat wijn?"
+          },
+          {
+            "it": "Tutti gli studenti.",
+            "nl": "Alle studenten."
+          },
+          {
+            "it": "Sono venuti tutti e tre.",
+            "nl": "Ze zijn alle drie gekomen."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Alleen zelfstandig: qualcuno (iemand), uno, ognuno (iedereen), qualcosa (iets), niente en nulla (niets): C'è qualcuno? Ognuno ha i suoi problemi. È successo qualcosa. Na qualcosa + bijvoeglijk naamwoord komt di: Hai letto qualcosa di bello? qualunque en qualsiasi (welke dan ook) zijn onveranderlijk; na qualunque en dovunque komt een conjunctief: Qualunque cosa dica, non ti credo. Dovunque vada, sarà felice."
+      }
+    ]
+  },
+  {
+    "id": "voegwoord",
+    "category": "10. Het voegwoord",
+    "title": "Het voegwoord",
+    "summary": "Verbinden woorden of zinsdelen: e, che, ma, o; en onderschikkende zoals affinché, benché, come se (vaak met conjunctief).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Voegwoorden zijn onveranderlijk en verbinden twee woorden of zinsdelen. De meest frequente zijn e(d) (en), che (dat), ma (maar) en o(ppure) (of): Vado e torno. Penso che verranno insieme. Lui è sicuro, ma io no. Vai in macchina o in treno?"
+      },
+      {
+        "kind": "table",
+        "caption": "Belangrijke voegwoorden",
+        "head": [
+          "voegwoord",
+          "betekenis"
+        ],
+        "rows": [
+          [
+            "affinché (+ conj.)",
+            "opdat"
+          ],
+          [
+            "altrimenti",
+            "anders"
+          ],
+          [
+            "appena",
+            "zodra"
+          ],
+          [
+            "benché (+ conj.)",
+            "hoewel"
+          ],
+          [
+            "come se (+ conj.)",
+            "alsof"
+          ],
+          [
+            "dato che / poiché / siccome",
+            "aangezien"
+          ],
+          [
+            "dunque / quindi",
+            "dus, daarom"
+          ],
+          [
+            "mentre",
+            "terwijl"
+          ],
+          [
+            "né",
+            "noch"
+          ],
+          [
+            "nonostante che (+ conj.)",
+            "niettegenstaande"
+          ],
+          [
+            "però",
+            "maar"
+          ],
+          [
+            "piuttosto",
+            "liever"
+          ],
+          [
+            "prima che (+ conj.)",
+            "voordat"
+          ],
+          [
+            "quando",
+            "wanneer"
+          ],
+          [
+            "se",
+            "als"
+          ],
+          [
+            "perché",
+            "want, omdat (of: opdat + conj.)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Parla più forte, affinché ti sentano.",
+            "nl": "Praat harder, opdat ze je horen."
+          },
+          {
+            "it": "Ti telefono appena posso.",
+            "nl": "Ik bel je zodra ik kan."
+          },
+          {
+            "it": "Benché faccia brutto tempo, vado a fare quattro passi.",
+            "nl": "Hoewel het slecht weer is, ga ik een stukje wandelen."
+          },
+          {
+            "it": "Mi trattava come se fossi uno sconosciuto.",
+            "nl": "Hij behandelde me alsof ik een onbekende was."
+          }
+        ]
+      }
+    ]
   }
 ]
