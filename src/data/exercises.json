@@ -1,0 +1,518 @@
+[
+  {
+    "chapter": "lidwoord-vormen",
+    "prompt": "Ho comprato ___ zaino nuovo.",
+    "answer": "uno",
+    "choices": [
+      "un",
+      "lo",
+      "il"
+    ],
+    "why": "uno: onbepaald lidwoord (mannelijk) voor s + medeklinker, z of ps.",
+    "nl": "Ik heb een nieuwe rugzak gekocht."
+  },
+  {
+    "chapter": "lidwoord-vormen",
+    "prompt": "Dov'è ___ amica di Marco?",
+    "answer": "l'",
+    "choices": [
+      "la",
+      "le",
+      "una"
+    ],
+    "why": "l': voor een klinker (mannelijk of vrouwelijk enkelvoud).",
+    "nl": "Waar is de vriendin van Marco?"
+  },
+  {
+    "chapter": "lidwoord-vormen",
+    "prompt": "Gli ___ sono arrivati.",
+    "answer": "studenti",
+    "choices": [
+      "studente",
+      "studenta",
+      "studentes"
+    ],
+    "why": "gli hoort bij een mannelijk meervoud (studente → studenti).",
+    "nl": "De studenten zijn aangekomen."
+  },
+  {
+    "chapter": "lidwoord-vormen",
+    "prompt": "Vorrei ___ caffè, per favore.",
+    "answer": "un",
+    "choices": [
+      "uno",
+      "lo",
+      "il"
+    ],
+    "why": "un: onbepaald lidwoord (mannelijk) voor een gewone medeklinker of klinker.",
+    "nl": "Ik wil graag een koffie, alstublieft."
+  },
+  {
+    "chapter": "lidwoord-delend",
+    "prompt": "C'è ___ zucchero?",
+    "answer": "dello",
+    "choices": [
+      "del",
+      "della",
+      "dei"
+    ],
+    "why": "di + lo = dello (delend lidwoord, voor s impura of z).",
+    "nl": "Is er suiker?"
+  },
+  {
+    "chapter": "lidwoord-delend",
+    "prompt": "Ho comprato ___ tulipani.",
+    "answer": "dei",
+    "choices": [
+      "degli",
+      "delle",
+      "del"
+    ],
+    "why": "di + i = dei (partitief, mannelijk meervoud).",
+    "nl": "Ik heb (wat) tulpen gekocht."
+  },
+  {
+    "chapter": "voorzetsel-samentrekking",
+    "prompt": "Il libro è ___ tavolo.",
+    "answer": "sul",
+    "choices": [
+      "sullo",
+      "nella",
+      "al"
+    ],
+    "why": "su + il = sul.",
+    "nl": "Het boek ligt op tafel."
+  },
+  {
+    "chapter": "voorzetsel-samentrekking",
+    "prompt": "Torniamo ___ stazione.",
+    "answer": "alla",
+    "choices": [
+      "allo",
+      "alle",
+      "al"
+    ],
+    "why": "a + la = alla.",
+    "nl": "We gaan terug naar het station."
+  },
+  {
+    "chapter": "voorzetsel-samentrekking",
+    "prompt": "Parlo ___ amici.",
+    "answer": "agli",
+    "choices": [
+      "ai",
+      "alle",
+      "allo"
+    ],
+    "why": "a + gli = agli.",
+    "nl": "Ik praat met de vrienden."
+  },
+  {
+    "chapter": "voorzetsel-samentrekking",
+    "prompt": "Vengo ___ Belgio.",
+    "answer": "dal",
+    "choices": [
+      "dallo",
+      "del",
+      "dai"
+    ],
+    "why": "da + il = dal (il Belgio).",
+    "nl": "Ik kom uit België."
+  },
+  {
+    "chapter": "voorzetsel-a",
+    "prompt": "Marco abita ___ Firenze.",
+    "answer": "a",
+    "choices": [
+      "in",
+      "da",
+      "di"
+    ],
+    "why": "Vóór een stad gebruik je a; vóór een land in.",
+    "nl": "Marco woont in Florence."
+  },
+  {
+    "chapter": "voorzetsel-in",
+    "prompt": "Andiamo ___ Italia.",
+    "answer": "in",
+    "choices": [
+      "a",
+      "da",
+      "su"
+    ],
+    "why": "Vóór een landsnaam gebruik je in.",
+    "nl": "We gaan naar Italië."
+  },
+  {
+    "chapter": "naamwoord-basis",
+    "prompt": "un libro, due ___.",
+    "answer": "libri",
+    "choices": [
+      "libre",
+      "libris",
+      "libro"
+    ],
+    "why": "Mannelijk -o → -i in het meervoud.",
+    "nl": "een boek, twee boeken."
+  },
+  {
+    "chapter": "naamwoord-basis",
+    "prompt": "una casa, tre ___.",
+    "answer": "case",
+    "choices": [
+      "casi",
+      "casa",
+      "cases"
+    ],
+    "why": "Vrouwelijk -a → -e in het meervoud.",
+    "nl": "een huis, drie huizen."
+  },
+  {
+    "chapter": "naamwoord-basis",
+    "prompt": "la notte, le ___.",
+    "answer": "notti",
+    "choices": [
+      "notte",
+      "notta",
+      "nottes"
+    ],
+    "why": "Woorden op -e → -i in het meervoud.",
+    "nl": "de nacht, de nachten."
+  },
+  {
+    "chapter": "naamwoord-co-go",
+    "prompt": "l'amico, gli ___.",
+    "answer": "amici",
+    "choices": [
+      "amichi",
+      "amico",
+      "amics"
+    ],
+    "why": "amico is een uitzondering: -co → -ci (zachte klank).",
+    "nl": "de vriend, de vrienden."
+  },
+  {
+    "chapter": "bnw-basis",
+    "prompt": "una macchina ___ (rood).",
+    "answer": "rossa",
+    "choices": [
+      "rosso",
+      "rosse",
+      "rossi"
+    ],
+    "why": "Bnw op -o past zich aan: vrouwelijk enkelvoud → -a.",
+    "nl": "een rode auto."
+  },
+  {
+    "chapter": "bnw-basis",
+    "prompt": "i ragazzi ___ (Italiaans).",
+    "answer": "italiani",
+    "choices": [
+      "italiane",
+      "italiano",
+      "italiana"
+    ],
+    "why": "Mannelijk meervoud → -i.",
+    "nl": "de Italiaanse jongens."
+  },
+  {
+    "chapter": "bnw-basis",
+    "prompt": "le scarpe ___ (Nederlands).",
+    "answer": "olandesi",
+    "choices": [
+      "olandese",
+      "olandesa",
+      "olandeso"
+    ],
+    "why": "Bnw op -e: meervoud → -i (mannelijk en vrouwelijk gelijk).",
+    "nl": "de Nederlandse schoenen."
+  },
+  {
+    "chapter": "bnw-bello-buono",
+    "prompt": "un ___ libro (mooi).",
+    "answer": "bel",
+    "choices": [
+      "bello",
+      "bell'",
+      "begli"
+    ],
+    "why": "bello vóór een il-woord wordt bel.",
+    "nl": "een mooi boek."
+  },
+  {
+    "chapter": "bnw-bello-buono",
+    "prompt": "i ___ occhi (mooi).",
+    "answer": "begli",
+    "choices": [
+      "bei",
+      "belli",
+      "bell'"
+    ],
+    "why": "bello vóór een gli-woord wordt begli.",
+    "nl": "de mooie ogen."
+  },
+  {
+    "chapter": "ww-presente",
+    "prompt": "Io ___ (parlare) italiano.",
+    "answer": "parlo",
+    "choices": [
+      "parli",
+      "parla",
+      "parlano"
+    ],
+    "why": "parlare, io-vorm: stam + -o.",
+    "nl": "Ik spreek Italiaans."
+  },
+  {
+    "chapter": "ww-presente",
+    "prompt": "Noi ___ (dormire).",
+    "answer": "dormiamo",
+    "choices": [
+      "dormite",
+      "dormono",
+      "dormo"
+    ],
+    "why": "-ire, noi-vorm: -iamo.",
+    "nl": "Wij slapen."
+  },
+  {
+    "chapter": "ww-presente",
+    "prompt": "Loro ___ (capire).",
+    "answer": "capiscono",
+    "choices": [
+      "capono",
+      "capite",
+      "capisce"
+    ],
+    "why": "capire hoort bij de -isc-groep: loro → capiscono.",
+    "nl": "Zij begrijpen."
+  },
+  {
+    "chapter": "ww-presente",
+    "prompt": "Tu ___ (prendere) il caffè.",
+    "answer": "prendi",
+    "choices": [
+      "prende",
+      "prendete",
+      "prendo"
+    ],
+    "why": "-ere, tu-vorm: -i.",
+    "nl": "Jij neemt de koffie."
+  },
+  {
+    "chapter": "bijlage-avere-essere",
+    "prompt": "Io ___ belga.",
+    "answer": "sono",
+    "choices": [
+      "sei",
+      "è",
+      "siamo"
+    ],
+    "why": "essere, io → sono.",
+    "nl": "Ik ben Belg."
+  },
+  {
+    "chapter": "bijlage-avere-essere",
+    "prompt": "Loro ___ fame.",
+    "answer": "hanno",
+    "choices": [
+      "ho",
+      "avete",
+      "abbiamo"
+    ],
+    "why": "avere, loro → hanno.",
+    "nl": "Zij hebben honger."
+  },
+  {
+    "chapter": "bijlage-avere-essere",
+    "prompt": "Tu ___ stanco?",
+    "answer": "sei",
+    "choices": [
+      "sono",
+      "è",
+      "siete"
+    ],
+    "why": "essere, tu → sei.",
+    "nl": "Ben je moe?"
+  },
+  {
+    "chapter": "bijlage-avere-essere",
+    "prompt": "Noi ___ tempo.",
+    "answer": "abbiamo",
+    "choices": [
+      "avete",
+      "hanno",
+      "ho"
+    ],
+    "why": "avere, noi → abbiamo.",
+    "nl": "We hebben tijd."
+  },
+  {
+    "chapter": "ww-hulp-voltooid",
+    "prompt": "Anna ___ partita.",
+    "answer": "è",
+    "choices": [
+      "ha",
+      "hanno",
+      "sono"
+    ],
+    "why": "Onovergankelijk → essere; het deelwoord past zich aan (partita).",
+    "nl": "Anna is vertrokken."
+  },
+  {
+    "chapter": "ww-hulp-voltooid",
+    "prompt": "Noi ___ mangiato a Firenze.",
+    "answer": "abbiamo",
+    "choices": [
+      "siamo",
+      "avete",
+      "hanno"
+    ],
+    "why": "Overgankelijk → avere; geen aanpassing.",
+    "nl": "Wij hebben in Florence gegeten."
+  },
+  {
+    "chapter": "ww-hulp-voltooid",
+    "prompt": "Le ragazze sono ___ (partire).",
+    "answer": "partite",
+    "choices": [
+      "partiti",
+      "partito",
+      "partita"
+    ],
+    "why": "Met essere past het deelwoord zich aan: vrouwelijk meervoud → -e.",
+    "nl": "De meisjes zijn vertrokken."
+  },
+  {
+    "chapter": "ww-imperfetto",
+    "prompt": "Da bambina ___ (cantare) sempre.",
+    "answer": "cantava",
+    "choices": [
+      "cantavo",
+      "canta",
+      "canterà"
+    ],
+    "why": "imperfetto -are, lui/lei → -ava.",
+    "nl": "Als kind zong ze altijd."
+  },
+  {
+    "chapter": "ww-imperfetto",
+    "prompt": "Noi ___ (essere) felici.",
+    "answer": "eravamo",
+    "choices": [
+      "eravate",
+      "erano",
+      "siamo"
+    ],
+    "why": "essere is onregelmatig in de imperfetto: noi → eravamo.",
+    "nl": "We waren gelukkig."
+  },
+  {
+    "chapter": "ww-futuro",
+    "prompt": "Domani ti ___ (telefonare).",
+    "answer": "telefonerò",
+    "choices": [
+      "telefono",
+      "telefonavo",
+      "telefonerai"
+    ],
+    "why": "futuro -are, io → -erò.",
+    "nl": "Morgen bel ik je."
+  },
+  {
+    "chapter": "ww-futuro-onregelmatig",
+    "prompt": "___ (essere) le dieci.",
+    "answer": "Saranno",
+    "choices": [
+      "Sono",
+      "Erano",
+      "Sarà"
+    ],
+    "why": "essere futuro: loro → saranno (ook voor een benadering).",
+    "nl": "Het zal zo'n tien uur zijn."
+  },
+  {
+    "chapter": "ww-conjunctief-vormen",
+    "prompt": "Penso che lui ___ (parlare) inglese.",
+    "answer": "parli",
+    "choices": [
+      "parla",
+      "parlerà",
+      "parlava"
+    ],
+    "why": "Na een mening/twijfel komt de conjunctief: parlare → parli.",
+    "nl": "Ik denk dat hij Engels spreekt."
+  },
+  {
+    "chapter": "ww-conjunctief-vormen",
+    "prompt": "Voglio che tu ___ (venire).",
+    "answer": "venga",
+    "choices": [
+      "vieni",
+      "verrà",
+      "venivi"
+    ],
+    "why": "Na een wil komt de conjunctief: ezelsbrug vengo → venga.",
+    "nl": "Ik wil dat je komt."
+  },
+  {
+    "chapter": "ww-condizionale",
+    "prompt": "___ (volere) un tavolo per due.",
+    "answer": "Vorrei",
+    "choices": [
+      "Voglio",
+      "Vorrà",
+      "Volevo"
+    ],
+    "why": "condizionale van volere (beleefde wens): io → vorrei.",
+    "nl": "Ik zou graag een tafel voor twee willen."
+  },
+  {
+    "chapter": "ww-hulp-voltooid",
+    "prompt": "Barbara? Non ___ ho vista.",
+    "answer": "l'",
+    "choices": [
+      "la",
+      "le",
+      "gli"
+    ],
+    "why": "Lijdend voorwerp la vóór een klinker → l'; het deelwoord past zich aan (vista).",
+    "nl": "Barbara? Ik heb haar niet gezien."
+  },
+  {
+    "chapter": "vnw-voorwerp",
+    "prompt": "Gli occhiali? Non ___ trovo.",
+    "answer": "li",
+    "choices": [
+      "le",
+      "lo",
+      "gli"
+    ],
+    "why": "Lijdend voorwerp, mannelijk meervoud → li.",
+    "nl": "De bril? Ik vind hem niet."
+  },
+  {
+    "chapter": "bezit-lidwoord",
+    "prompt": "___ nonno è vecchio.",
+    "answer": "Mio",
+    "choices": [
+      "Il mio",
+      "I miei",
+      "Mia"
+    ],
+    "why": "Bij nauwe verwantschap in het enkelvoud geen lidwoord: mio nonno.",
+    "nl": "Mijn grootvader is oud."
+  },
+  {
+    "chapter": "bezit-lidwoord",
+    "prompt": "___ macchina è rossa.",
+    "answer": "La mia",
+    "choices": [
+      "Mia",
+      "Il mio",
+      "Le mie"
+    ],
+    "why": "Een gewoon zn (geen verwantschap) krijgt lidwoord + bezittelijk: la mia.",
+    "nl": "Mijn auto is rood."
+  }
+]

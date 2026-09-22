@@ -10,7 +10,10 @@ Speelse trainer voor Italiaanse woordenschat. Gebouwd rond een woordenlijst van
 Het startscherm geeft drie ingangen: **Oefenen** (de quiz), **Woordenlijst**
 (alle woorden per les met vertaling en uitspraak) en **Grammatica** (uitleg
 over lidwoorden, naamwoorden, werkwoordsvervoegingen, voorzetsels en de
-onregelmatige werkwoorden).
+onregelmatige werkwoorden). Bij de grammatica horen **invuloefeningen**: je
+kiest typen of meerkeuze, en bij elk antwoord toont een ?-knop waarom het zo
+is, met een link naar het volledige hoofdstuk (in een nieuw tabblad, via
+`#uitleg=<hoofdstuk-id>`).
 
 - **Drie antwoordvormen**: kiezen uit vier opties, zelf typen, of een zin uit
   losse woorden in de juiste volgorde leggen. Elk apart of door elkaar, en in
@@ -55,7 +58,9 @@ src/
   data/sentences.json  de zinnen, zelfde vorm met woordsoort "sentence"
   data/lessons.json    lestitels
   data/grammar.json    de grammaticahoofdstukken (uitleg, tabellen, voorbeelden)
+  data/exercises.json  invuloefeningen bij de grammatica, met uitleg per vraag
   lib/grammar.ts       de grammatica inladen en per categorie groeperen
+  lib/exercises.ts     de oefeningen inladen en per hoofdstuk groeperen
   lib/text.ts          antwoorden vergelijken, Levenshtein, varianten, zinnen
                        opsplitsen in blokjes
   lib/quiz.ts          vragen bouwen, afleiders kiezen, XP berekenen

@@ -57,6 +57,22 @@ export interface GrammarChapter {
   blocks: GrammarBlock[];
 }
 
+/** Een invuloefening bij een grammaticahoofdstuk. */
+export interface GrammarExercise {
+  /** id van het grammaticahoofdstuk waar dit bij hoort (voor de ?-uitleg) */
+  chapter: string;
+  /** de zin met een gat, aangegeven met ___ */
+  prompt: string;
+  /** het juiste antwoord dat in het gat past */
+  answer: string;
+  /** afleiders voor de meerkeuzevariant (het juiste antwoord komt er automatisch bij) */
+  choices?: string[];
+  /** korte uitleg: waarom is dit het antwoord */
+  why: string;
+  /** vertaling van de hele zin, als hint */
+  nl?: string;
+}
+
 export type Verdict = "correct" | "almost" | "wrong";
 
 export interface Attempt {

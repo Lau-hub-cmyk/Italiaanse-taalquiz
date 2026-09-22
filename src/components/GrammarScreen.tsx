@@ -1,9 +1,10 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { GRAMMAR_BY_CATEGORY } from "../lib/grammar";
+import { CHAPTERS_WITH_EXERCISES, EXERCISES } from "../lib/exercises";
 import { speak } from "../lib/speech";
 import type { GrammarBlock, GrammarChapter } from "../lib/types";
-import { BackBar, Card, SpeakerButton, spring } from "./ui";
+import { BackBar, Button, Card, SpeakerButton, spring } from "./ui";
 
 function BlockView({ block }: { block: GrammarBlock }) {
   if (block.kind === "text") {
@@ -85,9 +86,11 @@ function BlockView({ block }: { block: GrammarBlock }) {
 function ChapterDetail({
   chapter,
   onBack,
+  onPractice,
 }: {
   chapter: GrammarChapter;
   onBack: () => void;
+  onPractice?: () => void;
 }) {
   return (
     <motion.div
@@ -103,19 +106,42 @@ function ChapterDetail({
           <BlockView key={i} block={block} />
         ))}
       </Card>
+      {onPractice && (
+        <Button onClick={onPractice} className="mt-4 w-full !py-3.5">
+          ✏️ Oefen dit hoofdstuk
+        </Button>
+      )}
     </motion.div>
   );
 }
 
-export function GrammarScreen({ onBack }: { onBack: () => void }) {
-  const [openId, setOpenId] = useState<string | null>(null);
+export function GrammarScreen({
+  onBack,
+  onPracticeAll,
+  onPracticeChapter,
+  initialChapterId,
+}: {
+  onBack: () => void;
+  onPracticeAll: () => void;
+  onPracticeChapter: (id: string) => void;
+  initialChapterId?: string;
+}) {
+  const [openId, setOpenId] = useState<string | null>(initialChapterId ?? null);
 
   const open = openId
     ? GRAMMAR_BY_CATEGORY.flatMap((g) => g.chapters).find((c) => c.id === openId)
     : undefined;
 
   if (open) {
-    return <ChapterDetail chapter={open} onBack={() => setOpenId(null)} />;
+    return (
+      <ChapterDetail
+        chapter={open}
+        onBack={() => setOpenId(null)}
+        onPractice={
+          CHAPTERS_WITH_EXERCISES.has(open.id) ? () => onPracticeChapter(open.id) : undefined
+        }
+      />
+    );
   }
 
   return (
@@ -126,6 +152,12 @@ export function GrammarScreen({ onBack }: { onBack: () => void }) {
       className="mx-auto w-full max-w-3xl px-4 pb-16 sm:px-6"
     >
       <BackBar title="Grammatica" onBack={onBack} />
+
+      {EXERCISES.length > 0 && (
+        <Button onClick={onPracticeAll} className="mb-5 w-full !py-3.5">
+          ✏️ Oefen de grammatica ({EXERCISES.length} vragen)
+        </Button>
+      )}
 
       <div className="flex flex-col gap-5">
         {GRAMMAR_BY_CATEGORY.map(({ category, chapters }) => (

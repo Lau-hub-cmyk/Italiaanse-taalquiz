@@ -9,13 +9,23 @@ import { ResultScreen } from "./components/ResultScreen";
 import { StatsScreen } from "./components/StatsScreen";
 import { LibraryScreen } from "./components/LibraryScreen";
 import { GrammarScreen } from "./components/GrammarScreen";
+import { ExerciseScreen } from "./components/ExerciseScreen";
 import { useProgress } from "./hooks";
 import { getProgress, recordSession, update } from "./lib/storage";
 import { buildQuestions, requeue, shuffle } from "./lib/quiz";
 import { WORDS } from "./lib/words";
-import type { Attempt, Options, Question } from "./lib/types";
+import { grammarChapter } from "./lib/grammar";
+import { EXERCISES, exercisesForChapter } from "./lib/exercises";
+import type { Attempt, GrammarExercise, Options, Question } from "./lib/types";
 
-type Screen = "home" | "setup" | "quiz" | "result" | "stats" | "library" | "grammar";
+type Screen = "home" | "setup" | "quiz" | "result" | "stats" | "library" | "grammar" | "exercise";
+
+/** Deep-link: #uitleg=<hoofdstuk-id> opent de grammatica op dat hoofdstuk (nieuw tabblad vanuit een oefening). */
+function deepLinkChapter(): string | null {
+  if (typeof window === "undefined") return null;
+  const h = window.location.hash;
+  return h.startsWith("#uitleg=") ? decodeURIComponent(h.slice("#uitleg=".length)) : null;
+}
 
 const DEFAULTS: Options = {
   lessons: [1],
@@ -29,7 +39,12 @@ const DEFAULTS: Options = {
 
 export default function App() {
   const progress = useProgress();
-  const [screen, setScreen] = useState<Screen>("home");
+  const [deepChapter] = useState(deepLinkChapter);
+  const [screen, setScreen] = useState<Screen>(deepChapter ? "grammar" : "home");
+  const [exerciseSet, setExerciseSet] = useState<{
+    exercises: GrammarExercise[];
+    title: string;
+  } | null>(null);
   const [options, setOptionsState] = useState<Options>(() => ({
     ...DEFAULTS,
     ...getProgress().options,
@@ -140,7 +155,31 @@ export default function App() {
           )}
 
           {screen === "grammar" && (
-            <GrammarScreen key="grammar" onBack={() => setScreen("home")} />
+            <GrammarScreen
+              key="grammar"
+              onBack={() => setScreen("home")}
+              initialChapterId={deepChapter ?? undefined}
+              onPracticeAll={() => {
+                setExerciseSet({ exercises: EXERCISES, title: "Grammatica oefenen" });
+                setScreen("exercise");
+              }}
+              onPracticeChapter={(id) => {
+                setExerciseSet({
+                  exercises: exercisesForChapter(id),
+                  title: `Oefenen: ${grammarChapter(id)?.title ?? "hoofdstuk"}`,
+                });
+                setScreen("exercise");
+              }}
+            />
+          )}
+
+          {screen === "exercise" && exerciseSet && (
+            <ExerciseScreen
+              key="exercise"
+              exercises={exerciseSet.exercises}
+              title={exerciseSet.title}
+              onBack={() => setScreen("grammar")}
+            />
           )}
 
           {screen === "quiz" && (
