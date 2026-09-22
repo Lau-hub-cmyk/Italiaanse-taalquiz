@@ -4162,5 +4162,567 @@
         ]
       }
     ]
+  },
+  {
+    "id": "ww-participio-presente",
+    "category": "11. Het werkwoord",
+    "title": "Het tegenwoordig deelwoord",
+    "summary": "-ante / -ente; veranderlijk en tegenwoordig vrijwel alleen als bijvoeglijk of zelfstandig naamwoord.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Tegenwoordig deelwoord",
+        "head": [
+          "infinitief",
+          "deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ante (parlante)"
+          ],
+          [
+            "-ere",
+            "-ente (temente)"
+          ],
+          [
+            "-ire",
+            "-ente (dormiente)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "una questione importante",
+            "nl": "een belangrijke kwestie"
+          },
+          {
+            "it": "una cantante famosa",
+            "nl": "een beroemde zangeres"
+          },
+          {
+            "it": "la torre pendente",
+            "nl": "de scheve (hangende) toren"
+          },
+          {
+            "it": "un uomo attraente",
+            "nl": "een aantrekkelijke man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-participio-passato",
+    "category": "11. Het werkwoord",
+    "title": "Het verleden deelwoord",
+    "summary": "-ato / -uto / -ito. Kern van de passato prossimo; na essere aanpassen aan het onderwerp, na avere normaal niet.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Verleden deelwoord",
+        "head": [
+          "infinitief",
+          "deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ato (parlato)"
+          ],
+          [
+            "-ere",
+            "-uto (temuto)"
+          ],
+          [
+            "-ire",
+            "-ito (dormito)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het verleden deelwoord vormt met avere of essere de passato prossimo. Na essere past het zich aan aan het onderwerp; na avere normaal niet."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Paolo è nato in Liguria.",
+            "nl": "Paolo is in Ligurië geboren."
+          },
+          {
+            "it": "Le ragazze sono già partite.",
+            "nl": "De meisjes zijn al vertrokken."
+          },
+          {
+            "it": "Abbiamo visto tutti i film.",
+            "nl": "We hebben alle films gezien."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het kan ook zelfstandig (zonder hulpwerkwoord) een bijzin vervangen — vooral in de schrijftaal: Ritornati in Olanda, hanno comprato la macchina. Fatta la colazione, i bambini sono andati a scuola."
+      }
+    ]
+  },
+  {
+    "id": "ww-gerundio",
+    "category": "11. Het werkwoord",
+    "title": "Het gerundio",
+    "summary": "-ando / -endo; gelijktijdige handeling met hetzelfde onderwerp. stare + gerundio = 'bezig zijn'; andare + gerundio = geleidelijk proces.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Gerundio",
+        "head": [
+          "infinitief",
+          "gerundio"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ando (parlando)"
+          ],
+          [
+            "-ere",
+            "-endo (temendo)"
+          ],
+          [
+            "-ire",
+            "-endo (dormendo)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het gerundio is onveranderlijk, heeft vrijwel altijd hetzelfde onderwerp als de hoofdzin en kan een bijzin vervangen (gelijktijdigheid, manier, reden of voorwaarde). Het gerundio passato (avendo capito) verwijst naar een eerder moment. Voornaamwoorden en ci/ne komen er vast aan: Avendola incontrata prima..."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Aspettando il treno, fumava una sigaretta.",
+            "nl": "Terwijl hij op de trein wachtte, rookte hij een sigaret."
+          },
+          {
+            "it": "Sbagliando s'impara.",
+            "nl": "Al doende leert men."
+          },
+          {
+            "it": "Avendo capito tutto, siamo andati via prima.",
+            "nl": "Omdat we alles begrepen hadden, gingen we eerder weg."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "stare + gerundio drukt uit dat een handeling bezig is (Sto leggendo; Stavamo studiando); andare + gerundio dat iets zich geleidelijk voltrekt (La situazione va migliorando). Bij dit gebruik komen de voornaamwoorden ervóór: Lo sta facendo. Ne stanno discutendo."
+      }
+    ]
+  },
+  {
+    "id": "ww-infinitief",
+    "category": "11. Het werkwoord",
+    "title": "De infinitief (infinito)",
+    "summary": "infinito presente (parlare) en infinito passato (avere parlato); trekt voornaamwoorden naar zich toe en kan zelfstandig met lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee infinitieven: de infinito presente (parlare, temere, partire) en de infinito passato (avere parlato, essere partito). De infinitief trekt onbeklemtoonde en wederkerende voornaamwoorden en ci/ne naar zich toe, waarbij de eind-e vervalt: Preferiamo non parlarne. Na een modaal hulpwerkwoord staat altijd een infinitief; de voornaamwoorden mogen dan vóór het hulpwerkwoord óf vast aan de infinitief: Devi andarci subito = Ci devi andare subito."
+      },
+      {
+        "kind": "text",
+        "body": "De eind-e kan wegvallen bij weinig nadruk (dopo aver dormito, spero di poter venire, lo dobbiamo far venire). De infinitief kan zelfstandig met een lidwoord, vaak als onderwerp: Il dolce far niente. (Il) fumare fa male alla salute. Partire è un poco morire. Verder: Che fare? A dire il vero... Als gebiedende wijs op verpakkingen: Agitare prima dell'uso. Met a vervangt hij een se-bijzin: A pensarci bene, ..."
+      }
+    ]
+  },
+  {
+    "id": "ww-infinitief-constructies",
+    "category": "11. Het werkwoord",
+    "title": "Infinitief-constructies (voorzetsel of niet)",
+    "summary": "Zonder voorzetsel (modaal, piacere, waarneming, causatief, è + bnw), met a (cominciare a, imparare a) of met di (cercare di, decidere di).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Of er een voorzetsel nodig is vóór de infinitief, hangt af van het werkwoord (of bijvoeglijk naamwoord/naamwoord) ervoor. Dat is lastig en leer je vooral door veel Italiaans te lezen en horen."
+      },
+      {
+        "kind": "text",
+        "body": "ZONDER voorzetsel: na modale werkwoorden (dovere, potere, sapere, volere), na adorare, amare, bastare, bisognare, desiderare, occorrere, odiare, osare, piacere, preferire, na een zintuiglijke waarneming (Li ho visti arrivare), bij causatieve constructies (Hai fatto fare il vestito? Lasciamo perdere!) en na onpersoonlijke uitdrukkingen met è + bijvoeglijk naamwoord: È bello avere una villa al mare. È necessario prepararsi bene. Sarebbe meglio rimanere a casa."
+      },
+      {
+        "kind": "text",
+        "body": "Met het voorzetsel A: abituarsi a, aiutare a, cominciare a, continuare a, imparare a, insegnare a, invitare a, mettersi a, prepararsi a, provare a, riuscire a, rinunciare a, servire a, andare a ... Ha cominciato a lavorare. Continua a piovere. Impara a scrivere! Non riusciamo ad aprire la porta. Ook bijvoeglijke naamwoorden: pronto a, disposto a, costretto a — Siete disposti ad aiutarla?"
+      },
+      {
+        "kind": "text",
+        "body": "Met het voorzetsel DI: cercare di, decidere di, credere di, sperare di, finire di, smettere di, dimenticarsi di, pensare di, promettere di, rifiutare di, tentare di ... Ho cercato di raggiungerti. Hanno deciso di emigrare. Ha smesso di fumare. Ook bijvoeglijke naamwoorden: contento di, capace di, curioso di, felice di — Siamo contenti di partire."
+      },
+      {
+        "kind": "text",
+        "body": "Hebben hoofd- en bijzin hetzelfde onderwerp, dan gebruikt het Italiaans altijd de infinitief-constructie: Credo di aver dormito (ik geloof dat ik geslapen heb). Bij een ander onderwerp gebruik je che + conjunctief: Credo che (lei) abbia dormito. Na werkwoorden van aanraden, bevelen of verzoeken (consigliare, ordinare, pregare, proibire, suggerire, vietare) is de infinitief-constructie verplicht: Ti consiglio di dimenticarla. Gli ha ordinato di andarsene."
+      }
+    ]
+  },
+  {
+    "id": "ww-samengestelde-tijden",
+    "category": "11. Het werkwoord",
+    "title": "Samengestelde tijden en de condizionale passato",
+    "summary": "Passato prossimo met imperfetto-hulpwerkwoord = trapassato prossimo; de condizionale passato vervangt de futuro na een verleden tijd.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vervang je het hulpwerkwoord van de passato prossimo door een imperfetto, dan krijg je de trapassato prossimo (voltooid verleden tijd: avevo parlato). Zo worden ook de andere samengestelde tijden gevormd; het gebruik komt meestal overeen met het Nederlands."
+      },
+      {
+        "kind": "text",
+        "body": "De condizionale passato (avrei fatto) vervangt de toekomende tijd wanneer het werkwoord van de hoofdzin in een verleden tijd staat — 'zou (gaan)':"
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Disse che l'avrebbe fatto.",
+            "nl": "Hij zei dat hij het zou doen."
+          },
+          {
+            "it": "Mi chiese dove sarei andato.",
+            "nl": "Hij vroeg me waar ik heen ging."
+          },
+          {
+            "it": "Pensavo che sarebbe venuto.",
+            "nl": "Ik dacht dat hij zou komen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-hypothetisch",
+    "category": "11. Het werkwoord",
+    "title": "Hypothetische zinnen (se)",
+    "summary": "Reëel (se + presente/futuro), mogelijk (congiuntivo imperfetto + condizionale) en irreëel verleden (congiuntivo trapassato + condizionale passato).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een voorwaardelijke zin heeft een bijzin (de voorwaarde, meestal met se) en een hoofdzin (wat er dan gebeurt). Het type bepaalt de tijden."
+      },
+      {
+        "kind": "table",
+        "caption": "De drie types",
+        "head": [
+          "type",
+          "bijzin (se ...)",
+          "hoofdzin"
+        ],
+        "rows": [
+          [
+            "reëel",
+            "presente / futuro",
+            "presente / futuro"
+          ],
+          [
+            "mogelijk / irreëel",
+            "congiuntivo imperfetto",
+            "condizionale presente"
+          ],
+          [
+            "irreëel (verleden)",
+            "congiuntivo trapassato",
+            "condizionale passato"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Se ti senti troppo sola, ti porto via.",
+            "nl": "Als je je te eenzaam voelt, neem ik je mee."
+          },
+          {
+            "it": "Se vincessi la lotteria, comprerei una casa.",
+            "nl": "Als ik de loterij zou winnen, zou ik een huis kopen."
+          },
+          {
+            "it": "Se avessi avuto tempo, ti avrei telefonato.",
+            "nl": "Als ik tijd had gehad, had ik je gebeld."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Naast se kom je ook ammesso che, a condizione che en nel caso che tegen (met conjunctief): Nel caso che io non potessi venire, verrà mio fratello."
+      }
+    ]
+  },
+  {
+    "id": "ww-causatief",
+    "category": "11. Het werkwoord",
+    "title": "Causatief: fare / lasciare + infinitief",
+    "summary": "'laten': fare = verplichten, lasciare = toestaan. De uitvoerder komt met a of da; farsi + infinitief = iets bij jezelf laten doen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "fare of lasciare direct gevolgd door een infinitief is een causatieve constructie ('laten'): fare heeft de betekenis 'verplichten', lasciare 'toestaan'. De uitvoerder van de infinitief komt met a of da."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ha fatto fare dei nuovi vestiti al sarto.",
+            "nl": "Hij heeft nieuwe kleren door de kleermaker laten maken."
+          },
+          {
+            "it": "Glielo hanno fatto sapere.",
+            "nl": "Ze hebben het hem laten weten."
+          },
+          {
+            "it": "Lasciami andare!",
+            "nl": "Laat me los!"
+          },
+          {
+            "it": "Mi faccio tagliare i baffi.",
+            "nl": "Ik laat mijn snor knippen (farsi + infinitief)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Is de infinitief een wederkerend werkwoord, dan vervalt het wederkerend voornaamwoord: Perché non li fai accomodare? Veelgebruikte combinaties: far vedere (laten zien), far sapere (laten weten), far pagare (laten betalen), far aspettare (laten wachten)."
+      }
+    ]
+  },
+  {
+    "id": "ww-lijdende-vorm",
+    "category": "11. Het werkwoord",
+    "title": "De lijdende vorm (passief)",
+    "summary": "essere of venire + voltooid deelwoord; de uitvoerder met da. Bij een voltooid passief en na een modaal ww alleen essere.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De lijdende vorm bestaat uit een voltooid deelwoord van een overgankelijk werkwoord + een hulpwerkwoord: essere of venire. venire maakt duidelijk dat het echt passief is (niet 'zijn'). De handelende persoon geef je aan met da. In de voltooide tijd en na een modaal werkwoord kan alleen essere (met deelwoord stato)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "La porta viene aperta.",
+            "nl": "De deur wordt opengedaan."
+          },
+          {
+            "it": "La porta è stata aperta da Mario.",
+            "nl": "De deur is door Mario opengedaan."
+          },
+          {
+            "it": "I ragazzi devono essere interrogati.",
+            "nl": "De jongens moeten verhoord worden."
+          },
+          {
+            "it": "Il lavoro va fatto subito.",
+            "nl": "Het werk moet meteen gedaan worden (andare + deelwoord = noodzaak)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het Italiaans gebruikt de lijdende vorm minder dan het Nederlands; vaak vermijd je hem met het onpersoonlijke si: Si dice spesso che... (Er wordt vaak gezegd dat...)."
+      }
+    ]
+  },
+  {
+    "id": "ww-wederkerend",
+    "category": "11. Het werkwoord",
+    "title": "Wederkerende werkwoorden",
+    "summary": "-arsi / -ersi / -irsi; altijd met essere. De meervoudsvormen kunnen ook 'elkaar' betekenen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Wederkerende werkwoorden herken je aan -si aan de infinitief (alzarsi, mettersi, divertirsi) en worden altijd met essere vervoegd. De voornaamwoorden zijn gelijk aan de onbeklemtoonde, alleen de derde persoon is si."
+      },
+      {
+        "kind": "table",
+        "caption": "divertirsi (zich amuseren)",
+        "head": [
+          "persoon",
+          "vorm"
+        ],
+        "rows": [
+          [
+            "io",
+            "mi diverto"
+          ],
+          [
+            "tu",
+            "ti diverti"
+          ],
+          [
+            "lui/lei",
+            "si diverte"
+          ],
+          [
+            "noi",
+            "ci divertiamo"
+          ],
+          [
+            "voi",
+            "vi divertite"
+          ],
+          [
+            "loro",
+            "si divertono"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Soms is het voornaamwoord pleonastisch (schijnwederkerend): Mi lavo i capelli. Ci siamo bevuti un buon bicchiere di vino. De meervoudsvormen kunnen 'elkaar' betekenen: Si baciano (Ze kussen elkaar). Sommige zijn met ne versterkt: andarsene (weggaan) → me ne vado, se ne va."
+      },
+      {
+        "kind": "text",
+        "body": "In een voltooide modale constructie: staat het voornaamwoord voorop, dan essere (Lia non si è voluta alzare); staat het vast aan de infinitief, dan avere (Lia non ha voluto alzarsi)."
+      }
+    ]
+  },
+  {
+    "id": "ww-koppel-onpersoonlijk",
+    "category": "11. Het werkwoord",
+    "title": "Koppel- en onpersoonlijke werkwoorden",
+    "summary": "Koppelwerkwoorden (diventare, sembrare, stare ...) laten het gezegde zich aanpassen; onpersoonlijke werkwoorden staan in de 3e persoon enkelvoud.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast essere zijn er koppelwerkwoorden als costare, diventare, morire, parere, sembrare, stare en vivere. Het naamwoordelijk deel past zich aan aan het onderwerp: È diventato direttore. Sono morti poveri. Vivevano felici. Sembra pazzo."
+      },
+      {
+        "kind": "text",
+        "body": "Onpersoonlijke werkwoorden hebben geen onderwerp en staan in de derde persoon enkelvoud of de infinitief. Weersverschijnselen: piove, nevica, tuona, fa caldo, fa freddo. accadere, avvenire, capitare en succedere betekenen 'het gebeurt'. Een oordeel: basta, bisogna, conviene, è necessario, pare, sembra, è peccato, è utile — Capita spesso. È peccato che sia andato così."
+      }
+    ]
+  },
+  {
+    "id": "ww-pronominaal",
+    "category": "11. Het werkwoord",
+    "title": "Werkwoorden met een vast pronominaal deel",
+    "summary": "Idiomatische werkwoorden met een vast voornaamwoord: farcela, cavarsela, andarsene, volerci, metterci ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Sommige werkwoorden hebben een vast voornaamwoord (vaak la, dat naar een vage 'la cosa' verwijst) en zijn idiomatisch: andarsene (weggaan), cavarsela (zich redden), entrarci (ermee te maken hebben), farcela (het redden), metterci (er over doen), prendersela (boos worden), sentirsela (ervoor voelen), starci (meedoen), volerci (nodig zijn)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Parli il russo? Me la cavo.",
+            "nl": "Spreek je Russisch? Ik red me."
+          },
+          {
+            "it": "Cosa c'entro io?",
+            "nl": "Wat heb ik ermee te maken?"
+          },
+          {
+            "it": "Non ce la fai più?",
+            "nl": "Red je het niet meer?"
+          },
+          {
+            "it": "Ci hanno messo dieci ore.",
+            "nl": "Ze hebben er tien uur over gedaan."
+          },
+          {
+            "it": "Io ci sto.",
+            "nl": "Ik ben ervoor in."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-spelling",
+    "category": "11. Het werkwoord",
+    "title": "Spellingregels bij het vervoegen",
+    "summary": "-care/-gare krijgen een h (paghi); -ciare/-giare verliezen de i (mangi); -iare houdt of verliest de i naargelang de klemtoon.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -care en -gare krijgen een h vóór een uitgang met i of e, zodat de klank hard blijft: pago, paghi, paghiamo; giocare → giochiamo."
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -ciare, -giare en -sciare verliezen de i van de stam vóór een i of e: mangio, mangi, mangia... en mangerò, mangerai... Werkwoorden op -gliare/-gliere verliezen de i vóór een i: sbaglio, sbagli, sbaglia."
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -iare met een beklemtoonde i houden die in de tu-vorm (invii, spii) maar niet in noi/voi; met een onbeklemtoonde i is er één i in de tu-vorm (studi). Bij -cere blijft de uitspraak niet gelijk (conosco, conosci); het voltooid deelwoord krijgt een i om de zachte klank te houden: conosciuto, piaciuto."
+      }
+    ]
+  },
+  {
+    "id": "ww-si-impersonale",
+    "category": "11. Het werkwoord",
+    "title": "De onpersoonlijke vorm (si impersonale)",
+    "summary": "'men' = si; het werkwoord staat in het meervoud als het object meervoud is. Wederkerend wordt ci si.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "'Men' druk je uit met si; een Italiaan voelt dit als een passieve vorm. Staat het object in het meervoud, dan komt het werkwoord in het meervoud: Si canta una canzone napoletana, maar A Napoli si cantano molte canzoni."
+      },
+      {
+        "kind": "text",
+        "body": "In de voltooide tijd is het hulpwerkwoord bij si altijd essere. Het deelwoord staat in het meervoud als het werkwoord van zichzelf essere had (of passief/wederkerend is) en blijft -o als het avere had: Si è studiato molto. Si è partiti alle tre. Ook het naamwoordelijk deel komt in het meervoud: se si è innamorati."
+      },
+      {
+        "kind": "text",
+        "body": "Een wederkerend werkwoord met si impersonale wordt ci si (niet si si): Ci si abitua facilmente. Non ci si può fidare di lui. De volgorde is voornaamwoord + si (Lo si dice), maar ne komt achter si: Se ne parla ogni tanto."
+      }
+    ]
+  },
+  {
+    "id": "tussenwerpsels",
+    "category": "12. Tussenwerpsels",
+    "title": "Tussenwerpsels en uitroepen",
+    "summary": "Interjecties (ah, boh, dai, uffa), uitroepen van verbazing (accidenti, caspita, macché), geluiden en stopwoordjes.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Tussenwerpsels drukken een gemoedstoestand uit en worden in de spreektaal veel gebruikt. Veelvoorkomend: ah, ahi (oei), ahimè (arme ik), beh (nou ja), boh (wie weet), dai (kom op), eh, ehi (hé!), già (tsja), su (kom op), toh (pak aan), uffa (oef, verveling)."
+      },
+      {
+        "kind": "text",
+        "body": "Verbazing en ergernis: accidenti (verdorie), caspita! (goh!), macché (kom nou!), mannaggia (verdorie), o dio (o jee), perbacco, Santo cielo (goeie hemel)."
+      },
+      {
+        "kind": "text",
+        "body": "Geluiden (onomatopeeën): bau bau (hond), bee (schaap), chicchirichì (haan), cip cip (vogels), din don (klokken), drin drin (deurbel), miao (kat), tic tac (horloge). Veelgebruikte stopwoordjes: cioè (dat wil zeggen), comunque, allora, dunque, insomma, praticamente, va bene (oké), veramente."
+      }
+    ]
+  },
+  {
+    "id": "woordvolgorde",
+    "category": "13. Woordvolgorde",
+    "title": "Woordvolgorde",
+    "summary": "Vrijer dan in het Nederlands. Neutraal is SVO; door woorden te verplaatsen leg je nadruk. Vooropgezet object herhaal je met een voornaamwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De woordvolgorde is veel vrijer dan in het Nederlands en hangt samen met nadruk en intonatie. De neutrale volgorde is onderwerp – werkwoord – object (SVO): Renato ha invitato tutti i suoi amici."
+      },
+      {
+        "kind": "text",
+        "body": "Zet je het onderwerp achter het gezegde, dan krijgt het gezegde nadruk: Sono belli i fiori. Mi piacciono i tuoi occhi. Een persoonlijk voornaamwoord als onderwerp krijgt achteraan juist zelf nadruk: Ha fatto tutto lei. Begint de zin met een bijwoord, dan staat het onderwerp vaak achteraan: Forse ha ragione Luigi."
+      },
+      {
+        "kind": "text",
+        "body": "In vraagzinnen is er geen inversie zoals in het Nederlands; alleen de intonatie gaat omhoog: L'ascensore è occupato? Maar na een vraagwoord staat het onderwerp meestal achter het gezegde: Dov'è il gabinetto? Quando arriva il treno?"
+      },
+      {
+        "kind": "text",
+        "body": "Zet je het object voorop, dan herhaal je het verplicht met een voornaamwoord: Questo libro, l'hai letto? Le hai viste, le mie chiavi? Bij een lijdend én meewerkend voorwerp is de gewone volgorde: lijdend voorwerp, dan meewerkend voorwerp — Ha dato il libro a Carlo."
+      }
+    ]
   }
 ]
