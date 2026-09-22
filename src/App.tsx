@@ -2,17 +2,40 @@ import { AnimatePresence } from "framer-motion";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Background } from "./components/Background";
 import { TopBar } from "./components/TopBar";
+import { Home } from "./components/Home";
 import { SetupScreen } from "./components/SetupScreen";
 import { QuizScreen } from "./components/QuizScreen";
 import { ResultScreen } from "./components/ResultScreen";
 import { StatsScreen } from "./components/StatsScreen";
+import { LibraryScreen } from "./components/LibraryScreen";
+import { GrammarScreen } from "./components/GrammarScreen";
+import { ExerciseScreen } from "./components/ExerciseScreen";
+import { HandsFreeMode } from "./components/HandsFreeMode";
 import { useProgress } from "./hooks";
 import { getProgress, recordSession, update } from "./lib/storage";
 import { buildQuestions, requeue, shuffle } from "./lib/quiz";
 import { WORDS } from "./lib/words";
-import type { Attempt, Options, Question } from "./lib/types";
+import { grammarChapter } from "./lib/grammar";
+import { EXERCISES, exercisesForChapter } from "./lib/exercises";
+import type { Attempt, GrammarExercise, Options, Question, Word } from "./lib/types";
 
-type Screen = "setup" | "quiz" | "result" | "stats";
+type Screen =
+  | "home"
+  | "setup"
+  | "quiz"
+  | "result"
+  | "stats"
+  | "library"
+  | "grammar"
+  | "exercise"
+  | "handsfree";
+
+/** Deep-link: #uitleg=<hoofdstuk-id> opent de grammatica op dat hoofdstuk (nieuw tabblad vanuit een oefening). */
+function deepLinkChapter(): string | null {
+  if (typeof window === "undefined") return null;
+  const h = window.location.hash;
+  return h.startsWith("#uitleg=") ? decodeURIComponent(h.slice("#uitleg=".length)) : null;
+}
 
 const DEFAULTS: Options = {
   lessons: [1],
@@ -26,7 +49,15 @@ const DEFAULTS: Options = {
 
 export default function App() {
   const progress = useProgress();
-  const [screen, setScreen] = useState<Screen>("setup");
+  const [deepChapter] = useState(deepLinkChapter);
+  const [screen, setScreen] = useState<Screen>(deepChapter ? "grammar" : "home");
+  const [exerciseSet, setExerciseSet] = useState<{
+    exercises: GrammarExercise[];
+    title: string;
+  } | null>(null);
+  const [handsFree, setHandsFree] = useState<{ words: Word[]; sub: "listen" | "speak" } | null>(
+    null,
+  );
   const [options, setOptionsState] = useState<Options>(() => ({
     ...DEFAULTS,
     ...getProgress().options,
@@ -57,6 +88,18 @@ export default function App() {
       if (built.length === 0) return;
       setQuestions(built);
       setScreen("quiz");
+    },
+    [options],
+  );
+
+  const startHandsFree = useCallback(
+    (sub: "listen" | "speak") => {
+      const lessons = new Set(options.lessons);
+      let words = shuffle(WORDS.filter((w) => lessons.has(w.l)));
+      if (options.count > 0) words = words.slice(0, options.count);
+      if (words.length === 0) return;
+      setHandsFree({ words, sub });
+      setScreen("handsfree");
     },
     [options],
   );
@@ -107,11 +150,20 @@ export default function App() {
           <TopBar
             progress={progress}
             onOpenStats={() => setScreen("stats")}
-            onHome={() => setScreen("setup")}
+            onHome={() => setScreen("home")}
           />
         )}
 
         <AnimatePresence mode="wait">
+          {screen === "home" && (
+            <Home
+              key="home"
+              onPractice={() => setScreen("setup")}
+              onLibrary={() => setScreen("library")}
+              onGrammar={() => setScreen("grammar")}
+            />
+          )}
+
           {screen === "setup" && (
             <SetupScreen
               key="setup"
@@ -119,6 +171,49 @@ export default function App() {
               setOptions={setOptions}
               progress={progress}
               onStart={() => start()}
+              onBack={() => setScreen("home")}
+              onStartHandsFree={startHandsFree}
+            />
+          )}
+
+          {screen === "library" && (
+            <LibraryScreen key="library" progress={progress} onBack={() => setScreen("home")} />
+          )}
+
+          {screen === "grammar" && (
+            <GrammarScreen
+              key="grammar"
+              onBack={() => setScreen("home")}
+              initialChapterId={deepChapter ?? undefined}
+              onPracticeAll={() => {
+                setExerciseSet({ exercises: EXERCISES, title: "Grammatica oefenen" });
+                setScreen("exercise");
+              }}
+              onPracticeChapter={(id) => {
+                setExerciseSet({
+                  exercises: exercisesForChapter(id),
+                  title: `Oefenen: ${grammarChapter(id)?.title ?? "hoofdstuk"}`,
+                });
+                setScreen("exercise");
+              }}
+            />
+          )}
+
+          {screen === "exercise" && exerciseSet && (
+            <ExerciseScreen
+              key="exercise"
+              exercises={exerciseSet.exercises}
+              title={exerciseSet.title}
+              onBack={() => setScreen("grammar")}
+            />
+          )}
+
+          {screen === "handsfree" && handsFree && (
+            <HandsFreeMode
+              key="handsfree"
+              words={handsFree.words}
+              subMode={handsFree.sub}
+              onQuit={() => setScreen("setup")}
             />
           )}
 
@@ -140,12 +235,12 @@ export default function App() {
               seconds={finished.seconds}
               onRetry={() => start()}
               onDrillMistakes={drillMistakes}
-              onHome={() => setScreen("setup")}
+              onHome={() => setScreen("home")}
             />
           )}
 
           {screen === "stats" && (
-            <StatsScreen key="stats" progress={progress} onBack={() => setScreen("setup")} />
+            <StatsScreen key="stats" progress={progress} onBack={() => setScreen("home")} />
           )}
         </AnimatePresence>
       </div>

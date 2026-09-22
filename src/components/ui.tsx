@@ -112,6 +112,30 @@ export function SectionTitle({
   );
 }
 
+export function BackBar({
+  title,
+  onBack,
+  hint,
+}: {
+  title: string;
+  onBack: () => void;
+  hint?: string;
+}) {
+  return (
+    <div className="flex items-center gap-3 py-5">
+      <button
+        type="button"
+        onClick={onBack}
+        className="rounded-xl px-2 py-1 text-sm font-extrabold text-muted transition hover:text-ink"
+      >
+        ← Terug
+      </button>
+      <h2 className="font-display text-2xl font-bold text-ink">{title}</h2>
+      {hint && <span className="text-sm font-bold text-muted">{hint}</span>}
+    </div>
+  );
+}
+
 export function SpeakerButton({
   onClick,
   className = "",

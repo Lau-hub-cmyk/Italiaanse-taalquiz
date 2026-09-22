@@ -1,0 +1,5466 @@
+[
+  {
+    "id": "uitspraak-alfabet",
+    "category": "1. De uitspraak",
+    "title": "Het alfabet",
+    "summary": "Het Italiaanse alfabet telt 21 letters; j, k, w, x en y komen alleen in vreemde woorden voor.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Het Italiaanse alfabet telt 21 letters. De letternamen klinken zo (Nederlandse benadering van de uitspraak):"
+      },
+      {
+        "kind": "table",
+        "caption": "Het Italiaanse alfabet",
+        "head": [
+          "letter",
+          "naam",
+          "letter",
+          "naam"
+        ],
+        "rows": [
+          [
+            "a",
+            "a",
+            "n",
+            "enne"
+          ],
+          [
+            "b",
+            "bie",
+            "o",
+            "o"
+          ],
+          [
+            "c",
+            "tsjie",
+            "p",
+            "pie"
+          ],
+          [
+            "d",
+            "die",
+            "q",
+            "koe"
+          ],
+          [
+            "e",
+            "e",
+            "r",
+            "erre"
+          ],
+          [
+            "f",
+            "effe",
+            "s",
+            "esse"
+          ],
+          [
+            "g",
+            "dzjie",
+            "t",
+            "tie"
+          ],
+          [
+            "h",
+            "acca",
+            "u",
+            "oe"
+          ],
+          [
+            "i",
+            "ie",
+            "v",
+            "woe"
+          ],
+          [
+            "l",
+            "elle",
+            "z",
+            "dzeta"
+          ],
+          [
+            "m",
+            "emme",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De letters j (i lunga), k (kappa), w (doppia vu), x (ics) en y (ipsilon of i greca) komen alleen in vreemde woorden en namen voor. Omdat het woord 'letter' vrouwelijk is (la lettera), zeg je la d, la v, enzovoort."
+      },
+      {
+        "kind": "text",
+        "body": "De Italiaanse spelling is vrijwel fonetisch. Overbodige letters vallen weg: combinaties als 'rh', 'th' en 'ph' bestaan niet — reuma, teatro, filosofia."
+      },
+      {
+        "kind": "tip",
+        "body": "Namen spellen aan de telefoon doe je vaak met steden: Ancona, Bari, Como, Domodossola, Empoli, Firenze, Genova, Imola, Livorno, Milano, Napoli, Otranto, Palermo, Quarto, Roma, Savona (of Siena), Torino, Urbino, Venezia."
+      }
+    ]
+  },
+  {
+    "id": "uitspraak-klinkers",
+    "category": "1. De uitspraak",
+    "title": "De klinkers",
+    "summary": "a, i en u zijn eenvoudig; e en o hebben een open en een gesloten variant.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "In het Italiaans wordt goed gearticuleerd: elke klank is apart te horen. De a, i en u lijken op de 'a' van kamer, de 'i' van fiets en de 'oe' van voet."
+      },
+      {
+        "kind": "text",
+        "body": "De e en de o hebben een open en een gesloten variant. De open e lijkt op het Franse 'mère', de gesloten e op de 'e' in 'beter'. De open o lijkt op de 'o' in 'hor', de gesloten o op die in 'boter'. De regels zijn ingewikkeld en er zijn streekverschillen."
+      },
+      {
+        "kind": "text",
+        "body": "Een onbeklemtoonde i die na een medeklinker en vóór een klinker staat, klinkt als de Nederlandse 'j'."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "piede",
+            "nl": "voet"
+          },
+          {
+            "it": "pianta",
+            "nl": "plant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uitspraak-medeklinkers",
+    "category": "1. De uitspraak",
+    "title": "De medeklinkers",
+    "summary": "gl, gn, z, s en de c en g voor verschillende klinkers; de h en de dubbele medeklinkers.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De b, d, f, l, m, n, p en t klinken bijna als in het Nederlands. De r rolt meestal, de v neigt naar de Nederlandse 'w'."
+      },
+      {
+        "kind": "table",
+        "caption": "Bijzondere medeklinkercombinaties",
+        "head": [
+          "combinatie",
+          "klinkt als",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "gl (voor i)",
+            "lj",
+            "famiglia, figlia, moglie"
+          ],
+          [
+            "gn",
+            "nj",
+            "agnello, bagno"
+          ],
+          [
+            "z",
+            "ts (stemloos)",
+            "lezione, amicizia"
+          ],
+          [
+            "z",
+            "dz (stemhebbend)",
+            "manzo, mezzo, zero"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De s is stemloos aan het begin van een woord, voor een harde medeklinker (c, f, p, q, t), na een andere medeklinker en bij een dubbele s: sistema, scusa, spada, pasto, passo. De s is stemhebbend voor een zachte medeklinker (b, d, g, v) en voor l, m, n of r: sbagliare, sdraio, sguardo, sviluppo, smettere, snello."
+      },
+      {
+        "kind": "table",
+        "caption": "De c en de g",
+        "head": [
+          "",
+          "voor a / o / u / medeklinker",
+          "voor e / i"
+        ],
+        "rows": [
+          [
+            "c",
+            "hard (k): calmo, come, curioso, clima",
+            "zacht (tsj): cena, cinema"
+          ],
+          [
+            "g",
+            "hard (g): galleria, gola, gusto, grande",
+            "zacht (dzj): gengiva, gita"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Een 'h' achter een c of g wordt zelf niet uitgesproken; ze houdt de klank hard: chilo, ghiaia. Verder komt de h alleen voor in enkele vormen van avere (ho, hai, ha, hanno — niet uitgesproken) en in uitroepen."
+      },
+      {
+        "kind": "text",
+        "body": "Dubbele medeklinkers houd je langer aan dan enkele: ballare, difficile, freddo, guerra, mamma, matto, rabbia."
+      }
+    ]
+  },
+  {
+    "id": "uitspraak-klemtoon",
+    "category": "1. De uitspraak",
+    "title": "De klemtoon",
+    "summary": "Meestal op de voorlaatste lettergreep; valt hij op de laatste, dan staat er een accent (città, caffè).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Meestal valt de klemtoon op de voorlaatste lettergreep: casa, matita, orologio, settimana, pericoloso, balcone, bicicletta, passaporto."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "caffè",
+            "nl": "koffie (klemtoon op het eind, met accent)"
+          },
+          {
+            "it": "città",
+            "nl": "stad"
+          },
+          {
+            "it": "università",
+            "nl": "universiteit"
+          },
+          {
+            "it": "velocità",
+            "nl": "snelheid"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij eenlettergrepige woorden wordt de klemtoon niet aangegeven (ma, me, re). Wel gebruikt men een accent om gelijkgeschreven woorden met een verschillende betekenis te onderscheiden."
+      },
+      {
+        "kind": "table",
+        "caption": "Accent als onderscheid",
+        "head": [
+          "zonder accent",
+          "met accent"
+        ],
+        "rows": [
+          [
+            "da (sinds, vanaf)",
+            "dà (hij/zij/u geeft)"
+          ],
+          [
+            "si (zich)",
+            "sì (ja, wel)"
+          ],
+          [
+            "e (en)",
+            "è (hij/zij/u is)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij een beklemtoonde tweeklank van één lettergreep staat een accent: può, più. Uitzonderingen zijn qui en qua (hier)."
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-vormen",
+    "category": "2. Het lidwoord",
+    "title": "De vormen van het lidwoord",
+    "summary": "Bepaald (il, lo, l', la, i, gli, le) en onbepaald (un, uno, un', una). De vorm hangt af van geslacht, getal én de beginletters van het volgende woord.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "De vormen van het lidwoord",
+        "head": [
+          "geslacht",
+          "bepaald ev.",
+          "bepaald mv.",
+          "onbepaald",
+          "wanneer"
+        ],
+        "rows": [
+          [
+            "mannelijk",
+            "il",
+            "i",
+            "un",
+            "voor medeklinker"
+          ],
+          [
+            "mannelijk",
+            "l'",
+            "gli",
+            "un",
+            "voor klinker"
+          ],
+          [
+            "mannelijk",
+            "lo",
+            "gli",
+            "uno",
+            "voor s + medeklinker, z, ps"
+          ],
+          [
+            "vrouwelijk",
+            "la",
+            "le",
+            "una",
+            "voor medeklinker"
+          ],
+          [
+            "vrouwelijk",
+            "l'",
+            "le",
+            "un'",
+            "voor klinker"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il libro, i libri, un libro",
+            "nl": "het boek, de boeken, een boek"
+          },
+          {
+            "it": "lo studente, gli studenti, uno studente",
+            "nl": "de student (s impura)"
+          },
+          {
+            "it": "lo zero, gli zeri, uno zero",
+            "nl": "de nul (z)"
+          },
+          {
+            "it": "l'albero, gli alberi, un albero",
+            "nl": "de boom (klinker)"
+          },
+          {
+            "it": "la ragazza, le ragazze, una ragazza",
+            "nl": "het meisje"
+          },
+          {
+            "it": "l'oliva, le olive, un'oliva",
+            "nl": "de olijf (vrouwelijk, klinker)"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Eén woord heeft een onregelmatig lidwoord: il dio, gli dei, un dio (god)."
+      },
+      {
+        "kind": "tip",
+        "body": "'s impura' is een s gevolgd door een medeklinker (lo studente, uno sbaglio). De vorm hangt ook af van het woord dat direct volgt — een bijvoeglijk naamwoord ertussen telt mee: uno sbaglio, maar con un solo sbaglio."
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-onbepaald-gebruik",
+    "category": "2. Het lidwoord",
+    "title": "Gebruik van het onbepaalde lidwoord",
+    "summary": "Vrijwel gelijk aan het Nederlands.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Het gebruik van het onbepaalde lidwoord is in het Italiaans vrijwel gelijk aan dat in het Nederlands."
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-bepaald-gebruik",
+    "category": "2. Het lidwoord",
+    "title": "Gebruik van het bepaalde lidwoord",
+    "summary": "In het Italiaans veel vaker dan in het Nederlands: ook bij landen, talen, bezit, tijd en algemene begrippen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord gebruik je als iets bekend, bepaald of eerder genoemd is, en ook vóór abstracte naamwoorden en vóór concrete naamwoorden in algemene zin."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "La luna non c'è ancora.",
+            "nl": "De maan is er nog niet."
+          },
+          {
+            "it": "La pigrizia è un vizio.",
+            "nl": "Luiheid is een ondeugd."
+          },
+          {
+            "it": "La donna è mobile.",
+            "nl": "De vrouw is veranderlijk."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Namen van werelddelen, landen, provincies, grote eilanden, rivieren, meren, zeeën en bergen krijgen een lidwoord: l'Europa, la Germania, l'Italia, l'Olanda, la Toscana, la Sardegna, il Tevere, il Lago di Garda. Maar na het voorzetsel in vervalt het: Vado in Italia. Abiti in Olanda?"
+      },
+      {
+        "kind": "text",
+        "body": "Vóór signore, signora en signorina staat het lidwoord, behalve als je de persoon aanspreekt: Il signor Longo è in ritardo. — È in casa la signora Rossi? — Come sta, signorina?"
+      },
+      {
+        "kind": "text",
+        "body": "Vóór een taalnaam staat meestal het lidwoord (Ho imparato l'italiano), behalve na in en na parlare (Parli italiano?). Vóór jaartallen en percentages staat het lidwoord: È nato nel 1980. Solo il 30 per cento ha votato."
+      },
+      {
+        "kind": "text",
+        "body": "Het bepaald lidwoord komt ook waar het Nederlands een onbepaald lidwoord of een bezittelijk voornaamwoord heeft: Nino ha il naso grande. Ha la moglie tedesca. Mi fa male la testa. Ha perso l'agenda."
+      },
+      {
+        "kind": "text",
+        "body": "Vóór een dag betekent het lidwoord 'elke': Il giovedì fa lezione (donderdags). Il sabato mi alzo tardi. Zonder lidwoord is de eerstvolgende bedoeld: Martedì partiamo per Madrid."
+      },
+      {
+        "kind": "text",
+        "body": "Bij tijdsaanduiding staat een lidwoord (ora/ore vervalt): Sono le due. È l'una e un quarto. Arrivo alle quattro e mezzo. Maar zonder lidwoord: È mezzogiorno. È mezzanotte."
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-ontbreken",
+    "category": "2. Het lidwoord",
+    "title": "Het ontbreken van het lidwoord",
+    "summary": "Geen lidwoord bij steden, bij via/piazza + naam, bij het naamwoordelijk deel van het gezegde en in vaste combinaties.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Namen van steden hebben geen lidwoord (Roma è bella); L'Aia (Den Haag) is een uitzondering. Vóór corso, via, piazza en palazzo + een naam staat geen lidwoord: Abito in piazza Dante."
+      },
+      {
+        "kind": "text",
+        "body": "Ook het naamwoordelijk deel van het gezegde staat zonder lidwoord (È americano), net als veel spreekwoorden en vaste combinaties: arrivare in tempo, far visita a qualcuno, partire in fretta, prendere moglie, rimanere a casa."
+      },
+      {
+        "kind": "text",
+        "body": "Vaste combinaties van voorzetsel + naamwoord: a casa, in città, in chiesa, in cucina, in giardino, a letto, in montagna, a scuola, a teatro."
+      },
+      {
+        "kind": "text",
+        "body": "Na che aan het begin van een uitroep komt geen lidwoord: Che film! Che bellissima giornata!"
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-delend",
+    "category": "2. Het lidwoord",
+    "title": "Het delend lidwoord (partitief)",
+    "summary": "di + het bepaald lidwoord = del, dello, dell', della, dei, degli, delle; duidt een onbepaalde hoeveelheid aan.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Het delend lidwoord ontstaat uit het voorzetsel di + het bepaald lidwoord en duidt een onbepaalde hoeveelheid aan (zoals het partitief in het Frans)."
+      },
+      {
+        "kind": "table",
+        "caption": "Vormen van het delend lidwoord",
+        "head": [
+          "+",
+          "il",
+          "lo",
+          "l'",
+          "la",
+          "i",
+          "gli",
+          "le"
+        ],
+        "rows": [
+          [
+            "di",
+            "del",
+            "dello",
+            "dell'",
+            "della",
+            "dei",
+            "degli",
+            "delle"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Hanno mangiato del pane.",
+            "nl": "Ze hebben wat brood gegeten."
+          },
+          {
+            "it": "Ho comprato dei tulipani.",
+            "nl": "Ik heb (wat) tulpen gekocht."
+          },
+          {
+            "it": "C'è dello zucchero?",
+            "nl": "Is er suiker?"
+          },
+          {
+            "it": "Abbiamo delle novità.",
+            "nl": "We hebben nieuws."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De toevoeging is niet verplicht: je laat ze weg als het deelbegrip niet op de voorgrond staat, bij abstracte woorden en in ontkennende zinnen (Non ci sono più francobolli). Het delend lidwoord kan ook vóór een bijvoeglijk naamwoord staan: Hanno avuto dei grandi problemi."
+      }
+    ]
+  },
+  {
+    "id": "lidwoord-samenvatting",
+    "category": "2. Het lidwoord",
+    "title": "Samenvatting van het lidwoord",
+    "summary": "De vormen op een rij en wanneer je het lidwoord wel of niet gebruikt.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord heeft zeven vormen: il, lo, l', la, i, gli, le. Het onbepaalde er vier: un, uno, un', una. De keuze hangt af van geslacht, getal én van de beginletters van het woord dat direct volgt."
+      },
+      {
+        "kind": "text",
+        "body": "Het bepaalde lidwoord wordt in het Italiaans veel vaker gebruikt dan in het Nederlands: vóór bezittelijke voornaamwoorden, taalnamen, woorden als signore en dottore, per cento, jaartallen, tijdsaanduidingen, achternamen van vrouwen, namen van voetbalclubs, werelddelen, landen, regio's, provincies, bergen, zeeën, grote eilanden, windstreken, stofnamen, vakken en abstracte begrippen."
+      },
+      {
+        "kind": "text",
+        "body": "Het lidwoord ontbreekt vóór namen van steden, vóór via en piazza, bij het naamwoordelijk deel van het gezegde, bij achternamen van mannen, bij personen die bekend zijn onder hun voornaam, bij het aanspreken van signore/dottore, in veel vaste combinaties en na het voorzetsel in."
+      },
+      {
+        "kind": "text",
+        "body": "Het delend lidwoord (del, dello, dell', della, dei, degli, delle) dient als meervoud van het onbepaald lidwoord en om een onbepaalde hoeveelheid aan te duiden. Het gebruik is niet verplicht en vervalt in negatieve zinnen."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-basis",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Basisregels",
+    "summary": "Mannelijk -o → -i, vrouwelijk -a → -e, en een derde groep op -e → -i (beide geslachten).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee typen zelfstandige naamwoorden: mannelijke en vrouwelijke. Mannelijke woorden eindigen in het enkelvoud op -o en in het meervoud op -i; vrouwelijke op -a (enkelvoud) en -e (meervoud). Een derde groep eindigt op -e in het enkelvoud en -i in het meervoud, en bevat zowel mannelijke als vrouwelijke woorden. Bij die groep helpt het lidwoord of een bijvoeglijk naamwoord om het geslacht vast te stellen."
+      },
+      {
+        "kind": "table",
+        "caption": "Meervoudsvorming",
+        "head": [
+          "geslacht",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk",
+            "-o",
+            "-i"
+          ],
+          [
+            "vrouwelijk",
+            "-a",
+            "-e"
+          ],
+          [
+            "mannelijk / vrouwelijk",
+            "-e",
+            "-i"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "fratello, fratelli",
+            "nl": "broer, broers"
+          },
+          {
+            "it": "casa, case",
+            "nl": "huis, huizen"
+          },
+          {
+            "it": "il mese, i mesi",
+            "nl": "de maand (m, op -e)"
+          },
+          {
+            "it": "la notte, le notti",
+            "nl": "de nacht (v, op -e)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-mannelijk-a",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Mannelijke woorden op -a",
+    "summary": "Een groep mannelijke woorden (vaak Grieks) op -a, meervoud -i.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een vrij grote groep mannelijke woorden eindigt op -a (vaak van Griekse oorsprong) en krijgt in het meervoud -i."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il problema, i problemi",
+            "nl": "het probleem"
+          },
+          {
+            "it": "il programma, i programmi",
+            "nl": "het programma"
+          },
+          {
+            "it": "il diploma, i diplomi",
+            "nl": "het diploma"
+          },
+          {
+            "it": "il poeta, i poeti",
+            "nl": "de dichter"
+          },
+          {
+            "it": "il panorama, i panorami",
+            "nl": "het panorama"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Woorden met een c of g als voorlaatste letter krijgen in het meervoud een h erbij: il collega, i colleghi; la collega, le colleghe; il duca, i duchi. Uitzondering: il Belga, i Belgi."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-ista",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -ista",
+    "summary": "Zowel mannelijk als vrouwelijk; mannelijk mv. -isti, vrouwelijk mv. -iste.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Woorden op -ista zijn zowel mannelijk als vrouwelijk. Naast il giornalista (mv. i giornalisti) bestaat la giornalista (mv. le giornaliste). Vaak duiden ze een beroep aan; het Nederlands eindigt dan meestal op -ist."
+      },
+      {
+        "kind": "table",
+        "caption": "Woorden op -ista",
+        "head": [
+          "geslacht",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk",
+            "-ista",
+            "-isti"
+          ],
+          [
+            "vrouwelijk",
+            "-ista",
+            "-iste"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il/la dentista",
+            "nl": "de tandarts"
+          },
+          {
+            "it": "il/la turista",
+            "nl": "de toerist(e)"
+          },
+          {
+            "it": "il/la pianista",
+            "nl": "de pianist(e)"
+          },
+          {
+            "it": "l'artista",
+            "nl": "de artiest(e)"
+          },
+          {
+            "it": "il/la giornalista",
+            "nl": "de journalist(e)"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Naast veel woorden op -ista bestaat vaak een vorm op -ismo, die het bijbehorende verschijnsel aanduidt (= Nederlands -isme): femminista → femminismo, turista → turismo, specialista → specialismo."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-vrouwelijk-o",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Vrouwelijke woorden op -o",
+    "summary": "Uiterst zeldzaam; de belangrijkste is la mano.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vrouwelijke woorden die op -o eindigen, zijn heel zeldzaam. De belangrijkste is la mano, le mani (de hand)."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-onveranderlijk",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Onveranderlijke naamwoorden",
+    "summary": "Enkelvoud = meervoud: eenlettergrepige woorden, woorden op een beklemtoonde klinker of op -i, en afkortingen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij een grote groep woorden is de meervoudsvorm gelijk aan het enkelvoud."
+      },
+      {
+        "kind": "text",
+        "body": "Eenlettergrepige woorden (vaak buitenlands): il bar / i bar, il film / i film, il gas / i gas, la gru / le gru, il re / i re."
+      },
+      {
+        "kind": "text",
+        "body": "Woorden op een beklemtoonde eindklinker: la città / le città, il caffè / i caffè, l'università / le università, la verità / le verità, la velocità / le velocità, il tabù / i tabù."
+      },
+      {
+        "kind": "text",
+        "body": "Woorden op -i: l'analisi / le analisi, la crisi / le crisi, il brindisi / i brindisi."
+      },
+      {
+        "kind": "text",
+        "body": "Afkortingen: l'auto / le auto, il cinema / i cinema, la foto / le foto, il frigo / i frigo, la moto / le moto, la radio / le radio."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-twee-meervouden",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Twee meervoudsvormen",
+    "summary": "Sommige woorden hebben twee meervouden met verschillende betekenis (le braccia / i bracci).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een aantal woorden heeft twee meervoudsvormen die in betekenis (iets) verschillen. Vaak is de vorm op -a (vrouwelijk) de 'natuurlijke' groep en de vorm op -i de figuurlijke of losse betekenis."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "enkelvoud",
+          "meervoud op -i",
+          "meervoud op -a"
+        ],
+        "rows": [
+          [
+            "il braccio",
+            "i bracci (armen van bv. rivier)",
+            "le braccia (de armen)"
+          ],
+          [
+            "il dito",
+            "i diti (losse vingers)",
+            "le dita (de vingers)"
+          ],
+          [
+            "il labbro",
+            "i labbri (randen)",
+            "le labbra (de lippen)"
+          ],
+          [
+            "il membro",
+            "i membri (leden)",
+            "le membra (ledematen)"
+          ],
+          [
+            "l'osso",
+            "gli ossi (losse botten)",
+            "le ossa (het gebeente)"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-o-naar-a",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Mannelijk -o met vrouwelijk meervoud -a",
+    "summary": "Enkele woorden zijn mannelijk op -o maar hebben een vrouwelijk meervoud op -a.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il paio, le paia",
+            "nl": "het paar, de paren"
+          },
+          {
+            "it": "l'uovo, le uova",
+            "nl": "het ei, de eieren"
+          },
+          {
+            "it": "il riso, le risa",
+            "nl": "het gelach"
+          },
+          {
+            "it": "il centinaio, le centinaia",
+            "nl": "het honderdtal, honderden"
+          },
+          {
+            "it": "il migliaio, le migliaia",
+            "nl": "het duizendtal, duizenden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-io",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -io",
+    "summary": "Onbeklemtoonde i: meervoud met één i; beklemtoonde i (zio) houdt -ii.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Eindigt een woord op -io met een onbeklemtoonde i, dan heeft het meervoud één -i."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il bacio, i baci",
+            "nl": "de kus"
+          },
+          {
+            "it": "il figlio, i figli",
+            "nl": "de zoon"
+          },
+          {
+            "it": "l'occhio, gli occhi",
+            "nl": "het oog"
+          },
+          {
+            "it": "l'orologio, gli orologi",
+            "nl": "de klok"
+          },
+          {
+            "it": "lo studio, gli studi",
+            "nl": "de studie"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Maar bij een beklemtoonde i blijft de dubbele i: lo zio, gli zii (de oom)."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-co-go",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -co en -go",
+    "summary": "Meervoud soms -chi/-ghi (harde klank), soms -ci/-gi (zachte klank). Geen sluitende regel — leer per woord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij woorden op -co en -go blijft de klank soms hard (dan komt er een h bij: -chi / -ghi) en verandert hij soms naar een zachte klank (-ci / -gi). Er is geen sluitende regel; hieronder een lijst."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "hard: -chi / -ghi",
+          "zacht: -ci / -gi"
+        ],
+        "rows": [
+          [
+            "l'albergo → gli alberghi",
+            "l'amico → gli amici"
+          ],
+          [
+            "il cuoco → i cuochi",
+            "il medico → i medici"
+          ],
+          [
+            "il lago → i laghi",
+            "il nemico → i nemici"
+          ],
+          [
+            "il fungo → i funghi",
+            "il Greco → i Greci"
+          ],
+          [
+            "il dialogo → i dialoghi",
+            "lo psicologo → gli psicologi"
+          ],
+          [
+            "il Tedesco → i Tedeschi",
+            "il sindaco → i sindaci"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-cia-gia",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Woorden op -cia en -gia",
+    "summary": "Klemtoon vóór de uitgang: i vervalt (le arance). Klinker vóór c/g of beklemtoonde i: i blijft (le camicie, le farmacie).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Ligt de klemtoon op de lettergreep vóór -cia / -gia, dan vervalt de i in het meervoud: l'arancia → le arance, la faccia → le facce, la mancia → le mance, la spiaggia → le spiagge."
+      },
+      {
+        "kind": "text",
+        "body": "Staat er onmiddellijk vóór de c of g een klinker, dan blijft de i geschreven: la camicia → le camicie, la valigia → le valigie, la ciliegia → le ciliegie."
+      },
+      {
+        "kind": "text",
+        "body": "En als de i beklemtoond is, blijft hij uiteraard staan: la bugia → le bugie, la farmacia → le farmacie."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-onregelmatig",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Totaal onregelmatige vormen",
+    "summary": "Een klein aantal woorden met een geheel afwijkend meervoud.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "l'uomo, gli uomini",
+            "nl": "de man, de mannen"
+          },
+          {
+            "it": "l'arma, le armi",
+            "nl": "het wapen"
+          },
+          {
+            "it": "il bue, i buoi",
+            "nl": "de os"
+          },
+          {
+            "it": "il dio, gli dei",
+            "nl": "de god"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-samenstellingen",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Samenstellingen",
+    "summary": "Meestal een gewoon meervoud, net als niet-samengestelde woorden.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il francobollo, i francobolli",
+            "nl": "de postzegel"
+          },
+          {
+            "it": "il grattacielo, i grattacieli",
+            "nl": "de wolkenkrabber"
+          },
+          {
+            "it": "l'asciugamano, gli asciugamani",
+            "nl": "de handdoek"
+          },
+          {
+            "it": "il marciapiede, i marciapiedi",
+            "nl": "de stoep"
+          },
+          {
+            "it": "il terremoto, i terremoti",
+            "nl": "de aardbeving"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-vrouwelijke-vorm",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "De vrouwelijke vorm",
+    "summary": "-o → -a; woorden op -e blijven gelijk of worden -a/-essa; -tore → -trice; plus onregelmatige gevallen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij persoonsaanduidingen wordt de vrouwelijke vorm meestal gemaakt door de eind-o te vervangen door -a: l'amico → l'amica, il bambino → la bambina, il nonno → la nonna, lo zio → la zia, il segretario → la segretaria."
+      },
+      {
+        "kind": "text",
+        "body": "Bij veel woorden op -e is de vrouwelijke vorm gelijk aan de mannelijke: il cantante / la cantante, il cliente / la cliente, il nipote / la nipote, l'ospite (m/v)."
+      },
+      {
+        "kind": "text",
+        "body": "Sommige woorden op -e krijgen -a: il cameriere → la cameriera, l'infermiere → l'infermiera, il padrone → la padrona, il signore → la signora."
+      },
+      {
+        "kind": "table",
+        "caption": "Vrouwelijk op -essa en -trice",
+        "head": [
+          "mannelijk",
+          "vrouwelijk"
+        ],
+        "rows": [
+          [
+            "lo studente",
+            "la studentessa"
+          ],
+          [
+            "il professore",
+            "la professoressa"
+          ],
+          [
+            "il barone",
+            "la baronessa"
+          ],
+          [
+            "il dottore",
+            "la dottoressa"
+          ],
+          [
+            "l'autore",
+            "l'autrice (-tore → -trice)"
+          ],
+          [
+            "il direttore",
+            "la direttrice"
+          ],
+          [
+            "il pittore",
+            "la pittrice"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Onregelmatig: il cane → la cagna, il dio → la dea, l'eroe → l'eroina, il re → la regina."
+      },
+      {
+        "kind": "text",
+        "body": "Twee aparte woorden voor mannelijk en vrouwelijk: il fratello / la sorella, il marito / la moglie, il maschio / la femmina, il padre / la madre, l'uomo / la donna."
+      }
+    ]
+  },
+  {
+    "id": "naamwoord-geslacht-e",
+    "category": "3. Het zelfstandig naamwoord",
+    "title": "Geslacht van woorden op -e",
+    "summary": "Woorden op -ione zijn bijna altijd vrouwelijk; woorden op -ore meestal mannelijk.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij woorden op -e kun je het geslacht niet aan de uitgang zien, maar er zijn hulpregels. Vrijwel alle woorden op -ione zijn vrouwelijk (uitzondering: il milione)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "la lezione",
+            "nl": "de les"
+          },
+          {
+            "it": "la nazione",
+            "nl": "de natie"
+          },
+          {
+            "it": "la situazione",
+            "nl": "de situatie"
+          },
+          {
+            "it": "l'informazione",
+            "nl": "de informatie"
+          },
+          {
+            "it": "la televisione",
+            "nl": "de televisie"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De meeste woorden op -ore zijn daarentegen mannelijk: l'amore (de liefde), il colore (de kleur), il dolore (de pijn), il valore (de waarde)."
+      }
+    ]
+  },
+  {
+    "id": "bnw-basis",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Basisregels",
+    "summary": "Twee groepen: op -o (vier vormen) en op -e (twee vormen). Het bnw past zich aan in geslacht en getal.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijvoeglijke naamwoorden veranderen in geslacht en getal. Attributief staan ze bij het zelfstandig naamwoord (Il vino italiano); predicatief staan ze na een koppelwerkwoord als essere of sembrare (Piero è magro; Elena sembra molto stanca). In beide gevallen passen ze zich aan."
+      },
+      {
+        "kind": "text",
+        "body": "Er zijn twee groepen: bijvoeglijke naamwoorden op -o (vier vormen) en op -e (twee vormen)."
+      },
+      {
+        "kind": "table",
+        "caption": "Aanpassing",
+        "head": [
+          "groep",
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "mannelijk (op -o)",
+            "-o",
+            "-i"
+          ],
+          [
+            "vrouwelijk (op -a)",
+            "-a",
+            "-e"
+          ],
+          [
+            "mannelijk / vrouwelijk (op -e)",
+            "-e",
+            "-i"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "il vento freddo",
+            "nl": "de koude wind"
+          },
+          {
+            "it": "la luna è piena",
+            "nl": "de maan is vol"
+          },
+          {
+            "it": "gli studenti olandesi",
+            "nl": "de Nederlandse studenten"
+          },
+          {
+            "it": "le attrici sono americane",
+            "nl": "de actrices zijn Amerikaans"
+          },
+          {
+            "it": "i treni internazionali",
+            "nl": "de internationale treinen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-ista",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bijvoeglijke naamwoorden op -ista",
+    "summary": "Eén vorm in het enkelvoud; meervoud -isti (m) en -iste (v).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijvoeglijke naamwoorden op -ista hebben één vorm voor het enkelvoud, maar zijn in het meervoud regelmatig: mannelijk -isti, vrouwelijk -iste."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "l'uomo femminista",
+            "nl": "de feministische man"
+          },
+          {
+            "it": "i contadini socialisti",
+            "nl": "de socialistische boeren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-onveranderlijk",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Onveranderlijke bijvoeglijke naamwoorden",
+    "summary": "Enkele bnw veranderen nooit van vorm: blu, rosa, marrone, pari, perbene.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Sommige bijvoeglijke naamwoorden veranderen niet van vorm."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "la camicia blu",
+            "nl": "het blauwe overhemd"
+          },
+          {
+            "it": "fiori rosa",
+            "nl": "roze bloemen"
+          },
+          {
+            "it": "i guanti marrone",
+            "nl": "de bruine handschoenen"
+          },
+          {
+            "it": "un numero pari",
+            "nl": "een even aantal"
+          },
+          {
+            "it": "due signori perbene",
+            "nl": "twee keurige heren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-io-co-go",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bijvoeglijke naamwoorden op -io, -co en -go",
+    "summary": "Zoals bij de zelfstandige naamwoorden: -io met onbeklemtoonde i → één i; -co/-go soms hard (-chi/-ghi), soms zacht (-ci/-gi).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bij -io met onbeklemtoonde i heeft het mannelijk meervoud één i: ampio → ampi, medio → medi, proprio → propri, vecchio → vecchi. Maar met beklemtoonde i: pio → pii."
+      },
+      {
+        "kind": "text",
+        "body": "Bij -co en -go zijn de regels ingewikkeld met veel uitzonderingen; leer ze per woord."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "hard: -chi / -ghi",
+          "zacht: -ci / -gi"
+        ],
+        "rows": [
+          [
+            "bianco → bianchi",
+            "amico → amici"
+          ],
+          [
+            "largo → larghi",
+            "greco → greci"
+          ],
+          [
+            "lungo → lunghi",
+            "nemico → nemici"
+          ],
+          [
+            "ricco → ricchi",
+            "pubblico → pubblici"
+          ],
+          [
+            "stanco → stanchi",
+            "simpatico → simpatici"
+          ],
+          [
+            "poco → pochi",
+            "pratico → pratici"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-bello-buono",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bello, buono, grande en santo",
+    "summary": "Vóór het naamwoord verkorten deze vier zich (un bel libro, buon giorno, un gran successo, San Francesco).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Staat bello vóór het naamwoord, dan lijkt het einddeel op het bepaald lidwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "bello vóór het naamwoord",
+        "head": [
+          "lidwoord",
+          "bello-vorm",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "il",
+            "bel",
+            "un bel libro"
+          ],
+          [
+            "lo",
+            "bello",
+            "un bello scherzo"
+          ],
+          [
+            "l' (m)",
+            "bell'",
+            "un bell'uomo"
+          ],
+          [
+            "la",
+            "bella",
+            "una bella donna"
+          ],
+          [
+            "i",
+            "bei",
+            "i bei libri"
+          ],
+          [
+            "gli",
+            "begli",
+            "i begli uomini"
+          ],
+          [
+            "le",
+            "belle",
+            "le belle donne"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Staat bello áchter het naamwoord, dan krijgt het de gewone uitgangen (-o, -i, -a, -e): un quadro bello, una giornata bella."
+      },
+      {
+        "kind": "text",
+        "body": "Buono vóór het naamwoord lijkt op het onbepaald lidwoord: buon giorno, un buon esempio, una buon'idea, un buono scherzo."
+      },
+      {
+        "kind": "text",
+        "body": "Grande wordt gran vóór een medeklinker (behalve s impura en z) en grand' vóór een klinker: un gran successo, una gran fame, un grand'artista."
+      },
+      {
+        "kind": "text",
+        "body": "Santo wordt san vóór mannelijke heiligennamen met een medeklinker (behalve s impura) en sant' vóór een klinker: San Francesco, Santo Stefano, Sant'Andrea, Sant'Anna."
+      }
+    ]
+  },
+  {
+    "id": "bnw-plaats",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Plaats van het bijvoeglijk naamwoord",
+    "summary": "Onderscheidend/beperkend → achter het naamwoord; louter beschrijvend → ervoor. De plaats kan de betekenis veranderen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Heeft het bijvoeglijk naamwoord een beperkende, onderscheidende functie, dan staat het achter het naamwoord: la chiesa cattolica, una bandiera rossa, la sedia vecchia."
+      },
+      {
+        "kind": "text",
+        "body": "Is de functie puur beschrijvend en niet beperkend, dan staat het ervoor: una brutta avventura, la dolce vita, un buon caffè."
+      },
+      {
+        "kind": "table",
+        "caption": "Betekenisverschil door de plaats",
+        "head": [
+          "vóór het naamwoord",
+          "achter het naamwoord"
+        ],
+        "rows": [
+          [
+            "un brav'uomo (eerlijk man)",
+            "un uomo bravo (capabel man)"
+          ],
+          [
+            "un vecchio amico (al lang bevriend)",
+            "un amico vecchio (hoogbejaard)"
+          ],
+          [
+            "una nuova automobile (een andere)",
+            "un'automobile nuova (fonkelnieuw)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Nationaliteiten, bijvoeglijk gebruikte voltooid deelwoorden en bnw met een bijwoord of bepaling staan altijd achter het naamwoord: il popolo inglese, la settimana passata, un anno molto emozionante. Korte bnw komen vaak ervoor, lange erachter: una conferenza interessantissima."
+      }
+    ]
+  },
+  {
+    "id": "bnw-meerdere-nw",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Bij meerdere zelfstandige naamwoorden",
+    "summary": "Bij verschillend geslacht meestal de mannelijke meervoudsvorm.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Predicatief bij naamwoorden van verschillend geslacht krijgt het bnw de mannelijke meervoudsuitgang: Carlo e Maria sono malati."
+      },
+      {
+        "kind": "text",
+        "body": "Attributief bij naamwoorden van hetzelfde geslacht, beide enkelvoud: geslacht aanpassen, getal mag enkel- of meervoud zijn (Lingua e letteratura italiana; una gonna e una camicetta gialle). Staat er minstens één in het meervoud, dan meervoud (guanti e un vestito nuovi). Bij verschillend geslacht meestal mannelijk: ragazzi e ragazze buffi; pantaloni e scarpe nuovi."
+      }
+    ]
+  },
+  {
+    "id": "bnw-meerdere-bnw",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Meerdere bijvoeglijke naamwoorden bij één naamwoord",
+    "summary": "Allemaal onderscheidend → erachter; verschillende functies → beschrijvend ervoor, onderscheidend erachter.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Duiden alle bnw een onderscheidende eigenschap aan, dan zet je ze erachter: la crisi economica italiana."
+      },
+      {
+        "kind": "text",
+        "body": "Hebben ze verschillende functies (één beschrijvend, één onderscheidend), dan komt de eerste ervoor en de tweede erachter: una grave crisi economica, una buona scuola elementare, un brutto incidente stradale."
+      }
+    ]
+  },
+  {
+    "id": "bnw-vergelijkingen",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Trappen van vergelijking",
+    "summary": "Comparatief met più / meno; superlatief met lidwoord + più / meno; absolute superlatief met -issimo.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De vergrotende trap (comparatief) maak je met più of meno vóór het bnw; de overtreffende trap (superlatief) met een lidwoord + più of meno. Voorbeelden: Sei il più forte. Sono meno stupidi. I vini più venduti."
+      },
+      {
+        "kind": "table",
+        "caption": "De trappen",
+        "head": [
+          "trap",
+          "vorm",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "gelijk",
+            "(così) ... come / (tanto) ... quanto",
+            "veloce come il treno"
+          ],
+          [
+            "meer",
+            "più ...",
+            "più bello"
+          ],
+          [
+            "minder",
+            "meno ...",
+            "meno bello"
+          ],
+          [
+            "superlatief absoluut",
+            "...issimo (of molto ...)",
+            "bellissimo"
+          ],
+          [
+            "superlatief relatief",
+            "il più / il meno ...",
+            "il più bello"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il treno è più veloce dell'aereo.",
+            "nl": "De trein is sneller dan het vliegtuig."
+          },
+          {
+            "it": "La bicicletta è meno veloce del treno.",
+            "nl": "De fiets is minder snel dan de trein."
+          },
+          {
+            "it": "La macchina è (così) veloce come il treno.",
+            "nl": "De auto is even snel als de trein."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De absolute superlatief (zonder vergelijking) maak je met -issimo, met vier uitgangen: bellissimo, felicissimo. Ook met molto, estremamente of voorvoegsels als arci-, iper-, super-, stra-, ultra-: arcicontento, ipersensibile, straricco. Of door herhaling / del tutto: Sono solo solo. Non siamo del tutto convinti."
+      },
+      {
+        "kind": "text",
+        "body": "De relatieve superlatief vergelijkt met een groep: Lei è la più magra delle sorelle. Mario è il meno simpatico di tutti. Let op: staat de superlatief direct achter het naamwoord, dan wordt het lidwoord niet herhaald: la ragazza più intelligente."
+      }
+    ]
+  },
+  {
+    "id": "bnw-onregelmatig-vergelijking",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "Onregelmatige trappen van vergelijking",
+    "summary": "buono → migliore → ottimo, cattivo → peggiore → pessimo, grande → maggiore → massimo ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Enkele bijvoeglijke naamwoorden hebben onregelmatige vormen naast de regelmatige (più buono, buonissimo)."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "positief",
+          "comparatief",
+          "superlatief relatief",
+          "superlatief absoluut"
+        ],
+        "rows": [
+          [
+            "buono (goed)",
+            "migliore",
+            "il migliore",
+            "ottimo"
+          ],
+          [
+            "cattivo (slecht)",
+            "peggiore",
+            "il peggiore",
+            "pessimo"
+          ],
+          [
+            "grande (groot)",
+            "maggiore",
+            "il maggiore",
+            "massimo"
+          ],
+          [
+            "piccolo (klein)",
+            "minore",
+            "il minore",
+            "minimo"
+          ],
+          [
+            "alto (hoog)",
+            "superiore",
+            "il superiore",
+            "supremo / sommo"
+          ],
+          [
+            "basso (laag)",
+            "inferiore",
+            "l'inferiore",
+            "infimo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bnw-di-che",
+    "category": "4. Het bijvoeglijk naamwoord",
+    "title": "di en che in vergelijkingen",
+    "summary": "Meestal di (= dan); che bij twee gelijksoortige woorden, vóór een voorzetsel, of om verwarring te vermijden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Tussen de twee termen van vergelijking staat meestal di (= 'dan'): Carlo è più simpatico di Luigi."
+      },
+      {
+        "kind": "text",
+        "body": "Che gebruik je: (1) als je over één persoon/ding twee gelijksoortige woorden vergelijkt — Il lavoro è più utile che piacevole; Ci sono più uomini che donne; Meglio tardi che mai. (2) als het 'dan' vóór een voorzetsel staat — Da noi fa più caldo che al lago. (3) om herhaling van di te vermijden. (4) als di tot misverstanden zou leiden — Tu sei più geloso che Piero (want geloso di betekent 'jaloers op')."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-samentrekking",
+    "category": "5. Het voorzetsel",
+    "title": "Samentrekking met het lidwoord",
+    "summary": "a, da, di, su, in (en vaak con) smelten samen met het bepaald lidwoord: al, dal, del, sul, nel ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste voorzetsels zijn a, da, di, su, in, con en per. Op per na trekken ze samen met het bepaald lidwoord als dat er staat."
+      },
+      {
+        "kind": "table",
+        "caption": "Voorzetsel + lidwoord",
+        "head": [
+          "+",
+          "il",
+          "lo",
+          "l'",
+          "i",
+          "gli",
+          "la",
+          "le"
+        ],
+        "rows": [
+          [
+            "a",
+            "al",
+            "allo",
+            "all'",
+            "ai",
+            "agli",
+            "alla",
+            "alle"
+          ],
+          [
+            "da",
+            "dal",
+            "dallo",
+            "dall'",
+            "dai",
+            "dagli",
+            "dalla",
+            "dalle"
+          ],
+          [
+            "di",
+            "del",
+            "dello",
+            "dell'",
+            "dei",
+            "degli",
+            "della",
+            "delle"
+          ],
+          [
+            "su",
+            "sul",
+            "sullo",
+            "sull'",
+            "sui",
+            "sugli",
+            "sulla",
+            "sulle"
+          ],
+          [
+            "in",
+            "nel",
+            "nello",
+            "nell'",
+            "nei",
+            "negli",
+            "nella",
+            "nelle"
+          ],
+          [
+            "con",
+            "col",
+            "collo",
+            "coll'",
+            "coi",
+            "cogli",
+            "colla",
+            "colle"
+          ]
+        ]
+      },
+      {
+        "kind": "tip",
+        "body": "Bij con kom je steeds vaker de niet-samengetrokken vorm tegen: Ci andiamo con il treno. per trekt nooit samen."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-a",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel a",
+    "summary": "Richting of bestemming: naar, in, aan, om. Vóór een stad a, vóór een land in.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "a geeft vaak een richting of bestemming aan (naar, in, aan, om). Vóór een klinker kan het een d erbij krijgen (ad)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Vai al cinema?",
+            "nl": "Ga je naar de bioscoop?"
+          },
+          {
+            "it": "Marco abita a Firenze.",
+            "nl": "Marco woont in Florence."
+          },
+          {
+            "it": "A mezzogiorno.",
+            "nl": "Om twaalf uur 's middags."
+          },
+          {
+            "it": "Siamo ad Amsterdam.",
+            "nl": "Wij zijn in Amsterdam."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij een plaatsnaam (stad) gebruik je a, bij een landsnaam in: Vanno a Londra? Abitiamo a Roma. — Vive in Italia? Andiamo in Giappone."
+      },
+      {
+        "kind": "text",
+        "body": "Veel werkwoorden en bijvoeglijke naamwoorden hebben a als vast voorzetsel: andare a fare una passeggiata, continuare a fare qualcosa, contrario alla legge, disposto ad aiutare."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-da",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel da",
+    "summary": "Uitgangspunt in ruimte en tijd (van, vanaf, sinds), de agens in lijdende zinnen, en 'bij/naar' een persoon.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "da geeft vooral het uitgangspunt aan, in ruimte en tijd. Het wordt niet afgekapt vóór een klinker."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Da Pisa a Milano.",
+            "nl": "Van Pisa naar Milaan."
+          },
+          {
+            "it": "Il treno viene da Genova.",
+            "nl": "De trein komt uit Genua."
+          },
+          {
+            "it": "Da un anno è malato.",
+            "nl": "Sinds een jaar is hij ziek."
+          },
+          {
+            "it": "La porta è stata aperta da lui.",
+            "nl": "De deur is door hem geopend (agens)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "da drukt ook 'naar/bij' een persoon uit (vergelijk het Franse chez): Verrò subito da te. Deve andare dal dentista. Siete da Claudia?"
+      },
+      {
+        "kind": "text",
+        "body": "Verder 'geschikt om' of 'karakteristiek voor': un bicchiere da vino (wijnglas), occhiali da sole (zonnebril), una stanza da letto (slaapkamer), un'automobile da corsa (raceauto), carte da gioco (speelkaarten)."
+      },
+      {
+        "kind": "text",
+        "body": "Ook: tremare dal freddo (rillen van de kou), 'als' (te lo dico da amico; da bambino = als kind), en zn + infinitief: una macchina da scrivere (typemachine), una casa da vendere, niente da leggere."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-di",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel di",
+    "summary": "Verbindt twee naamwoorden (= van); veel vaste combinaties met werkwoorden en bijvoeglijke naamwoorden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "di verbindt vaak twee zelfstandige naamwoorden (= van) en kan vóór een klinker afgekapt worden tot d'."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "La partenza dell'aereo.",
+            "nl": "Het vertrek van het vliegtuig."
+          },
+          {
+            "it": "Un milione di euro.",
+            "nl": "Een miljoen euro."
+          },
+          {
+            "it": "Il professore d'italiano.",
+            "nl": "De leraar Italiaans."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Veel werkwoorden en bijvoeglijke naamwoorden hebben di als vast voorzetsel: Lui è innamorato di lei. Hanno bisogno di tempo. Hanno paura del cane. Sono felice di conoscerlo. Siete contenti della situazione? È capace di tutto."
+      },
+      {
+        "kind": "text",
+        "body": "Ook in uitdrukkingen: alzarsi di buon'ora (vroeg opstaan), essere malato di cuore (een hartkwaal hebben)."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-su",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel su",
+    "summary": "Meestal 'op', maar vaak anders te vertalen (in de krant, om en nabij, aan een rivier).",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il giornale è sul tavolo.",
+            "nl": "De krant ligt op tafel."
+          },
+          {
+            "it": "L'ho letto sul giornale.",
+            "nl": "Ik heb het in de krant gelezen."
+          },
+          {
+            "it": "Sarà sui quaranta.",
+            "nl": "Hij zal om en nabij de veertig zijn."
+          },
+          {
+            "it": "Ti credo sulla parola.",
+            "nl": "Ik geloof je op je woord."
+          },
+          {
+            "it": "Siamo saliti sul treno.",
+            "nl": "We zijn in de trein gestapt."
+          },
+          {
+            "it": "Roma è sul Tevere.",
+            "nl": "Rome ligt aan de Tiber."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-in",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel in",
+    "summary": "Basisbetekenis 'in' of 'naar'. Bij een jaartal wordt het nel.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "In estate andiamo al mare.",
+            "nl": "In de zomer gaan we naar zee."
+          },
+          {
+            "it": "È entrato nel negozio.",
+            "nl": "Hij is de winkel ingegaan."
+          },
+          {
+            "it": "In maggio vado via.",
+            "nl": "In mei ga ik weg."
+          },
+          {
+            "it": "Mario è in giardino.",
+            "nl": "Mario is in de tuin."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Uitdrukkingen: arrivare in tempo (op tijd komen), viaggiare in macchina (per auto reizen), in quanti siete? (met zijn hoevelen zijn jullie?)."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een jaartal staat altijd het lidwoord, wat nel oplevert (mannelijk, want 'anno' wordt bijgedacht): Nel 1968. Verdi morì nel 1901."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-con",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel con",
+    "summary": "Vaak 'met'.",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Cerco una casa con giardino.",
+            "nl": "Ik zoek een huis met een tuin."
+          },
+          {
+            "it": "Scarpe con il tacco alto.",
+            "nl": "Schoenen met hoge hak."
+          },
+          {
+            "it": "Con grande sforzo.",
+            "nl": "Met grote inspanning."
+          },
+          {
+            "it": "È sempre gentile con me.",
+            "nl": "Hij is altijd aardig tegen me."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ook in uitdrukkingen: con mia grande sorpresa (tot mijn grote verbazing), col passare del tempo (in de loop der tijd), ci alziamo con il sole (bij zonsopgang)."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-per",
+    "category": "5. Het voorzetsel",
+    "title": "Het voorzetsel per",
+    "summary": "Vaak 'voor'; geeft ook motivering, oorzaak of doel aan, en bij rekenen 'maal / gedeeld door'.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "per is vaak 'voor' en geeft dikwijls een motivering, oorzaak of doel aan."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "C'è un telegramma per te.",
+            "nl": "Er is een telegram voor je."
+          },
+          {
+            "it": "Per motivi di salute.",
+            "nl": "Om gezondheidsredenen."
+          },
+          {
+            "it": "Ha lavorato per tutta la notte.",
+            "nl": "Hij heeft de hele nacht gewerkt."
+          },
+          {
+            "it": "È stato malato per un anno.",
+            "nl": "Hij is een jaar ziek geweest."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij rekenen betekent per 'maal' of 'gedeeld door': Due per due fanno quattro. Dividere per tre. Verdere uitdrukkingen: È troppo bello per essere vero. Per il momento. L'autobus stava per partire (stond op het punt te vertrekken). Bij een bestemming hoort partire per: Partiamo per Venezia."
+      }
+    ]
+  },
+  {
+    "id": "voorzetsel-andere",
+    "category": "5. Het voorzetsel",
+    "title": "Andere voorzetsels",
+    "summary": "Samengestelde voorzetsels als a causa di, davanti a, fino a, invece di, prima di, vicino a.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast de belangrijkste voorzetsels zijn er nog vele, waaronder veel samengestelde, die qua betekenis eenvoudiger zijn."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "A causa dello sciopero.",
+            "nl": "Ten gevolge van de staking."
+          },
+          {
+            "it": "Davanti alla finestra.",
+            "nl": "Vóór het raam."
+          },
+          {
+            "it": "Ve lo presto fino a dopodomani.",
+            "nl": "Ik leen het jullie tot overmorgen."
+          },
+          {
+            "it": "Li vedo fra due giorni.",
+            "nl": "Ik zie ze over twee dagen."
+          },
+          {
+            "it": "Beve tè invece di caffè.",
+            "nl": "Hij drinkt thee in plaats van koffie."
+          },
+          {
+            "it": "Gli telefoniamo prima di venerdì.",
+            "nl": "We bellen hem vóór vrijdag."
+          },
+          {
+            "it": "Il bar è vicino alla stazione.",
+            "nl": "De bar is vlak bij het station."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-vorming",
+    "category": "6. Het bijwoord",
+    "title": "Vorming van het bijwoord",
+    "summary": "Voeg -mente toe aan de vrouwelijke vorm van het bijvoeglijk naamwoord (vera → veramente).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijwoorden zijn onveranderlijke woorden die bij een werkwoord, een bijvoeglijk naamwoord of een ander bijwoord horen. Veel bijwoorden worden gevormd door -mente toe te voegen aan de vrouwelijke vorm van het bijvoeglijk naamwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "Van bijvoeglijk naamwoord naar bijwoord",
+        "head": [
+          "uitgang bnw",
+          "→ bijwoord"
+        ],
+        "rows": [
+          [
+            "-o / -a",
+            "-amente (vero → veramente)"
+          ],
+          [
+            "-e",
+            "-emente (semplice → semplicemente)"
+          ],
+          [
+            "-le",
+            "-lmente (naturale → naturalmente)"
+          ],
+          [
+            "-re",
+            "-rmente (regolare → regolarmente)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Sono veramente pazzi.",
+            "nl": "Ze zijn echt gek."
+          },
+          {
+            "it": "Gli ho parlato brevemente.",
+            "nl": "Ik heb hem kort gesproken."
+          },
+          {
+            "it": "Mi telefona regolarmente.",
+            "nl": "Hij belt me regelmatig."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-vergelijking",
+    "category": "6. Het bijwoord",
+    "title": "Trappen van vergelijking van het bijwoord",
+    "summary": "Net als bij bijvoeglijke naamwoorden; onregelmatig: bene → meglio, male → peggio.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bijwoorden hebben trappen van vergelijking, gevormd zoals bij bijvoeglijke naamwoorden: caldamente → più caldamente → caldissimamente. Om lange -mente-vormen te vermijden gebruik je vaak in modo + bijvoeglijk naamwoord: Ha risposto in modo strano."
+      },
+      {
+        "kind": "table",
+        "caption": "Onregelmatige trappen",
+        "head": [
+          "positief",
+          "comparatief",
+          "superlatief"
+        ],
+        "rows": [
+          [
+            "bene (goed)",
+            "meglio",
+            "benissimo / ottimamente"
+          ],
+          [
+            "male (slecht)",
+            "peggio",
+            "malissimo / pessimamente"
+          ],
+          [
+            "molto (veel)",
+            "più",
+            "moltissimo"
+          ],
+          [
+            "poco (weinig)",
+            "meno",
+            "pochissimo"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-ontkenning",
+    "category": "6. Het bijwoord",
+    "title": "Bevestiging en ontkenning",
+    "summary": "sì en no; non staat vóór het ontkende woord; dubbele ontkenningen als non ... mai en non ... niente.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste bijwoorden van bevestiging en ontkenning zijn sì en no: Hai visto Mario? Sì / No. Penso di sì. Perché no? Om te ontkennen gebruik je non, direct vóór het ontkende woord (vaak het werkwoord): Non andiamo in vacanza. Non capisce lo spagnolo. Non qui."
+      },
+      {
+        "kind": "table",
+        "caption": "Dubbele ontkenningen (rond het werkwoord)",
+        "head": [
+          "vorm",
+          "betekenis"
+        ],
+        "rows": [
+          [
+            "non ... affatto",
+            "helemaal niet"
+          ],
+          [
+            "non ... ancora",
+            "nog niet"
+          ],
+          [
+            "non ... mica",
+            "heus niet"
+          ],
+          [
+            "né ... né",
+            "noch ... noch"
+          ],
+          [
+            "non ... neanche",
+            "niet eens"
+          ],
+          [
+            "non ... nessuno",
+            "niemand"
+          ],
+          [
+            "non ... niente / nulla",
+            "niets"
+          ],
+          [
+            "non ... mai",
+            "nooit"
+          ],
+          [
+            "non ... più",
+            "niet meer"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Carlo non parla ancora.",
+            "nl": "Carlo praat nog niet."
+          },
+          {
+            "it": "Non ho né voglia né tempo.",
+            "nl": "Ik heb geen zin en geen tijd."
+          },
+          {
+            "it": "Non abbiamo più soldi.",
+            "nl": "We hebben geen geld meer."
+          },
+          {
+            "it": "Non vedono niente.",
+            "nl": "Ze zien niets."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ontbreekt het werkwoord of staat het tweede deel voorop, dan vervalt non: Nessuno ha visto qualcosa. Che cosa hai fatto? Niente. No, mai. Zonder non kan mai ook 'ooit' betekenen: Avete mai bevuto campari? Onbeklemtoonde voornaamwoorden en ci/ne staan tussen non en het werkwoord: Non lo vedo. Non ci andiamo. Non ne parla."
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-overige",
+    "category": "6. Het bijwoord",
+    "title": "Bijwoorden niet van een bnw afgeleid",
+    "summary": "Een grote groep losse bijwoorden: adesso, allora, già, oggi, domani, sempre, presto, tardi ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast de afgeleide bijwoorden zijn er veel losse bijwoorden en woordcombinaties: adesso (nu), allora (toen), a lungo (lang), bene (goed), così (zo), davvero (werkelijk), dentro (binnen), di solito (gewoonlijk), domani (morgen), dopo (straks), d'ora in poi (voortaan), dopodomani (overmorgen), forse (misschien), fuori (buiten), già (al), ieri / l'altro ieri ((eer)gisteren), lì / là (daar), male (slecht), molto (veel), oggi (vandaag), ora (nu), poco (weinig), poi (dan), presto (snel), prima (eerst), sempre (altijd), solo (slechts), tanto (zo veel), tardi ((te) laat), troppo ((te) veel), qui / qua (hier)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Adesso piove.",
+            "nl": "Nu regent het."
+          },
+          {
+            "it": "Si conoscono bene.",
+            "nl": "Ze kennen elkaar goed."
+          },
+          {
+            "it": "Il treno è già arrivato.",
+            "nl": "De trein is al aangekomen."
+          },
+          {
+            "it": "Se non ti sbrighi, fai tardi.",
+            "nl": "Als je niet opschiet, ben je te laat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-vaste-combinaties",
+    "category": "6. Het bijwoord",
+    "title": "Vaste combinaties",
+    "summary": "In vaste combinaties heeft het bijwoord de mannelijke bnw-vorm en verandert niet (andare veloce, parlare piano).",
+    "blocks": [
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Abitare vicino.",
+            "nl": "Vlakbij wonen."
+          },
+          {
+            "it": "Andare lontano.",
+            "nl": "Ver weg gaan."
+          },
+          {
+            "it": "Andare veloce.",
+            "nl": "Hard gaan."
+          },
+          {
+            "it": "Gridare forte.",
+            "nl": "Hard schreeuwen."
+          },
+          {
+            "it": "Parlare piano.",
+            "nl": "Zachtjes spreken."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-ne-ci",
+    "category": "6. Het bijwoord",
+    "title": "De partikels ne en ci",
+    "summary": "ne vervangt een groep met di/da of een hoeveelheid; ci vervangt een groep met a/in/su. Samen worden ze ce ne.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "ne vervangt een voorzetselgroep met di of da (Hai parlato di questo? No, non ne ho parlato), een delend lidwoord (Ha del basilico? No, non ne ho più; Prendine!) of een hoeveelheid / getal (Lui aveva quindici anni, ed io ne avevo sette). In voltooide tijden past het voltooid deelwoord zich dan aan: Avete visto molte bestie? Sì, ne abbiamo viste moltissime."
+      },
+      {
+        "kind": "text",
+        "body": "ci vervangt een voorzetselgroep met a, in of su, en wordt c' vóór e of i: Vai a Roma? Sì, ci vado domani. C'è Gianni? Posso contarci? Sì, contaci! Samen met ne wordt ci → ce: Ci sono ancora delle fragole? No, non ce ne sono più. In de spreektaal betekent averci gewoon 'hebben': Non ce l'abbiamo."
+      }
+    ]
+  },
+  {
+    "id": "bijwoord-positie",
+    "category": "6. Het bijwoord",
+    "title": "Positie van het bijwoord",
+    "summary": "Vóór een bnw/bijwoord dat het bepaalt; meestal direct achter het werkwoord; già/più/mai/sempre tussen hulpww en deelwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bepaalt het bijwoord een bijvoeglijk naamwoord of ander bijwoord, dan staat het ervoor: È molto semplice. Dorme estremamente bene. Bepaalt het een werkwoord, dan meestal direct erachter: Arrivo subito. Sono partiti improvvisamente."
+      },
+      {
+        "kind": "text",
+        "body": "Een klein groepje staat tussen het hulpwerkwoord en het voltooid deelwoord: già (al), più (meer), mai (nooit/ooit), sempre (altijd): L'abbiamo già fatto. Non l'hanno mai capito. Ti ho sempre detto la verità. De woorden anche (ook), neanche (ook niet), solo / solamente / soltanto (slechts) staan vóór het woord waar ze bij horen: Non è solo intelligente, ma anche spiritoso. Hanno solo un cane."
+      }
+    ]
+  },
+  {
+    "id": "telwoord-vormen",
+    "category": "7. Het telwoord",
+    "title": "Hoofd- en rangtelwoorden",
+    "summary": "Hoofdtelwoorden (om te tellen, onveranderlijk) en rangtelwoorden (volgorde, als bijvoeglijk naamwoord).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Hoofdtelwoorden dienen om te tellen en zijn onveranderlijk; rangtelwoorden geven een volgorde aan en gedragen zich als bijvoeglijk naamwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "0 t/m 20",
+        "head": [
+          "getal",
+          "hoofdtelwoord",
+          "rangtelwoord"
+        ],
+        "rows": [
+          [
+            "0",
+            "zero",
+            "-"
+          ],
+          [
+            "1",
+            "uno",
+            "primo"
+          ],
+          [
+            "2",
+            "due",
+            "secondo"
+          ],
+          [
+            "3",
+            "tre",
+            "terzo"
+          ],
+          [
+            "4",
+            "quattro",
+            "quarto"
+          ],
+          [
+            "5",
+            "cinque",
+            "quinto"
+          ],
+          [
+            "6",
+            "sei",
+            "sesto"
+          ],
+          [
+            "7",
+            "sette",
+            "settimo"
+          ],
+          [
+            "8",
+            "otto",
+            "ottavo"
+          ],
+          [
+            "9",
+            "nove",
+            "nono"
+          ],
+          [
+            "10",
+            "dieci",
+            "decimo"
+          ],
+          [
+            "11",
+            "undici",
+            "undicesimo"
+          ],
+          [
+            "12",
+            "dodici",
+            "dodicesimo"
+          ],
+          [
+            "13",
+            "tredici",
+            "tredicesimo"
+          ],
+          [
+            "14",
+            "quattordici",
+            "quattordicesimo"
+          ],
+          [
+            "15",
+            "quindici",
+            "quindicesimo"
+          ],
+          [
+            "16",
+            "sedici",
+            "sedicesimo"
+          ],
+          [
+            "17",
+            "diciassette",
+            "diciassettesimo"
+          ],
+          [
+            "18",
+            "diciotto",
+            "diciottesimo"
+          ],
+          [
+            "19",
+            "diciannove",
+            "diciannovesimo"
+          ],
+          [
+            "20",
+            "venti",
+            "ventesimo"
+          ]
+        ]
+      },
+      {
+        "kind": "table",
+        "caption": "Tientallen, honderden, duizenden",
+        "head": [
+          "getal",
+          "hoofdtelwoord"
+        ],
+        "rows": [
+          [
+            "21",
+            "ventuno"
+          ],
+          [
+            "22",
+            "ventidue"
+          ],
+          [
+            "23",
+            "ventitré"
+          ],
+          [
+            "30",
+            "trenta"
+          ],
+          [
+            "40",
+            "quaranta"
+          ],
+          [
+            "50",
+            "cinquanta"
+          ],
+          [
+            "60",
+            "sessanta"
+          ],
+          [
+            "70",
+            "settanta"
+          ],
+          [
+            "80",
+            "ottanta"
+          ],
+          [
+            "90",
+            "novanta"
+          ],
+          [
+            "100",
+            "cento"
+          ],
+          [
+            "200",
+            "duecento"
+          ],
+          [
+            "1000",
+            "mille"
+          ],
+          [
+            "2000",
+            "duemila"
+          ],
+          [
+            "100.000",
+            "centomila"
+          ],
+          [
+            "1.000.000",
+            "un milione"
+          ],
+          [
+            "1.000.000.000",
+            "un miliardo"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Hoofdtelwoorden zijn onveranderlijk. Alleen uno gedraagt zich als het onbepaald lidwoord (una voor een vrouwelijk woord). De eindklinker van ventuno, trentuno enz. valt weg vóór een volgend woord (ventun, trentun). Het meervoud van mille is mila. Milione en miliardo zijn zelfstandige naamwoorden en krijgen di vóór een volgend naamwoord: un milione di euro."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ho un figlio e una figlia.",
+            "nl": "Ik heb een zoon en een dochter."
+          },
+          {
+            "it": "Luglio ha trentun giorni.",
+            "nl": "Juli heeft eenendertig dagen."
+          },
+          {
+            "it": "Millenovecentocinquantaquattro.",
+            "nl": "1954"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-rang-breuken",
+    "category": "7. Het telwoord",
+    "title": "Rangtelwoorden en breuken",
+    "summary": "Vanaf 11: eindklinker → -esimo. Rangtelwoorden dienen ook als noemer in breuken (un terzo, tre quarti).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vanaf undici vorm je het rangtelwoord door de eindklinker te vervangen door -esimo. Bij ventitré, trentatré enz. is de eind-e beklemtoond en valt hij niet weg. Bij namen van vorsten en pausen staat het rangtelwoord — anders dan in het Nederlands — zonder lidwoord, áchter de naam."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il primo giorno.",
+            "nl": "De eerste dag."
+          },
+          {
+            "it": "Il dodicesimo mese.",
+            "nl": "De twaalfde maand."
+          },
+          {
+            "it": "Enrico quarto.",
+            "nl": "Hendrik de vierde."
+          },
+          {
+            "it": "Pio dodicesimo.",
+            "nl": "Pius de twaalfde."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Rangtelwoorden dienen ook als noemer in breuken; is de teller groter dan één, dan krijgt de noemer een meervoudsuitgang: 1/3 = un terzo, 3/4 = tre quarti, 2/5 = due quinti, 1/100 = un centesimo. Bij noemer 2 gebruik je mezzo/mezzi. Un centesimo is ook 'een cent'."
+      }
+    ]
+  },
+  {
+    "id": "telwoord-quantificatoren",
+    "category": "7. Het telwoord",
+    "title": "Andere quantificatoren",
+    "summary": "-ina = 'tal' (una quarantina); centinaio/centinaia, migliaio/migliaia; il doppio, il triplo.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Met het achtervoegsel -ina achter een hoofdtelwoord tot honderd krijg je iets als het Nederlandse '-tal'. Bij honderd is dat centinaio (mv. centinaia) en bij duizend migliaio (mv. migliaia). Dozzina betekent dozijn. Il doppio (het dubbele), il triplo (het drievoudige) en il quadruplo (het viervoudige) geven een veelvoud aan."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Una quarantina di persone.",
+            "nl": "Een veertigtal mensen."
+          },
+          {
+            "it": "Un centinaio di alberi.",
+            "nl": "Een honderdtal bomen."
+          },
+          {
+            "it": "Migliaia di formiche.",
+            "nl": "Duizenden mieren."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-datum",
+    "category": "7. Het telwoord",
+    "title": "De datum",
+    "summary": "Vóór een jaartal het lidwoord; de eerste van de maand met een rangtelwoord, de andere dagen met een hoofdtelwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vóór een jaartal staat het bepaald lidwoord, maar boven een brief gebruik je geen lidwoord. De eerste van de maand duid je aan met een rangtelwoord (il primo), de andere dagen met een hoofdtelwoord. Eeuwen na het jaar 1000 geef je vaak aan met het hoofdtelwoord met een hoofdletter: il Trecento (de 14e eeuw), il Novecento (de 20e eeuw)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Nel 1932.",
+            "nl": "In 1932."
+          },
+          {
+            "it": "Firenze, 12 novembre 1991.",
+            "nl": "Florence, 12 november 1991 (boven een brief)."
+          },
+          {
+            "it": "Il primo agosto.",
+            "nl": "1 augustus."
+          },
+          {
+            "it": "Il diciannove gennaio.",
+            "nl": "19 januari."
+          },
+          {
+            "it": "Quanti ne abbiamo oggi?",
+            "nl": "De hoeveelste is het vandaag?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telwoord-tijd",
+    "category": "7. Het telwoord",
+    "title": "De tijd (klok)",
+    "summary": "Het uur krijgt le (want ore); alleen una → l'. mezzogiorno / mezzanotte voor 12 uur. Na het halve uur rekent men terug vanaf het hele uur.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Omdat je stilzwijgend naar het vrouwelijke ore verwijst, staat vóór het uur het lidwoord le; alleen bij una is dat l'. Twaalf uur 's middags en 's nachts zijn mezzogiorno en mezzanotte. Na het halve uur rekent het Italiaans terug vanaf het hele volgende uur."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Che ore sono? / Che ora è?",
+            "nl": "Hoe laat is het?"
+          },
+          {
+            "it": "Sono le due e cinque.",
+            "nl": "Het is vijf over twee."
+          },
+          {
+            "it": "Sono le tre e un quarto.",
+            "nl": "Het is kwart over drie."
+          },
+          {
+            "it": "È l'una.",
+            "nl": "Het is één uur."
+          },
+          {
+            "it": "Le cinque e mezzo.",
+            "nl": "Half zes."
+          },
+          {
+            "it": "Le sei meno un quarto.",
+            "nl": "Kwart voor zes."
+          },
+          {
+            "it": "Alle due e venticinque.",
+            "nl": "Om vijf voor half drie."
+          },
+          {
+            "it": "Alle cinque precise.",
+            "nl": "Om precies vijf uur."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Voor het onderscheid ochtend/avond voeg je di mattina, del pomeriggio, di sera of di notte toe (of de afkortingen a.m. / p.m.). Op stations, vliegvelden en radio gebruikt men de officiële 24-uursindeling: le sedici e quarantacinque (16.45)."
+      }
+    ]
+  },
+  {
+    "id": "vnw-aanwijzend",
+    "category": "8. Het voornaamwoord",
+    "title": "Het aanwijzend voornaamwoord",
+    "summary": "questo (deze/dit) voor dichtbij, quello (die/dat) voor veraf; quello verkort als bello en het lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste aanwijzende voornaamwoorden zijn questo (deze/dit, dichtbij) en quello (die/dat, veraf). Beide kunnen bijvoeglijk (met het naamwoord) en zelfstandig (zonder) gebruikt worden. questo gedraagt zich als een bnw op -o; quello verkort vóór het naamwoord net als bello en het bepaald lidwoord."
+      },
+      {
+        "kind": "table",
+        "caption": "quello vóór het naamwoord",
+        "head": [
+          "enkelvoud",
+          "meervoud"
+        ],
+        "rows": [
+          [
+            "quel libro",
+            "quei libri"
+          ],
+          [
+            "quello studente",
+            "quegli studenti"
+          ],
+          [
+            "quell'uomo",
+            "quegli uomini"
+          ],
+          [
+            "quella donna",
+            "quelle donne"
+          ],
+          [
+            "quell'amica",
+            "quelle amiche"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Questo giornale è di ieri.",
+            "nl": "Deze krant is van gisteren."
+          },
+          {
+            "it": "Odio quel ragazzo.",
+            "nl": "Ik haat die jongen."
+          },
+          {
+            "it": "È bello quello specchio.",
+            "nl": "Die spiegel is mooi."
+          },
+          {
+            "it": "Non voglio il tuo orologio, ma quello di mio padre.",
+            "nl": "Ik wil niet jouw horloge, maar dat van mijn vader."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "In de schrijftaal gebruikt men ciò (dat, dit, dat wat) voor het zelfstandige questo/quello. ciò en quello dienen ook vaak als antecedent van een betrekkelijk voornaamwoord: Ciò che dici non è vero (Wat je zegt is niet waar)."
+      }
+    ]
+  },
+  {
+    "id": "vnw-betrekkelijk",
+    "category": "8. Het voornaamwoord",
+    "title": "Het betrekkelijk voornaamwoord",
+    "summary": "che (onderwerp/lijdend vw.), cui (na een voorzetsel), il quale (om verwarring te vermijden) en chi (zonder antecedent).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "che is het meest gebruikte, onveranderlijke betrekkelijke voornaamwoord; het slaat terug op personen en zaken en kan onderwerp of lijdend voorwerp zijn: C'è un signore che l'attende. L'orologio che hai comprato. Slaat het terug op een hele zin, dan komt il che: Dormiamo bene, il che è magnifico."
+      },
+      {
+        "kind": "text",
+        "body": "Na een voorzetsel gebruik je cui (onveranderlijk): la macchina con cui viaggiamo; una cosa di cui dobbiamo parlare; il motivo per cui... Bij a cui mag a wegvallen. Met een lidwoord ervoor drukt cui bezit uit: il libro il cui scrittore è famoso."
+      },
+      {
+        "kind": "text",
+        "body": "che en cui kunnen vervangen worden door il quale, la quale, del quale, con il quale enz. — vaak om onduidelijkheid te vermijden (het lidwoord verraadt geslacht en getal) of als het antecedent ver weg staat: Hanno invitato la moglie di Mario, la quale è professoressa."
+      },
+      {
+        "kind": "text",
+        "body": "chi is het enige betrekkelijk voornaamwoord zonder antecedent; het verwijst naar mensen en komt veel voor in spreekwoorden: Chi cerca trova. Ride ben chi ride l'ultimo. In plaats van chi kun je quello che, colui che, coloro che gebruiken."
+      }
+    ]
+  },
+  {
+    "id": "vnw-onderwerp",
+    "category": "8. Het voornaamwoord",
+    "title": "Persoonlijk voornaamwoord als onderwerp",
+    "summary": "io, tu, lui/lei, noi, voi, loro; meestal weggelaten, alleen bij nadruk of onduidelijkheid. Lei/Loro zijn de beleefdheidsvormen.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Onderwerpsvormen",
+        "head": [
+          "persoon",
+          "voornaamwoord"
+        ],
+        "rows": [
+          [
+            "1e enkelvoud",
+            "io (ik)"
+          ],
+          [
+            "2e enkelvoud",
+            "tu (jij)"
+          ],
+          [
+            "3e enkelvoud",
+            "lui (hij) / lei (zij)"
+          ],
+          [
+            "beleefd",
+            "Lei (u)"
+          ],
+          [
+            "1e meervoud",
+            "noi (wij)"
+          ],
+          [
+            "2e meervoud",
+            "voi (jullie)"
+          ],
+          [
+            "3e meervoud",
+            "loro (zij)"
+          ],
+          [
+            "beleefd mv.",
+            "Loro (u)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het onderwerpsvoornaamwoord wordt normaal weggelaten; je gebruikt het alleen als het onderwerp onduidelijk is of nadruk heeft, of na woordjes als (ne)anche: Io non sopporto il fumo. E tu, dove vai? Neanche loro lo sanno. In de schrijftaal kom je ook egli/ella (personen) en esso/essa (dingen) tegen."
+      },
+      {
+        "kind": "text",
+        "body": "Lei en Loro zijn de beleefdheidsvormen (met of zonder hoofdletter). Lei is oorspronkelijk vrouwelijk, maar bij een man staat het bijbehorende deelwoord of bijvoeglijk naamwoord in de mannelijke vorm. Het onpersoonlijke 'het' wordt niet met een apart woord uitgedrukt: Fa bel tempo. Chi è? Sono io."
+      }
+    ]
+  },
+  {
+    "id": "vnw-voorwerp",
+    "category": "8. Het voornaamwoord",
+    "title": "Lijdend en meewerkend voorwerp",
+    "summary": "Onbeklemtoonde vormen (mi, ti, lo/la, gli/le, ci, vi, li/le, gli) en beklemtoonde (a me, me ...). De onbeklemtoonde komen het meest voor.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De persoonlijke voornaamwoorden hebben ook een meewerkend voorwerp (datief) en een lijdend voorwerp (accusatief), elk in een onbeklemtoonde (forme atone) en een beklemtoonde vorm (forme toniche). De onbeklemtoonde komen het vaakst voor; de beklemtoonde gebruik je bij nadruk of na een voorzetsel."
+      },
+      {
+        "kind": "table",
+        "caption": "Voorwerpsvormen",
+        "head": [
+          "persoon",
+          "meew. onbekl.",
+          "lijd. onbekl.",
+          "meew. beklemt.",
+          "lijd. beklemt."
+        ],
+        "rows": [
+          [
+            "1e ev",
+            "mi",
+            "mi",
+            "a me",
+            "me"
+          ],
+          [
+            "2e ev",
+            "ti",
+            "ti",
+            "a te",
+            "te"
+          ],
+          [
+            "3e ev m.",
+            "gli",
+            "lo",
+            "a lui",
+            "lui"
+          ],
+          [
+            "3e ev v.",
+            "le",
+            "la",
+            "a lei",
+            "lei"
+          ],
+          [
+            "1e mv",
+            "ci",
+            "ci",
+            "a noi",
+            "noi"
+          ],
+          [
+            "2e mv",
+            "vi",
+            "vi",
+            "a voi",
+            "voi"
+          ],
+          [
+            "3e mv m.",
+            "gli",
+            "li",
+            "a loro",
+            "loro"
+          ],
+          [
+            "3e mv v.",
+            "gli",
+            "le",
+            "a loro",
+            "loro"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Carlo non mi saluta mai.",
+            "nl": "Carlo groet me nooit."
+          },
+          {
+            "it": "Gli vuoi ancora bene?",
+            "nl": "Houd je nog van hem?"
+          },
+          {
+            "it": "Lo vediamo domani.",
+            "nl": "We zien hem morgen."
+          },
+          {
+            "it": "Le scrive una lettera.",
+            "nl": "Hij schrijft haar/u een brief."
+          },
+          {
+            "it": "Li vedrò domani.",
+            "nl": "Ik zal ze morgen zien."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "lo en la worden l' vóór een klinker of h; de meervoudsvormen (li, le) worden nooit afgekapt. lo pronominaliseert ook een hele zin of een bijvoeglijk naamwoord: Verrà? Non lo so ancora. Puoi venire? Lo spero."
+      }
+    ]
+  },
+  {
+    "id": "vnw-combinaties",
+    "category": "8. Het voornaamwoord",
+    "title": "Combinaties van voornaamwoorden",
+    "summary": "Meewerkend voorop, met klankverandering naar e: mi + lo → me lo; gli/le + lo → glielo. Ook met ne: me ne, gliene.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Meewerkend en lijdend voorwerp kunnen gecombineerd worden. Het meewerkend voorwerp komt voorop en de klinker verandert in e (mi + lo → me lo). gli en le worden vóór lo/la/li/le altijd gliel...: glielo, gliela, glieli, gliele."
+      },
+      {
+        "kind": "table",
+        "caption": "Combinaties",
+        "head": [
+          "+",
+          "lo",
+          "la",
+          "li",
+          "le"
+        ],
+        "rows": [
+          [
+            "mi",
+            "me lo",
+            "me la",
+            "me li",
+            "me le"
+          ],
+          [
+            "ti",
+            "te lo",
+            "te la",
+            "te li",
+            "te le"
+          ],
+          [
+            "ci",
+            "ce lo",
+            "ce la",
+            "ce li",
+            "ce le"
+          ],
+          [
+            "vi",
+            "ve lo",
+            "ve la",
+            "ve li",
+            "ve le"
+          ],
+          [
+            "gli / le",
+            "glielo",
+            "gliela",
+            "glieli",
+            "gliele"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Me lo hanno detto.",
+            "nl": "Ze hebben het me gezegd."
+          },
+          {
+            "it": "Ce lo vuole prestare.",
+            "nl": "Hij wil het ons lenen."
+          },
+          {
+            "it": "Glielo diremo.",
+            "nl": "We zullen het hem/haar/u zeggen."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Ook het partikel ne combineert zo: mi + ne → me ne, gli/le + ne → gliene. Me ne dà una spiegazione? Non gliene hanno parlato."
+      }
+    ]
+  },
+  {
+    "id": "vnw-enclitisch",
+    "category": "8. Het voornaamwoord",
+    "title": "Voornaamwoord vast aan het werkwoord",
+    "summary": "Bij gebiedende wijs, gerundio, deelwoord, infinitief en ecco komt het vnw erachter en vast eraan (chiamalo, eccola).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Soms komt het onbeklemtoonde voornaamwoord achter de werkwoordsvorm en wordt het eraan vastgeschreven (enclitisch): bij de gebiedende wijs, een zelfstandig gebruikt gerundio, een zelfstandig voltooid deelwoord, een infinitief en het woordje ecco: Chiamalo subito! Aspettandolo... È partito senza salutarli. Eccola."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een modaal hulpwerkwoord (dovere, potere, sapere, volere) + infinitief mag het voornaamwoord vóór het hulpwerkwoord óf vast aan de infinitief staan: Non voglio farlo = Non lo voglio fare. Possiamo darglielo = Glielo possiamo dare. Een cluster blijft wel onscheidbaar. Ook constructies met a en de partikels ne/ci gedragen zich zo: Lo vado a prendere = Vado a prenderlo. Gliene voglio parlare = Voglio parlargliene."
+      }
+    ]
+  },
+  {
+    "id": "vnw-wederkerend",
+    "category": "8. Het voornaamwoord",
+    "title": "Het wederkerend voornaamwoord",
+    "summary": "mi, ti, si, ci, vi, si als het voornaamwoord naar het onderwerp verwijst; beklemtoond sé; meervoud kan 'elkaar' betekenen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Verwijst het voornaamwoord naar dezelfde persoon als het onderwerp, dan is het wederkerend: mi, ti, si, ci, vi, si."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Mi alzo alle sette.",
+            "nl": "Ik sta om zeven uur op."
+          },
+          {
+            "it": "Ti diverti?",
+            "nl": "Amuseer je je?"
+          },
+          {
+            "it": "Si preoccupa.",
+            "nl": "Hij maakt zich zorgen."
+          },
+          {
+            "it": "Ci scusiamo.",
+            "nl": "Wij verontschuldigen ons."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Van de derde persoon bestaat naast si een beklemtoond sé (met accent): Luigi non pensa che a sé. Met stesso krijgt het geen accent: Carlo fotografa se stesso. De meervoudsvormen kunnen ook 'elkaar' betekenen: Ci mandiamo delle cartoline (We sturen elkaar kaarten)."
+      }
+    ]
+  },
+  {
+    "id": "bezit-vormen",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Vormen van het bezittelijk voornaamwoord",
+    "summary": "mio, tuo, suo, nostro, vostro, loro; ze passen zich aan aan het naamwoord (niet aan de bezitter) en hebben meestal een lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Bezittelijke voornaamwoorden gedragen zich als bijvoeglijke naamwoorden: ze passen zich in geslacht en getal aan aan het zelfstandig naamwoord waar ze bij horen — dus niet, zoals in het Nederlands, aan de 'bezitter'. Meestal staat er een lidwoord voor."
+      },
+      {
+        "kind": "table",
+        "caption": "De vormen",
+        "head": [
+          "betekenis",
+          "m. ev.",
+          "v. ev.",
+          "m. mv.",
+          "v. mv."
+        ],
+        "rows": [
+          [
+            "mijn",
+            "mio",
+            "mia",
+            "miei",
+            "mie"
+          ],
+          [
+            "jouw",
+            "tuo",
+            "tua",
+            "tuoi",
+            "tue"
+          ],
+          [
+            "zijn / haar / uw",
+            "suo",
+            "sua",
+            "suoi",
+            "sue"
+          ],
+          [
+            "onze",
+            "nostro",
+            "nostra",
+            "nostri",
+            "nostre"
+          ],
+          [
+            "jullie",
+            "vostro",
+            "vostra",
+            "vostri",
+            "vostre"
+          ],
+          [
+            "hun",
+            "loro",
+            "loro",
+            "loro",
+            "loro"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Il mio libro.",
+            "nl": "Mijn boek."
+          },
+          {
+            "it": "La tua bicicletta.",
+            "nl": "Jouw fiets."
+          },
+          {
+            "it": "I suoi occhiali.",
+            "nl": "Zijn / haar / uw bril."
+          },
+          {
+            "it": "I nostri studenti.",
+            "nl": "Onze studenten."
+          },
+          {
+            "it": "Il loro tempo.",
+            "nl": "Hun tijd."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "I suoi libri kan 'zijn', 'haar' of 'uw' boeken betekenen; de context beslist. Is de bezitter gelijk aan het onderwerp, dan kan proprio (eigen). Zelfstandig gebruikt vervalt meestal het lidwoord: Di chi è questo libro? È mio. Non ho la biro, mi presti la tua? Het bezittelijk voornaamwoord wordt minder gebruikt dan in het Nederlands: als de bezitter duidelijk is, laat je het weg: Ho ritrovato la valigia. Ti lavi le mani?"
+      }
+    ]
+  },
+  {
+    "id": "bezit-lidwoord",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Lidwoord bij het bezittelijk voornaamwoord",
+    "summary": "Geen lidwoord bij nauwe verwantschapsnamen in het enkelvoud (mio nonno), wél in meervoud en enkele andere gevallen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Normaal staat er een lidwoord voor. Maar bij nauwe verwantschapsnamen in het enkelvoud laat je het weg: padre, madre, figlio, figlia, zio, zia, nonno, nonna, marito, moglie, fratello, sorella. Bij cognato, suocero, cugino, nipote enz. mag het met of zonder: Mio nonno è vecchio. Come si chiama tua figlia? Suo marito lavora?"
+      },
+      {
+        "kind": "text",
+        "body": "Bij familieleden gebruik je tóch het lidwoord als: ze in het meervoud staan (i tuoi fratelli), ze een verkleinvorm hebben (il vostro fratellino), ze nader bepaald zijn door een eigennaam, bijvoeglijk naamwoord of bijzin (il mio fratello Mario; il tuo zio che abita a Roma), het voornaamwoord loro is (la loro madre), of een koosnaam gebruikt wordt (il mio babbo)."
+      },
+      {
+        "kind": "text",
+        "body": "Bezittelijke voornaamwoorden combineren met een lidwoord, aanwijzend/onbepaald voornaamwoord of getal: un mio amico (een vriend van mij), quel suo eterno sigaro, alcune tue amiche, due tuoi vestiti. Bij het aanspreken vervalt het lidwoord en staat het meestal achter het naamwoord: amico mio. Vaste uitdrukkingen zonder lidwoord: a casa tua, a mio parere, per colpa tua, in nostro favore."
+      }
+    ]
+  },
+  {
+    "id": "vraag-vnw",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Vragend en uitroepend voornaamwoord",
+    "summary": "chi (wie), che / cosa (wat), quale / quali (welke), quanto (hoeveel).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De belangrijkste zijn chi (wie), che / che cosa / cosa (wat), quale / quali (welke) en quanto (hoeveel). chi gebruik je voor personen (onveranderlijk, ook na een voorzetsel); che voor dingen, zelfstandig en bijvoeglijk. quanto heeft vier uitgangen."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Chi sei?",
+            "nl": "Wie ben je?"
+          },
+          {
+            "it": "Con chi vai al cinema?",
+            "nl": "Met wie ga je naar de film?"
+          },
+          {
+            "it": "Che cosa vuole?",
+            "nl": "Wat wil hij?"
+          },
+          {
+            "it": "Che caldo!",
+            "nl": "Wat warm!"
+          },
+          {
+            "it": "Quale macchina vuole?",
+            "nl": "Welke auto wilt u?"
+          },
+          {
+            "it": "Quanto costa?",
+            "nl": "Hoeveel kost het?"
+          },
+          {
+            "it": "Quante volte devo dirtelo?",
+            "nl": "Hoe vaak moet ik het je zeggen?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "onbepaald-vnw",
+    "category": "9. Het bezittelijk voornaamwoord",
+    "title": "Onbepaald voornaamwoord",
+    "summary": "qualche en ogni (alleen bijvoeglijk, enkelvoud); alcuno, nessuno, altro, molto, tutto; qualcuno, qualcosa, niente (alleen zelfstandig).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "qualche (enkele) en ogni (iedere) worden alleen bijvoeglijk gebruikt, zijn onveranderlijk en hebben altijd een enkelvoud achter zich: Qualche volta. Qualche libro. Ogni giorno. Ogni settimana."
+      },
+      {
+        "kind": "text",
+        "body": "Bijvoeglijk én zelfstandig: alcuno, ciascuno, nessuno, altro, poco / po', parecchio, molto, troppo, più, meno, tutto. Na tutto komt een lidwoord; tutto + getal wordt verbonden met e."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Nessuno è responsabile.",
+            "nl": "Niemand is verantwoordelijk."
+          },
+          {
+            "it": "Un'altra volta.",
+            "nl": "Een andere keer."
+          },
+          {
+            "it": "Vuoi un po' di vino?",
+            "nl": "Wil je wat wijn?"
+          },
+          {
+            "it": "Tutti gli studenti.",
+            "nl": "Alle studenten."
+          },
+          {
+            "it": "Sono venuti tutti e tre.",
+            "nl": "Ze zijn alle drie gekomen."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Alleen zelfstandig: qualcuno (iemand), uno, ognuno (iedereen), qualcosa (iets), niente en nulla (niets): C'è qualcuno? Ognuno ha i suoi problemi. È successo qualcosa. Na qualcosa + bijvoeglijk naamwoord komt di: Hai letto qualcosa di bello? qualunque en qualsiasi (welke dan ook) zijn onveranderlijk; na qualunque en dovunque komt een conjunctief: Qualunque cosa dica, non ti credo. Dovunque vada, sarà felice."
+      }
+    ]
+  },
+  {
+    "id": "voegwoord",
+    "category": "10. Het voegwoord",
+    "title": "Het voegwoord",
+    "summary": "Verbinden woorden of zinsdelen: e, che, ma, o; en onderschikkende zoals affinché, benché, come se (vaak met conjunctief).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Voegwoorden zijn onveranderlijk en verbinden twee woorden of zinsdelen. De meest frequente zijn e(d) (en), che (dat), ma (maar) en o(ppure) (of): Vado e torno. Penso che verranno insieme. Lui è sicuro, ma io no. Vai in macchina o in treno?"
+      },
+      {
+        "kind": "table",
+        "caption": "Belangrijke voegwoorden",
+        "head": [
+          "voegwoord",
+          "betekenis"
+        ],
+        "rows": [
+          [
+            "affinché (+ conj.)",
+            "opdat"
+          ],
+          [
+            "altrimenti",
+            "anders"
+          ],
+          [
+            "appena",
+            "zodra"
+          ],
+          [
+            "benché (+ conj.)",
+            "hoewel"
+          ],
+          [
+            "come se (+ conj.)",
+            "alsof"
+          ],
+          [
+            "dato che / poiché / siccome",
+            "aangezien"
+          ],
+          [
+            "dunque / quindi",
+            "dus, daarom"
+          ],
+          [
+            "mentre",
+            "terwijl"
+          ],
+          [
+            "né",
+            "noch"
+          ],
+          [
+            "nonostante che (+ conj.)",
+            "niettegenstaande"
+          ],
+          [
+            "però",
+            "maar"
+          ],
+          [
+            "piuttosto",
+            "liever"
+          ],
+          [
+            "prima che (+ conj.)",
+            "voordat"
+          ],
+          [
+            "quando",
+            "wanneer"
+          ],
+          [
+            "se",
+            "als"
+          ],
+          [
+            "perché",
+            "want, omdat (of: opdat + conj.)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Parla più forte, affinché ti sentano.",
+            "nl": "Praat harder, opdat ze je horen."
+          },
+          {
+            "it": "Ti telefono appena posso.",
+            "nl": "Ik bel je zodra ik kan."
+          },
+          {
+            "it": "Benché faccia brutto tempo, vado a fare quattro passi.",
+            "nl": "Hoewel het slecht weer is, ga ik een stukje wandelen."
+          },
+          {
+            "it": "Mi trattava come se fossi uno sconosciuto.",
+            "nl": "Hij behandelde me alsof ik een onbekende was."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-indeling",
+    "category": "11. Het werkwoord",
+    "title": "Indeling van de werkwoorden",
+    "summary": "Drie vervoegingen: -are, -ere, -ire. De -ire-groep splitst in het type sentire en het type capire (met -isc-).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Regelmatige werkwoorden vallen in drie vervoegingen: op -are, -ere en -ire. Je vormt een tijd door de infinitief-uitgang te vervangen door de persoonsuitgang. Het voltooid deelwoord eindigt op -ato, -uto of -ito."
+      },
+      {
+        "kind": "table",
+        "caption": "Voltooid deelwoord",
+        "head": [
+          "infinitief",
+          "voltooid deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ato (parlato)"
+          ],
+          [
+            "-ere",
+            "-uto (temuto)"
+          ],
+          [
+            "-ire",
+            "-ito (dormito)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De -ire-werkwoorden vallen in twee groepen. Type sentire (zonder tussenvoegsel): aprire, avvertire, divertire, dormire, fuggire, partire, seguire, servire, vestire. Type capire (met -isc- in de eerste drie personen enkelvoud en de derde meervoud van de tegenwoordige tijd, de conjunctief en de gebiedende wijs): agire, definire, finire, pulire, preferire, proibire, suggerire, tradire, ubbidire."
+      },
+      {
+        "kind": "tip",
+        "body": "In de derde persoon meervoud valt de klemtoon op dezelfde lettergreep als in de eerste persoon enkelvoud: íncontro → íncontrano, télefono → télefonano."
+      }
+    ]
+  },
+  {
+    "id": "ww-hulp-voltooid",
+    "category": "11. Het werkwoord",
+    "title": "Hulpwerkwoorden van de voltooide tijd",
+    "summary": "avere (overgankelijk) of essere (onovergankelijk). Bij essere past het deelwoord zich aan aan het onderwerp.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De voltooide tijden worden gevormd met avere (hebben) of essere (zijn). In de regel krijgen overgankelijke werkwoorden avere en onovergankelijke essere. Bij essere past het voltooid deelwoord zich in geslacht en getal aan aan het onderwerp; bij avere niet."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Anna è rimasta a casa.",
+            "nl": "Anna is thuis gebleven (essere → -a)."
+          },
+          {
+            "it": "Anna ha affittato la casa.",
+            "nl": "Anna heeft het huis gehuurd (avere, geen aanpassing)."
+          },
+          {
+            "it": "Siamo andati al cinema.",
+            "nl": "We zijn naar de film gegaan."
+          },
+          {
+            "it": "Abbiamo mangiato a Firenze.",
+            "nl": "We hebben in Florence gegeten."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Toch past het deelwoord zich ook bij avere aan als een lijdendvoorwerp-voornaamwoord (lo, la, li, le) ervóór staat: Barbara? No, non l'ho vista. Li ha salutati. Le chiavi? Non le ho trovate. Bij mi, ti, ci, vi is die aanpassing optioneel (maar de meeste Italianen doen het wel): Claudia, ti hanno chiamata. Ci hanno visti."
+      }
+    ]
+  },
+  {
+    "id": "ww-hulp-bijzonder",
+    "category": "11. Het werkwoord",
+    "title": "Hulpwerkwoord bij wederkerende, modale en onpersoonlijke werkwoorden",
+    "summary": "Wederkerend → essere; modaal → dat van het hoofdwerkwoord; onpersoonlijk si → altijd essere.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Wederkerende werkwoorden krijgen altijd essere, met aanpassing aan het onderwerp: Le bambine si sono alzate alle nove. Ci siamo divertiti molto. Bij een voltooide modale constructie hangt het af van de plaats van het voornaamwoord: essere als het voorop staat, avere als het aan de infinitief vastzit — Ci siamo voluti divertire / Abbiamo voluto divertirci."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een voltooide modale constructie is het hulpwerkwoord meestal dat van het hoofdwerkwoord: Sono dovuto partire (partire → essere). Non hanno potuto comprarlo (comprare → avere). sapere heeft altijd avere. Voor extra nadruk op het modale werkwoord kan avere: Ha dovuto partire."
+      },
+      {
+        "kind": "text",
+        "body": "De meeste onpersoonlijke werkwoorden krijgen essere; weersverschijnselen kunnen ook avere, en fare heeft altijd avere: Che cos'è successo? È/Ha piovuto molto. Ha fatto freddo. Bij het onpersoonlijke si in de voltooide tijd is het hulpwerkwoord altijd essere; het deelwoord blijft onveranderd als het werkwoord van zichzelf avere had (Si è detto la verità) en krijgt een meervoudsvorm als het essere had (Si è partiti alle due)."
+      }
+    ]
+  },
+  {
+    "id": "ww-presente",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid tegenwoordige tijd (presente)",
+    "summary": "Vervang de infinitief-uitgang door de persoonsuitgang. Het gebruik loopt vrijwel gelijk aan het Nederlands.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire (-isc)"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlo",
+            "temo",
+            "dormo",
+            "capisco"
+          ],
+          [
+            "tu",
+            "parli",
+            "temi",
+            "dormi",
+            "capisci"
+          ],
+          [
+            "lui/lei",
+            "parla",
+            "teme",
+            "dorme",
+            "capisce"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parlate",
+            "temete",
+            "dormite",
+            "capite"
+          ],
+          [
+            "loro",
+            "parlano",
+            "temono",
+            "dormono",
+            "capiscono"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Guardi la televisione?",
+            "nl": "Kijk je naar de televisie?"
+          },
+          {
+            "it": "Dormo male.",
+            "nl": "Ik slaap slecht."
+          },
+          {
+            "it": "Non capiscono niente.",
+            "nl": "Ze begrijpen niets."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-imperfetto",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid verleden tijd (imperfetto)",
+    "summary": "-avo / -evo / -ivo. Voor onvoltooide handelingen, toestanden, gewoontes en herhaling. Alleen essere is onregelmatig.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Imperfetto",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlavo",
+            "temevo",
+            "dormivo"
+          ],
+          [
+            "tu",
+            "parlavi",
+            "temevi",
+            "dormivi"
+          ],
+          [
+            "lui/lei",
+            "parlava",
+            "temeva",
+            "dormiva"
+          ],
+          [
+            "noi",
+            "parlavamo",
+            "temevamo",
+            "dormivamo"
+          ],
+          [
+            "voi",
+            "parlavate",
+            "temevate",
+            "dormivate"
+          ],
+          [
+            "loro",
+            "parlavano",
+            "temevano",
+            "dormivano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De imperfetto wordt altijd zo gevormd, ook bij onregelmatige werkwoorden; het enige onregelmatige is essere (ero, eri, era, eravamo, eravate, erano). Hij geeft een onvoltooide handeling of toestand weer (begin en einde blijven buiten beeld) en wordt gebruikt voor een gewoonte of herhaling."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Lavorava da due anni.",
+            "nl": "Hij werkte sinds twee jaar."
+          },
+          {
+            "it": "Pioveva e tirava vento.",
+            "nl": "Het regende en woei."
+          },
+          {
+            "it": "Da bambina cantava sempre.",
+            "nl": "Als kind zong ze altijd."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-passato-remoto",
+    "category": "11. Het werkwoord",
+    "title": "De passato remoto",
+    "summary": "Voor een afgesloten, eenmalige handeling in het verleden. Vooral schrijftaal; in het Noorden vervangen door de passato prossimo.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Passato remoto",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlai",
+            "temei",
+            "dormii"
+          ],
+          [
+            "tu",
+            "parlasti",
+            "temesti",
+            "dormisti"
+          ],
+          [
+            "lui/lei",
+            "parlò",
+            "temé",
+            "dormì"
+          ],
+          [
+            "noi",
+            "parlammo",
+            "tememmo",
+            "dormimmo"
+          ],
+          [
+            "voi",
+            "parlaste",
+            "temeste",
+            "dormiste"
+          ],
+          [
+            "loro",
+            "parlarono",
+            "temerono",
+            "dormirono"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De passato remoto geeft een volledig afgesloten of eenmalige handeling in het verleden weer. Hij komt in de schrijftaal in heel Italië voor, maar is uit de spreektaal van het Noorden verdwenen; daar gebruikt men de passato prossimo."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Quel giorno tutto andò bene.",
+            "nl": "Die dag ging alles goed."
+          },
+          {
+            "it": "Sabato si alzò alle nove.",
+            "nl": "Zaterdag stond hij om negen uur op."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-futuro",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid toekomende tijd (futuro)",
+    "summary": "-erò (are/ere) en -irò (ire); de karakteristieke letter is de r. Ook voor een veronderstelling of benadering.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Futuro semplice",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlerò",
+            "temerò",
+            "dormirò"
+          ],
+          [
+            "tu",
+            "parlerai",
+            "temerai",
+            "dormirai"
+          ],
+          [
+            "lui/lei",
+            "parlerà",
+            "temerà",
+            "dormirà"
+          ],
+          [
+            "noi",
+            "parleremo",
+            "temeremo",
+            "dormiremo"
+          ],
+          [
+            "voi",
+            "parlerete",
+            "temerete",
+            "dormirete"
+          ],
+          [
+            "loro",
+            "parleranno",
+            "temeranno",
+            "dormiranno"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Met de futuro druk je een toekomstige handeling uit. Het Italiaans gebruikt de toekomende tijd sneller dan het Nederlands. Hij kan ook een veronderstelling of benadering aangeven (Nederlands 'wel', 'zo'n'): Finiranno alle otto (ze zullen wel om acht uur klaar zijn). Saranno le dieci (het zal zo'n tien uur zijn)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ti telefonerò domani.",
+            "nl": "Ik zal je morgen bellen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-futuro-onregelmatig",
+    "category": "11. Het werkwoord",
+    "title": "Onregelmatige (samengetrokken) futuro",
+    "summary": "Veel frequente werkwoorden trekken de futuro samen: andare → andrò, avere → avrò, essere → sarò ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een groot aantal veelgebruikte werkwoorden heeft een samengetrokken toekomende tijd. Uit de ik-vorm volgen de andere: andrò → andrai, andrà, andremo, andrete, andranno."
+      },
+      {
+        "kind": "table",
+        "caption": "Samengetrokken futuro (io)",
+        "head": [
+          "infinitief",
+          "futuro"
+        ],
+        "rows": [
+          [
+            "andare",
+            "andrò"
+          ],
+          [
+            "avere",
+            "avrò"
+          ],
+          [
+            "bere",
+            "berrò"
+          ],
+          [
+            "cadere",
+            "cadrò"
+          ],
+          [
+            "dare",
+            "darò"
+          ],
+          [
+            "dire",
+            "dirò"
+          ],
+          [
+            "dovere",
+            "dovrò"
+          ],
+          [
+            "essere",
+            "sarò"
+          ],
+          [
+            "fare",
+            "farò"
+          ],
+          [
+            "potere",
+            "potrò"
+          ],
+          [
+            "rimanere",
+            "rimarrò"
+          ],
+          [
+            "sapere",
+            "saprò"
+          ],
+          [
+            "stare",
+            "starò"
+          ],
+          [
+            "tenere",
+            "terrò"
+          ],
+          [
+            "vedere",
+            "vedrò"
+          ],
+          [
+            "venire",
+            "verrò"
+          ],
+          [
+            "vivere",
+            "vivrò"
+          ],
+          [
+            "volere",
+            "vorrò"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-conjunctief-gebruik",
+    "category": "11. Het werkwoord",
+    "title": "De conjunctief (congiuntivo): gebruik",
+    "summary": "De aanvoegende wijs geeft het onzekere of subjectieve weer; vooral in de bijzin, na twijfel, wens, bepaalde voegwoorden en -unque-woorden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De aanvoegende wijs (conjunctief) geeft aan wat onzeker of niet werkelijk is; het subjectieve staat op de voorgrond. Ze komt vooral in de bijzin voor. In de hoofdzin alleen bij wensen: Viva la regina! Fosse morto! (Was hij maar dood!)"
+      },
+      {
+        "kind": "table",
+        "caption": "Wanneer een conjunctief",
+        "head": [
+          "situatie",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "na twijfel/onzekerheid",
+            "Non so se Mario parli inglese."
+          ],
+          [
+            "na wil, wens, gevoel, noodzaak",
+            "Voglio che torniate presto."
+          ],
+          [
+            "betrekk. bijzin, ontkennende hoofdzin",
+            "Non c'è nessuno che parli italiano."
+          ],
+          [
+            "bijzin die een voorwaarde uitdrukt",
+            "Cerca qualcuno che gli pulisca la casa."
+          ],
+          [
+            "na een relatieve superlatief",
+            "È il libro più bello che io abbia mai letto."
+          ],
+          [
+            "na l'unico, il solo, il primo, l'ultimo",
+            "È l'unico che sia arrivato in tempo."
+          ],
+          [
+            "na benché, prima che, purché, senza che ...",
+            "Benché lo sapesse, non l'ha detto."
+          ],
+          [
+            "na chiunque, comunque, dovunque, qualunque",
+            "Qualunque cosa succeda, le sarò amica."
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Voegwoorden die een conjunctief vragen: affinché, benché / sebbene, nel caso che, a meno che non, nonostante che, perché (= opdat), prima che, purché / a patto che, senza che. De keuze tussen tegenwoordige en verleden conjunctief loopt parallel met het Nederlands: kijk naar de tijd van het werkwoord in de hoofdzin."
+      }
+    ]
+  },
+  {
+    "id": "ww-conjunctief-vormen",
+    "category": "11. Het werkwoord",
+    "title": "De conjunctief: vormen",
+    "summary": "Tegenwoordige tijd: parli/tema/dorma; verleden: parlassi/temessi/dormissi. Ezelsbrug: 1e persoon presente, -o → -a.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Congiuntivo presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "tu",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "lui/lei",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parliate",
+            "temiate",
+            "dormiate",
+            "capiate"
+          ],
+          [
+            "loro",
+            "parlino",
+            "temano",
+            "dormano",
+            "capiscano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De eerste drie personen zijn gelijk, dus zet men er vaak het voornaamwoord bij. Ezelsbrug voor onregelmatige werkwoorden: neem de 1e persoon enkelvoud van de tegenwoordige tijd en vervang -o door -a: vado → vada, dico → dica, faccio → faccia, posso → possa, vengo → venga, voglio → voglia. Uitzonderingen: avere → abbia, dare → dia, essere → sia, sapere → sappia, stare → stia."
+      },
+      {
+        "kind": "table",
+        "caption": "Congiuntivo imperfetto (verleden)",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlassi",
+            "temessi",
+            "dormissi"
+          ],
+          [
+            "tu",
+            "parlassi",
+            "temessi",
+            "dormissi"
+          ],
+          [
+            "lui/lei",
+            "parlasse",
+            "temesse",
+            "dormisse"
+          ],
+          [
+            "noi",
+            "parlassimo",
+            "temessimo",
+            "dormissimo"
+          ],
+          [
+            "voi",
+            "parlaste",
+            "temeste",
+            "dormiste"
+          ],
+          [
+            "loro",
+            "parlassero",
+            "temessero",
+            "dormissero"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De verleden conjunctief herken je aan de dubbele s. Je gebruikt hem ook in hypothetische zinnen met een veronderstelling in de verleden tijd: Se fossi ricca, viaggerei. Se avessimo avuto tempo, saremmo venuti."
+      }
+    ]
+  },
+  {
+    "id": "ww-imperativo",
+    "category": "11. Het werkwoord",
+    "title": "De gebiedende wijs (imperativo)",
+    "summary": "Om te gebieden of verbieden; de ik-vorm ontbreekt. Verbod bij tu = non + infinitief (Non parlare!).",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Imperativo",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "tu",
+            "parla",
+            "temi",
+            "dormi",
+            "capisci"
+          ],
+          [
+            "Lei (beleefd)",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parlate",
+            "temete",
+            "dormite",
+            "capite"
+          ],
+          [
+            "Loro (beleefd)",
+            "parlino",
+            "temano",
+            "dormano",
+            "capiscano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij de tu-, noi- en voi-vormen komen onbeklemtoonde voornaamwoorden er vast achter: Parlami! Mandaglielo! Diamo un'occhiata! Bij de beleefdheidsvormen (Lei/Loro) komen ze er juist vóór: Glielo mandi! Ci parli!"
+      },
+      {
+        "kind": "text",
+        "body": "Een verbod bij tu = non + infinitief, met het voornaamwoord ervoor of vast: Non parlare! Non mi parlare! / Non parlarmi! De noi- en voi-vormen blijven gelijk: Non parliamo! Non dormite! Wederkerend net zo: Alzati! Non alzarti! / Non ti alzare!"
+      },
+      {
+        "kind": "text",
+        "body": "Enkele werkwoorden hebben een afgeknotte tu-vorm: andare → va', dare → da', dire → di', fare → fa', stare → sta'. Daarna verdubbelt de medeklinker van het volgende voornaamwoord (behalve bij gli): Dimmi! Dacci lo zucchero! Fatti vivo! Vacci domani! Dagli da mangiare!"
+      }
+    ]
+  },
+  {
+    "id": "ww-condizionale",
+    "category": "11. Het werkwoord",
+    "title": "De condizionale (voorwaardelijke wijs)",
+    "summary": "Komt overeen met het Nederlandse 'zou'; staat vrijwel altijd in de hoofdzin. -erei / -irei.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Condizionale presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlerei",
+            "temerei",
+            "dormirei"
+          ],
+          [
+            "tu",
+            "parleresti",
+            "temeresti",
+            "dormiresti"
+          ],
+          [
+            "lui/lei",
+            "parlerebbe",
+            "temerebbe",
+            "dormirebbe"
+          ],
+          [
+            "noi",
+            "parleremmo",
+            "temeremmo",
+            "dormiremmo"
+          ],
+          [
+            "voi",
+            "parlereste",
+            "temereste",
+            "dormireste"
+          ],
+          [
+            "loro",
+            "parlerebbero",
+            "temerebbero",
+            "dormirebbero"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden met een samengetrokken futuro hebben ook een samengetrokken condizionale (vorrei, dovrei, sarei, andrei ...). Je gebruikt de condizionale voor een beleefde wens of vraag, om iets te melden 'op gezag van een ander', en in het hoofdzindeel van hypothetische zinnen."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Vorrei un tavolo per due.",
+            "nl": "Ik zou een tafeltje voor twee willen."
+          },
+          {
+            "it": "Dovremmo farlo più spesso.",
+            "nl": "We zouden het vaker moeten doen."
+          },
+          {
+            "it": "Secondo i giornali sarebbe morto.",
+            "nl": "Volgens de kranten zou hij overleden zijn."
+          },
+          {
+            "it": "Potrei esserLe utile?",
+            "nl": "Kan ik u van dienst zijn?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-participio-presente",
+    "category": "11. Het werkwoord",
+    "title": "Het tegenwoordig deelwoord",
+    "summary": "-ante / -ente; veranderlijk en tegenwoordig vrijwel alleen als bijvoeglijk of zelfstandig naamwoord.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Tegenwoordig deelwoord",
+        "head": [
+          "infinitief",
+          "deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ante (parlante)"
+          ],
+          [
+            "-ere",
+            "-ente (temente)"
+          ],
+          [
+            "-ire",
+            "-ente (dormiente)"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "una questione importante",
+            "nl": "een belangrijke kwestie"
+          },
+          {
+            "it": "una cantante famosa",
+            "nl": "een beroemde zangeres"
+          },
+          {
+            "it": "la torre pendente",
+            "nl": "de scheve (hangende) toren"
+          },
+          {
+            "it": "un uomo attraente",
+            "nl": "een aantrekkelijke man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-participio-passato",
+    "category": "11. Het werkwoord",
+    "title": "Het verleden deelwoord",
+    "summary": "-ato / -uto / -ito. Kern van de passato prossimo; na essere aanpassen aan het onderwerp, na avere normaal niet.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Verleden deelwoord",
+        "head": [
+          "infinitief",
+          "deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ato (parlato)"
+          ],
+          [
+            "-ere",
+            "-uto (temuto)"
+          ],
+          [
+            "-ire",
+            "-ito (dormito)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het verleden deelwoord vormt met avere of essere de passato prossimo. Na essere past het zich aan aan het onderwerp; na avere normaal niet."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Paolo è nato in Liguria.",
+            "nl": "Paolo is in Ligurië geboren."
+          },
+          {
+            "it": "Le ragazze sono già partite.",
+            "nl": "De meisjes zijn al vertrokken."
+          },
+          {
+            "it": "Abbiamo visto tutti i film.",
+            "nl": "We hebben alle films gezien."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het kan ook zelfstandig (zonder hulpwerkwoord) een bijzin vervangen — vooral in de schrijftaal: Ritornati in Olanda, hanno comprato la macchina. Fatta la colazione, i bambini sono andati a scuola."
+      }
+    ]
+  },
+  {
+    "id": "ww-gerundio",
+    "category": "11. Het werkwoord",
+    "title": "Het gerundio",
+    "summary": "-ando / -endo; gelijktijdige handeling met hetzelfde onderwerp. stare + gerundio = 'bezig zijn'; andare + gerundio = geleidelijk proces.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Gerundio",
+        "head": [
+          "infinitief",
+          "gerundio"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ando (parlando)"
+          ],
+          [
+            "-ere",
+            "-endo (temendo)"
+          ],
+          [
+            "-ire",
+            "-endo (dormendo)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het gerundio is onveranderlijk, heeft vrijwel altijd hetzelfde onderwerp als de hoofdzin en kan een bijzin vervangen (gelijktijdigheid, manier, reden of voorwaarde). Het gerundio passato (avendo capito) verwijst naar een eerder moment. Voornaamwoorden en ci/ne komen er vast aan: Avendola incontrata prima..."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Aspettando il treno, fumava una sigaretta.",
+            "nl": "Terwijl hij op de trein wachtte, rookte hij een sigaret."
+          },
+          {
+            "it": "Sbagliando s'impara.",
+            "nl": "Al doende leert men."
+          },
+          {
+            "it": "Avendo capito tutto, siamo andati via prima.",
+            "nl": "Omdat we alles begrepen hadden, gingen we eerder weg."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "stare + gerundio drukt uit dat een handeling bezig is (Sto leggendo; Stavamo studiando); andare + gerundio dat iets zich geleidelijk voltrekt (La situazione va migliorando). Bij dit gebruik komen de voornaamwoorden ervóór: Lo sta facendo. Ne stanno discutendo."
+      }
+    ]
+  },
+  {
+    "id": "ww-infinitief",
+    "category": "11. Het werkwoord",
+    "title": "De infinitief (infinito)",
+    "summary": "infinito presente (parlare) en infinito passato (avere parlato); trekt voornaamwoorden naar zich toe en kan zelfstandig met lidwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee infinitieven: de infinito presente (parlare, temere, partire) en de infinito passato (avere parlato, essere partito). De infinitief trekt onbeklemtoonde en wederkerende voornaamwoorden en ci/ne naar zich toe, waarbij de eind-e vervalt: Preferiamo non parlarne. Na een modaal hulpwerkwoord staat altijd een infinitief; de voornaamwoorden mogen dan vóór het hulpwerkwoord óf vast aan de infinitief: Devi andarci subito = Ci devi andare subito."
+      },
+      {
+        "kind": "text",
+        "body": "De eind-e kan wegvallen bij weinig nadruk (dopo aver dormito, spero di poter venire, lo dobbiamo far venire). De infinitief kan zelfstandig met een lidwoord, vaak als onderwerp: Il dolce far niente. (Il) fumare fa male alla salute. Partire è un poco morire. Verder: Che fare? A dire il vero... Als gebiedende wijs op verpakkingen: Agitare prima dell'uso. Met a vervangt hij een se-bijzin: A pensarci bene, ..."
+      }
+    ]
+  },
+  {
+    "id": "ww-infinitief-constructies",
+    "category": "11. Het werkwoord",
+    "title": "Infinitief-constructies (voorzetsel of niet)",
+    "summary": "Zonder voorzetsel (modaal, piacere, waarneming, causatief, è + bnw), met a (cominciare a, imparare a) of met di (cercare di, decidere di).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Of er een voorzetsel nodig is vóór de infinitief, hangt af van het werkwoord (of bijvoeglijk naamwoord/naamwoord) ervoor. Dat is lastig en leer je vooral door veel Italiaans te lezen en horen."
+      },
+      {
+        "kind": "text",
+        "body": "ZONDER voorzetsel: na modale werkwoorden (dovere, potere, sapere, volere), na adorare, amare, bastare, bisognare, desiderare, occorrere, odiare, osare, piacere, preferire, na een zintuiglijke waarneming (Li ho visti arrivare), bij causatieve constructies (Hai fatto fare il vestito? Lasciamo perdere!) en na onpersoonlijke uitdrukkingen met è + bijvoeglijk naamwoord: È bello avere una villa al mare. È necessario prepararsi bene. Sarebbe meglio rimanere a casa."
+      },
+      {
+        "kind": "text",
+        "body": "Met het voorzetsel A: abituarsi a, aiutare a, cominciare a, continuare a, imparare a, insegnare a, invitare a, mettersi a, prepararsi a, provare a, riuscire a, rinunciare a, servire a, andare a ... Ha cominciato a lavorare. Continua a piovere. Impara a scrivere! Non riusciamo ad aprire la porta. Ook bijvoeglijke naamwoorden: pronto a, disposto a, costretto a — Siete disposti ad aiutarla?"
+      },
+      {
+        "kind": "text",
+        "body": "Met het voorzetsel DI: cercare di, decidere di, credere di, sperare di, finire di, smettere di, dimenticarsi di, pensare di, promettere di, rifiutare di, tentare di ... Ho cercato di raggiungerti. Hanno deciso di emigrare. Ha smesso di fumare. Ook bijvoeglijke naamwoorden: contento di, capace di, curioso di, felice di — Siamo contenti di partire."
+      },
+      {
+        "kind": "text",
+        "body": "Hebben hoofd- en bijzin hetzelfde onderwerp, dan gebruikt het Italiaans altijd de infinitief-constructie: Credo di aver dormito (ik geloof dat ik geslapen heb). Bij een ander onderwerp gebruik je che + conjunctief: Credo che (lei) abbia dormito. Na werkwoorden van aanraden, bevelen of verzoeken (consigliare, ordinare, pregare, proibire, suggerire, vietare) is de infinitief-constructie verplicht: Ti consiglio di dimenticarla. Gli ha ordinato di andarsene."
+      }
+    ]
+  },
+  {
+    "id": "ww-samengestelde-tijden",
+    "category": "11. Het werkwoord",
+    "title": "Samengestelde tijden en de condizionale passato",
+    "summary": "Passato prossimo met imperfetto-hulpwerkwoord = trapassato prossimo; de condizionale passato vervangt de futuro na een verleden tijd.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Vervang je het hulpwerkwoord van de passato prossimo door een imperfetto, dan krijg je de trapassato prossimo (voltooid verleden tijd: avevo parlato). Zo worden ook de andere samengestelde tijden gevormd; het gebruik komt meestal overeen met het Nederlands."
+      },
+      {
+        "kind": "text",
+        "body": "De condizionale passato (avrei fatto) vervangt de toekomende tijd wanneer het werkwoord van de hoofdzin in een verleden tijd staat — 'zou (gaan)':"
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Disse che l'avrebbe fatto.",
+            "nl": "Hij zei dat hij het zou doen."
+          },
+          {
+            "it": "Mi chiese dove sarei andato.",
+            "nl": "Hij vroeg me waar ik heen ging."
+          },
+          {
+            "it": "Pensavo che sarebbe venuto.",
+            "nl": "Ik dacht dat hij zou komen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-hypothetisch",
+    "category": "11. Het werkwoord",
+    "title": "Hypothetische zinnen (se)",
+    "summary": "Reëel (se + presente/futuro), mogelijk (congiuntivo imperfetto + condizionale) en irreëel verleden (congiuntivo trapassato + condizionale passato).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een voorwaardelijke zin heeft een bijzin (de voorwaarde, meestal met se) en een hoofdzin (wat er dan gebeurt). Het type bepaalt de tijden."
+      },
+      {
+        "kind": "table",
+        "caption": "De drie types",
+        "head": [
+          "type",
+          "bijzin (se ...)",
+          "hoofdzin"
+        ],
+        "rows": [
+          [
+            "reëel",
+            "presente / futuro",
+            "presente / futuro"
+          ],
+          [
+            "mogelijk / irreëel",
+            "congiuntivo imperfetto",
+            "condizionale presente"
+          ],
+          [
+            "irreëel (verleden)",
+            "congiuntivo trapassato",
+            "condizionale passato"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Se ti senti troppo sola, ti porto via.",
+            "nl": "Als je je te eenzaam voelt, neem ik je mee."
+          },
+          {
+            "it": "Se vincessi la lotteria, comprerei una casa.",
+            "nl": "Als ik de loterij zou winnen, zou ik een huis kopen."
+          },
+          {
+            "it": "Se avessi avuto tempo, ti avrei telefonato.",
+            "nl": "Als ik tijd had gehad, had ik je gebeld."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Naast se kom je ook ammesso che, a condizione che en nel caso che tegen (met conjunctief): Nel caso che io non potessi venire, verrà mio fratello."
+      }
+    ]
+  },
+  {
+    "id": "ww-causatief",
+    "category": "11. Het werkwoord",
+    "title": "Causatief: fare / lasciare + infinitief",
+    "summary": "'laten': fare = verplichten, lasciare = toestaan. De uitvoerder komt met a of da; farsi + infinitief = iets bij jezelf laten doen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "fare of lasciare direct gevolgd door een infinitief is een causatieve constructie ('laten'): fare heeft de betekenis 'verplichten', lasciare 'toestaan'. De uitvoerder van de infinitief komt met a of da."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ha fatto fare dei nuovi vestiti al sarto.",
+            "nl": "Hij heeft nieuwe kleren door de kleermaker laten maken."
+          },
+          {
+            "it": "Glielo hanno fatto sapere.",
+            "nl": "Ze hebben het hem laten weten."
+          },
+          {
+            "it": "Lasciami andare!",
+            "nl": "Laat me los!"
+          },
+          {
+            "it": "Mi faccio tagliare i baffi.",
+            "nl": "Ik laat mijn snor knippen (farsi + infinitief)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Is de infinitief een wederkerend werkwoord, dan vervalt het wederkerend voornaamwoord: Perché non li fai accomodare? Veelgebruikte combinaties: far vedere (laten zien), far sapere (laten weten), far pagare (laten betalen), far aspettare (laten wachten)."
+      }
+    ]
+  },
+  {
+    "id": "ww-lijdende-vorm",
+    "category": "11. Het werkwoord",
+    "title": "De lijdende vorm (passief)",
+    "summary": "essere of venire + voltooid deelwoord; de uitvoerder met da. Bij een voltooid passief en na een modaal ww alleen essere.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De lijdende vorm bestaat uit een voltooid deelwoord van een overgankelijk werkwoord + een hulpwerkwoord: essere of venire. venire maakt duidelijk dat het echt passief is (niet 'zijn'). De handelende persoon geef je aan met da. In de voltooide tijd en na een modaal werkwoord kan alleen essere (met deelwoord stato)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "La porta viene aperta.",
+            "nl": "De deur wordt opengedaan."
+          },
+          {
+            "it": "La porta è stata aperta da Mario.",
+            "nl": "De deur is door Mario opengedaan."
+          },
+          {
+            "it": "I ragazzi devono essere interrogati.",
+            "nl": "De jongens moeten verhoord worden."
+          },
+          {
+            "it": "Il lavoro va fatto subito.",
+            "nl": "Het werk moet meteen gedaan worden (andare + deelwoord = noodzaak)."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Het Italiaans gebruikt de lijdende vorm minder dan het Nederlands; vaak vermijd je hem met het onpersoonlijke si: Si dice spesso che... (Er wordt vaak gezegd dat...)."
+      }
+    ]
+  },
+  {
+    "id": "ww-wederkerend",
+    "category": "11. Het werkwoord",
+    "title": "Wederkerende werkwoorden",
+    "summary": "-arsi / -ersi / -irsi; altijd met essere. De meervoudsvormen kunnen ook 'elkaar' betekenen.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Wederkerende werkwoorden herken je aan -si aan de infinitief (alzarsi, mettersi, divertirsi) en worden altijd met essere vervoegd. De voornaamwoorden zijn gelijk aan de onbeklemtoonde, alleen de derde persoon is si."
+      },
+      {
+        "kind": "table",
+        "caption": "divertirsi (zich amuseren)",
+        "head": [
+          "persoon",
+          "vorm"
+        ],
+        "rows": [
+          [
+            "io",
+            "mi diverto"
+          ],
+          [
+            "tu",
+            "ti diverti"
+          ],
+          [
+            "lui/lei",
+            "si diverte"
+          ],
+          [
+            "noi",
+            "ci divertiamo"
+          ],
+          [
+            "voi",
+            "vi divertite"
+          ],
+          [
+            "loro",
+            "si divertono"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Soms is het voornaamwoord pleonastisch (schijnwederkerend): Mi lavo i capelli. Ci siamo bevuti un buon bicchiere di vino. De meervoudsvormen kunnen 'elkaar' betekenen: Si baciano (Ze kussen elkaar). Sommige zijn met ne versterkt: andarsene (weggaan) → me ne vado, se ne va."
+      },
+      {
+        "kind": "text",
+        "body": "In een voltooide modale constructie: staat het voornaamwoord voorop, dan essere (Lia non si è voluta alzare); staat het vast aan de infinitief, dan avere (Lia non ha voluto alzarsi)."
+      }
+    ]
+  },
+  {
+    "id": "ww-koppel-onpersoonlijk",
+    "category": "11. Het werkwoord",
+    "title": "Koppel- en onpersoonlijke werkwoorden",
+    "summary": "Koppelwerkwoorden (diventare, sembrare, stare ...) laten het gezegde zich aanpassen; onpersoonlijke werkwoorden staan in de 3e persoon enkelvoud.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Naast essere zijn er koppelwerkwoorden als costare, diventare, morire, parere, sembrare, stare en vivere. Het naamwoordelijk deel past zich aan aan het onderwerp: È diventato direttore. Sono morti poveri. Vivevano felici. Sembra pazzo."
+      },
+      {
+        "kind": "text",
+        "body": "Onpersoonlijke werkwoorden hebben geen onderwerp en staan in de derde persoon enkelvoud of de infinitief. Weersverschijnselen: piove, nevica, tuona, fa caldo, fa freddo. accadere, avvenire, capitare en succedere betekenen 'het gebeurt'. Een oordeel: basta, bisogna, conviene, è necessario, pare, sembra, è peccato, è utile — Capita spesso. È peccato che sia andato così."
+      }
+    ]
+  },
+  {
+    "id": "ww-pronominaal",
+    "category": "11. Het werkwoord",
+    "title": "Werkwoorden met een vast pronominaal deel",
+    "summary": "Idiomatische werkwoorden met een vast voornaamwoord: farcela, cavarsela, andarsene, volerci, metterci ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Sommige werkwoorden hebben een vast voornaamwoord (vaak la, dat naar een vage 'la cosa' verwijst) en zijn idiomatisch: andarsene (weggaan), cavarsela (zich redden), entrarci (ermee te maken hebben), farcela (het redden), metterci (er over doen), prendersela (boos worden), sentirsela (ervoor voelen), starci (meedoen), volerci (nodig zijn)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Parli il russo? Me la cavo.",
+            "nl": "Spreek je Russisch? Ik red me."
+          },
+          {
+            "it": "Cosa c'entro io?",
+            "nl": "Wat heb ik ermee te maken?"
+          },
+          {
+            "it": "Non ce la fai più?",
+            "nl": "Red je het niet meer?"
+          },
+          {
+            "it": "Ci hanno messo dieci ore.",
+            "nl": "Ze hebben er tien uur over gedaan."
+          },
+          {
+            "it": "Io ci sto.",
+            "nl": "Ik ben ervoor in."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-spelling",
+    "category": "11. Het werkwoord",
+    "title": "Spellingregels bij het vervoegen",
+    "summary": "-care/-gare krijgen een h (paghi); -ciare/-giare verliezen de i (mangi); -iare houdt of verliest de i naargelang de klemtoon.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -care en -gare krijgen een h vóór een uitgang met i of e, zodat de klank hard blijft: pago, paghi, paghiamo; giocare → giochiamo."
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -ciare, -giare en -sciare verliezen de i van de stam vóór een i of e: mangio, mangi, mangia... en mangerò, mangerai... Werkwoorden op -gliare/-gliere verliezen de i vóór een i: sbaglio, sbagli, sbaglia."
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden op -iare met een beklemtoonde i houden die in de tu-vorm (invii, spii) maar niet in noi/voi; met een onbeklemtoonde i is er één i in de tu-vorm (studi). Bij -cere blijft de uitspraak niet gelijk (conosco, conosci); het voltooid deelwoord krijgt een i om de zachte klank te houden: conosciuto, piaciuto."
+      }
+    ]
+  },
+  {
+    "id": "ww-si-impersonale",
+    "category": "11. Het werkwoord",
+    "title": "De onpersoonlijke vorm (si impersonale)",
+    "summary": "'men' = si; het werkwoord staat in het meervoud als het object meervoud is. Wederkerend wordt ci si.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "'Men' druk je uit met si; een Italiaan voelt dit als een passieve vorm. Staat het object in het meervoud, dan komt het werkwoord in het meervoud: Si canta una canzone napoletana, maar A Napoli si cantano molte canzoni."
+      },
+      {
+        "kind": "text",
+        "body": "In de voltooide tijd is het hulpwerkwoord bij si altijd essere. Het deelwoord staat in het meervoud als het werkwoord van zichzelf essere had (of passief/wederkerend is) en blijft -o als het avere had: Si è studiato molto. Si è partiti alle tre. Ook het naamwoordelijk deel komt in het meervoud: se si è innamorati."
+      },
+      {
+        "kind": "text",
+        "body": "Een wederkerend werkwoord met si impersonale wordt ci si (niet si si): Ci si abitua facilmente. Non ci si può fidare di lui. De volgorde is voornaamwoord + si (Lo si dice), maar ne komt achter si: Se ne parla ogni tanto."
+      }
+    ]
+  },
+  {
+    "id": "tussenwerpsels",
+    "category": "12. Tussenwerpsels",
+    "title": "Tussenwerpsels en uitroepen",
+    "summary": "Interjecties (ah, boh, dai, uffa), uitroepen van verbazing (accidenti, caspita, macché), geluiden en stopwoordjes.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Tussenwerpsels drukken een gemoedstoestand uit en worden in de spreektaal veel gebruikt. Veelvoorkomend: ah, ahi (oei), ahimè (arme ik), beh (nou ja), boh (wie weet), dai (kom op), eh, ehi (hé!), già (tsja), su (kom op), toh (pak aan), uffa (oef, verveling)."
+      },
+      {
+        "kind": "text",
+        "body": "Verbazing en ergernis: accidenti (verdorie), caspita! (goh!), macché (kom nou!), mannaggia (verdorie), o dio (o jee), perbacco, Santo cielo (goeie hemel)."
+      },
+      {
+        "kind": "text",
+        "body": "Geluiden (onomatopeeën): bau bau (hond), bee (schaap), chicchirichì (haan), cip cip (vogels), din don (klokken), drin drin (deurbel), miao (kat), tic tac (horloge). Veelgebruikte stopwoordjes: cioè (dat wil zeggen), comunque, allora, dunque, insomma, praticamente, va bene (oké), veramente."
+      }
+    ]
+  },
+  {
+    "id": "woordvolgorde",
+    "category": "13. Woordvolgorde",
+    "title": "Woordvolgorde",
+    "summary": "Vrijer dan in het Nederlands. Neutraal is SVO; door woorden te verplaatsen leg je nadruk. Vooropgezet object herhaal je met een voornaamwoord.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De woordvolgorde is veel vrijer dan in het Nederlands en hangt samen met nadruk en intonatie. De neutrale volgorde is onderwerp – werkwoord – object (SVO): Renato ha invitato tutti i suoi amici."
+      },
+      {
+        "kind": "text",
+        "body": "Zet je het onderwerp achter het gezegde, dan krijgt het gezegde nadruk: Sono belli i fiori. Mi piacciono i tuoi occhi. Een persoonlijk voornaamwoord als onderwerp krijgt achteraan juist zelf nadruk: Ha fatto tutto lei. Begint de zin met een bijwoord, dan staat het onderwerp vaak achteraan: Forse ha ragione Luigi."
+      },
+      {
+        "kind": "text",
+        "body": "In vraagzinnen is er geen inversie zoals in het Nederlands; alleen de intonatie gaat omhoog: L'ascensore è occupato? Maar na een vraagwoord staat het onderwerp meestal achter het gezegde: Dov'è il gabinetto? Quando arriva il treno?"
+      },
+      {
+        "kind": "text",
+        "body": "Zet je het object voorop, dan herhaal je het verplicht met een voornaamwoord: Questo libro, l'hai letto? Le hai viste, le mie chiavi? Bij een lijdend én meewerkend voorwerp is de gewone volgorde: lijdend voorwerp, dan meewerkend voorwerp — Ha dato il libro a Carlo."
+      }
+    ]
+  },
+  {
+    "id": "woordvorming",
+    "category": "14. Woordvorming",
+    "title": "Voorvoegsels en achtervoegsels",
+    "summary": "Samenstelling (grattacielo) en afleiding. Voorvoegsels dis-/s- (ontkenning), ri- (her-); rijk aan achtervoegsels.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee manieren om woorden te vormen: samenstelling (grattacielo = grattare + cielo) en afleiding. Het Italiaans is bijzonder rijk aan afleidingen, die veel nuances kunnen geven."
+      },
+      {
+        "kind": "text",
+        "body": "De voorvoegsels dis- en s- geven meestal een ontkenning of omkering: contento → scontento, onesto → disonesto, coprire → scoprire (ontdekken), piacere → dispiacere (spijten). Het voorvoegsel ri- lijkt op het Nederlandse 'her-': fare → rifare (overdoen), prendere → riprendere (hervatten)."
+      },
+      {
+        "kind": "table",
+        "caption": "Enkele achtervoegsels",
+        "head": [
+          "achtervoegsel",
+          "effect",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "-ino / -etto / -ello",
+            "verkleinend",
+            "ragazzino, poveretto"
+          ],
+          [
+            "-one",
+            "vergrotend",
+            "librone, simpaticone"
+          ],
+          [
+            "-accio",
+            "verlelijkend",
+            "ragazzaccio, tempaccio"
+          ],
+          [
+            "-uccio",
+            "koosvorm",
+            "calduccio, caruccio"
+          ],
+          [
+            "-oso",
+            "'vol van'",
+            "amoroso, doloroso, spiritoso"
+          ],
+          [
+            "-issimo",
+            "versterkend",
+            "bellissimo, canzonissima"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "termenlijst",
+    "category": "15. Lijst van termen",
+    "title": "Grammaticale termen (NL – Italiaans)",
+    "summary": "De belangrijkste grammaticale vaktermen met hun Italiaanse equivalent.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Handig bij het lezen van Italiaanse grammatica's: de belangrijkste vaktermen."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "Nederlands",
+          "Italiaans"
+        ],
+        "rows": [
+          [
+            "bijvoeglijk naamwoord",
+            "aggettivo"
+          ],
+          [
+            "bijwoord",
+            "avverbio"
+          ],
+          [
+            "zelfstandig naamwoord",
+            "sostantivo / nome"
+          ],
+          [
+            "lidwoord",
+            "articolo"
+          ],
+          [
+            "delend lidwoord",
+            "partitivo"
+          ],
+          [
+            "voorzetsel",
+            "preposizione"
+          ],
+          [
+            "voegwoord",
+            "congiunzione"
+          ],
+          [
+            "persoonlijk voornaamwoord",
+            "pronome personale"
+          ],
+          [
+            "aanwijzend voornaamwoord",
+            "pronome dimostrativo"
+          ],
+          [
+            "bezittelijk voornaamwoord",
+            "pronome possessivo"
+          ],
+          [
+            "betrekkelijk voornaamwoord",
+            "pronome relativo"
+          ],
+          [
+            "wederkerend voornaamwoord",
+            "pronome riflessivo"
+          ],
+          [
+            "hoofdtelwoord",
+            "numero cardinale"
+          ],
+          [
+            "rangtelwoord",
+            "numero ordinale"
+          ],
+          [
+            "hulpwerkwoord",
+            "ausiliare"
+          ],
+          [
+            "koppelwerkwoord",
+            "copula"
+          ],
+          [
+            "onderwerp",
+            "soggetto"
+          ],
+          [
+            "lijdend voorwerp",
+            "oggetto / accusativo"
+          ],
+          [
+            "meewerkend voorwerp",
+            "dativo"
+          ],
+          [
+            "hoofdzin",
+            "frase principale"
+          ],
+          [
+            "lijdende zin",
+            "frase passiva"
+          ],
+          [
+            "voorwaardelijke zin",
+            "periodo ipotetico"
+          ],
+          [
+            "mannelijk / vrouwelijk",
+            "maschile / femminile"
+          ],
+          [
+            "enkelvoud / meervoud",
+            "singolare / plurale"
+          ],
+          [
+            "geslacht",
+            "genere"
+          ],
+          [
+            "wijs",
+            "modo"
+          ],
+          [
+            "aantonende wijs",
+            "indicativo"
+          ],
+          [
+            "gebiedende wijs",
+            "imperativo"
+          ],
+          [
+            "onbepaalde wijs",
+            "infinito"
+          ],
+          [
+            "deelwoord",
+            "participio"
+          ],
+          [
+            "voltooid deelwoord",
+            "participio passato"
+          ],
+          [
+            "onvoltooid verleden tijd",
+            "imperfetto"
+          ],
+          [
+            "toekomende tijd",
+            "futuro"
+          ],
+          [
+            "stellende / vergrotende / overtreffende trap",
+            "grado positivo / comparativo / superlativo"
+          ],
+          [
+            "overgankelijk / onovergankelijk",
+            "transitivo / intransitivo"
+          ],
+          [
+            "ontkenning",
+            "negazione"
+          ],
+          [
+            "klinker / medeklinker",
+            "vocale / consonante"
+          ],
+          [
+            "afleiding / samenstelling",
+            "derivazione / composto"
+          ],
+          [
+            "achtervoegsel",
+            "suffisso"
+          ],
+          [
+            "werkwoordsstam",
+            "radice"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-avere-essere",
+    "category": "16. Bijlagen",
+    "title": "avere en essere (volledig)",
+    "summary": "De volledige vervoeging van de twee hulpwerkwoorden hebben en zijn.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "avere (hebben) en essere (zijn)",
+        "head": [
+          "tijd",
+          "avere",
+          "essere"
+        ],
+        "rows": [
+          [
+            "gerundio",
+            "avendo",
+            "essendo"
+          ],
+          [
+            "deelwoord",
+            "avuto",
+            "stato / a / i / e"
+          ],
+          [
+            "presente",
+            "ho, hai, ha, abbiamo, avete, hanno",
+            "sono, sei, è, siamo, siete, sono"
+          ],
+          [
+            "imperfetto",
+            "avevo, avevi, aveva, avevamo, avevate, avevano",
+            "ero, eri, era, eravamo, eravate, erano"
+          ],
+          [
+            "passato remoto",
+            "ebbi, avesti, ebbe, avemmo, aveste, ebbero",
+            "fui, fosti, fu, fummo, foste, furono"
+          ],
+          [
+            "futuro",
+            "avrò, avrai, avrà, avremo, avrete, avranno",
+            "sarò, sarai, sarà, saremo, sarete, saranno"
+          ],
+          [
+            "condizionale",
+            "avrei, avresti, avrebbe, avremmo, avreste, avrebbero",
+            "sarei, saresti, sarebbe, saremmo, sareste, sarebbero"
+          ],
+          [
+            "cong. presente",
+            "abbia, abbia, abbia, abbiamo, abbiate, abbiano",
+            "sia, sia, sia, siamo, siate, siano"
+          ],
+          [
+            "cong. imperfetto",
+            "avessi, avessi, avesse, avessimo, aveste, avessero",
+            "fossi, fossi, fosse, fossimo, foste, fossero"
+          ],
+          [
+            "imperativo",
+            "abbi, abbia, abbiamo, abbiate, abbiano",
+            "sii, sia, siamo, siate, siano"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-regelmatig",
+    "category": "16. Bijlagen",
+    "title": "Regelmatige werkwoorden (overzicht)",
+    "summary": "Alle tijden van de drie vervoegingen op één plek: parlare, temere, dormire en capire (-isc).",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Volledig overzicht",
+        "head": [
+          "tijd",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "presente",
+            "parlo, -i, -a, -iamo, -ate, -ano",
+            "temo, -i, -e, -iamo, -ete, -ono",
+            "dormo, -i, -e, -iamo, -ite, -ono",
+            "capisco, -isci, -isce, -iamo, -ite, -iscono"
+          ],
+          [
+            "imperfetto",
+            "parlavo, -avi, -ava, -avamo, -avate, -avano",
+            "temevo, -evi, -eva, -evamo, -evate, -evano",
+            "dormivo, -ivi, -iva, -ivamo, -ivate, -ivano",
+            "capivo, -ivi, -iva, -ivamo, -ivate, -ivano"
+          ],
+          [
+            "passato remoto",
+            "parlai, -asti, -ò, -ammo, -aste, -arono",
+            "temei, -esti, -é, -emmo, -este, -erono",
+            "dormii, -isti, -ì, -immo, -iste, -irono",
+            "capii, -isti, -ì, -immo, -iste, -irono"
+          ],
+          [
+            "futuro",
+            "parlerò, -erai, -erà, -eremo, -erete, -eranno",
+            "temerò, -erai, -erà, -eremo, -erete, -eranno",
+            "dormirò, -irai, -irà, -iremo, -irete, -iranno",
+            "capirò, -irai, -irà, -iremo, -irete, -iranno"
+          ],
+          [
+            "condizionale",
+            "parlerei, -eresti, -erebbe, -eremmo, -ereste, -erebbero",
+            "temerei, ...",
+            "dormirei, ...",
+            "capirei, ..."
+          ],
+          [
+            "cong. presente",
+            "parli, -i, -i, -iamo, -iate, -ino",
+            "tema, -a, -a, -iamo, -iate, -ano",
+            "dorma, -a, -a, -iamo, -iate, -ano",
+            "capisca, -a, -a, -iamo, -iate, -iscano"
+          ],
+          [
+            "cong. imperfetto",
+            "parlassi, -assi, -asse, -assimo, -aste, -assero",
+            "temessi, -essi, -esse, -essimo, -este, -essero",
+            "dormissi, -issi, -isse, -issimo, -iste, -issero",
+            "capissi, -issi, -isse, -issimo, -iste, -issero"
+          ],
+          [
+            "imperativo",
+            "parla, parli, parliamo, parlate, parlino",
+            "temi, tema, temiamo, temete, temano",
+            "dormi, dorma, dormiamo, dormite, dormano",
+            "capisci, capisca, capiamo, capite, capiscano"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-onregelmatig",
+    "category": "16. Bijlagen",
+    "title": "Onregelmatige werkwoorden (overzicht)",
+    "summary": "De belangrijkste onregelmatige werkwoorden met hulpwerkwoord, deelwoord, tegenwoordige tijd, passato remoto en futuro.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De imperfetto is bij deze werkwoorden regelmatig (stam + -evo/-ivo). De conjunctief en gebiedende wijs leid je af van de tegenwoordige tijd (ezelsbrug: 1e persoon presente, -o → -a). Hieronder de vormen die je echt uit het hoofd moet leren."
+      },
+      {
+        "kind": "table",
+        "caption": "presente = io/tu/lui/noi/voi/loro · passato remoto = io/lui/loro",
+        "head": [
+          "werkwoord",
+          "hulp",
+          "deelw.",
+          "presente",
+          "passato remoto",
+          "futuro"
+        ],
+        "rows": [
+          [
+            "accendere (aansteken)",
+            "avere",
+            "acceso",
+            "accendo, accendi, accende, accendiamo, accendete, accendono",
+            "accesi, accese, accesero",
+            "accenderò"
+          ],
+          [
+            "andare (gaan)",
+            "essere",
+            "andato",
+            "vado, vai, va, andiamo, andate, vanno",
+            "andai, andò, andarono",
+            "andrò"
+          ],
+          [
+            "bere (drinken)",
+            "avere",
+            "bevuto",
+            "bevo, bevi, beve, beviamo, bevete, bevono",
+            "bevvi, bevve, bevvero",
+            "berrò"
+          ],
+          [
+            "chiedere (vragen)",
+            "avere",
+            "chiesto",
+            "chiedo, chiedi, chiede, chiediamo, chiedete, chiedono",
+            "chiesi, chiese, chiesero",
+            "chiederò"
+          ],
+          [
+            "chiudere (sluiten)",
+            "avere",
+            "chiuso",
+            "chiudo, chiudi, chiude, chiudiamo, chiudete, chiudono",
+            "chiusi, chiuse, chiusero",
+            "chiuderò"
+          ],
+          [
+            "conoscere (kennen)",
+            "avere",
+            "conosciuto",
+            "conosco, conosci, conosce, conosciamo, conoscete, conoscono",
+            "conobbi, conobbe, conobbero",
+            "conoscerò"
+          ],
+          [
+            "correre (rennen)",
+            "avere / essere",
+            "corso",
+            "corro, corri, corre, corriamo, correte, corrono",
+            "corsi, corse, corsero",
+            "correrò"
+          ],
+          [
+            "dare (geven)",
+            "avere",
+            "dato",
+            "do, dai, dà, diamo, date, danno",
+            "diedi, diede, diedero",
+            "darò"
+          ],
+          [
+            "decidere (besluiten)",
+            "avere",
+            "deciso",
+            "decido, decidi, decide, decidiamo, decidete, decidono",
+            "decisi, decise, decisero",
+            "deciderò"
+          ],
+          [
+            "dire (zeggen)",
+            "avere",
+            "detto",
+            "dico, dici, dice, diciamo, dite, dicono",
+            "dissi, disse, dissero",
+            "dirò"
+          ],
+          [
+            "dirigere (leiden)",
+            "avere",
+            "diretto",
+            "dirigo, dirigi, dirige, dirigiamo, dirigete, dirigono",
+            "diressi, diresse, diressero",
+            "dirigerò"
+          ],
+          [
+            "dovere (moeten)",
+            "avere",
+            "dovuto",
+            "devo, devi, deve, dobbiamo, dovete, devono",
+            "dovei, dové, doverono",
+            "dovrò"
+          ],
+          [
+            "fare (doen)",
+            "avere",
+            "fatto",
+            "faccio, fai, fa, facciamo, fate, fanno",
+            "feci, fece, fecero",
+            "farò"
+          ],
+          [
+            "giungere (bereiken)",
+            "avere",
+            "giunto",
+            "giungo, giungi, giunge, giungiamo, giungete, giungono",
+            "giunsi, giunse, giunsero",
+            "giungerò"
+          ],
+          [
+            "leggere (lezen)",
+            "avere",
+            "letto",
+            "leggo, leggi, legge, leggiamo, leggete, leggono",
+            "lessi, lesse, lessero",
+            "leggerò"
+          ],
+          [
+            "mettere (leggen, zetten)",
+            "avere",
+            "messo",
+            "metto, metti, mette, mettiamo, mettete, mettono",
+            "misi, mise, misero",
+            "metterò"
+          ],
+          [
+            "nascere (geboren worden)",
+            "essere",
+            "nato",
+            "nasco, nasci, nasce, nasciamo, nascete, nascono",
+            "nacqui, nacque, nacquero",
+            "nascerò"
+          ],
+          [
+            "parere (schijnen)",
+            "essere",
+            "parso",
+            "paio, pari, pare, paiamo, parete, paiono",
+            "parvi, parve, parvero",
+            "parrò"
+          ],
+          [
+            "perdere (verliezen)",
+            "avere",
+            "perso / perduto",
+            "perdo, perdi, perde, perdiamo, perdete, perdono",
+            "persi, perse, persero",
+            "perderò"
+          ],
+          [
+            "piacere (bevallen)",
+            "essere",
+            "piaciuto",
+            "piaccio, piaci, piace, piacciamo, piacete, piacciono",
+            "piacqui, piacque, piacquero",
+            "piacerò"
+          ],
+          [
+            "potere (kunnen)",
+            "avere",
+            "potuto",
+            "posso, puoi, può, possiamo, potete, possono",
+            "potei, poté, poterono",
+            "potrò"
+          ],
+          [
+            "prendere (nemen)",
+            "avere",
+            "preso",
+            "prendo, prendi, prende, prendiamo, prendete, prendono",
+            "presi, prese, presero",
+            "prenderò"
+          ],
+          [
+            "ridere (lachen)",
+            "avere",
+            "riso",
+            "rido, ridi, ride, ridiamo, ridete, ridono",
+            "risi, rise, risero",
+            "riderò"
+          ],
+          [
+            "rimanere (blijven)",
+            "essere",
+            "rimasto",
+            "rimango, rimani, rimane, rimaniamo, rimanete, rimangono",
+            "rimasi, rimase, rimasero",
+            "rimarrò"
+          ],
+          [
+            "riscuotere (innen)",
+            "avere",
+            "riscosso",
+            "riscuoto, riscuoti, riscuote, riscuotiamo, riscuotete, riscuotono",
+            "riscossi, riscosse, riscossero",
+            "riscuoterò"
+          ],
+          [
+            "rispondere (antwoorden)",
+            "avere",
+            "risposto",
+            "rispondo, rispondi, risponde, rispondiamo, rispondete, rispondono",
+            "risposi, rispose, risposero",
+            "risponderò"
+          ],
+          [
+            "salire (naar boven gaan)",
+            "essere",
+            "salito",
+            "salgo, sali, sale, saliamo, salite, salgono",
+            "salii, salì, salirono",
+            "salirò"
+          ],
+          [
+            "sapere (weten)",
+            "avere",
+            "saputo",
+            "so, sai, sa, sappiamo, sapete, sanno",
+            "seppi, seppe, seppero",
+            "saprò"
+          ],
+          [
+            "scegliere (kiezen)",
+            "avere",
+            "scelto",
+            "scelgo, scegli, sceglie, scegliamo, scegliete, scelgono",
+            "scelsi, scelse, scelsero",
+            "sceglierò"
+          ],
+          [
+            "scendere (afdalen)",
+            "essere",
+            "sceso",
+            "scendo, scendi, scende, scendiamo, scendete, scendono",
+            "scesi, scese, scesero",
+            "scenderò"
+          ],
+          [
+            "scrivere (schrijven)",
+            "avere",
+            "scritto",
+            "scrivo, scrivi, scrive, scriviamo, scrivete, scrivono",
+            "scrissi, scrisse, scrissero",
+            "scriverò"
+          ],
+          [
+            "sedersi (gaan zitten)",
+            "essere",
+            "seduto",
+            "mi siedo, ti siedi, si siede, ci sediamo, vi sedete, si siedono",
+            "mi sedei, si sedé, si sederono",
+            "mi siederò / sederò"
+          ],
+          [
+            "spendere (uitgeven)",
+            "avere",
+            "speso",
+            "spendo, spendi, spende, spendiamo, spendete, spendono",
+            "spesi, spese, spesero",
+            "spenderò"
+          ],
+          [
+            "stare (zijn, staan)",
+            "essere",
+            "stato",
+            "sto, stai, sta, stiamo, state, stanno",
+            "stetti, stette, stettero",
+            "starò"
+          ],
+          [
+            "tenere (houden)",
+            "avere",
+            "tenuto",
+            "tengo, tieni, tiene, teniamo, tenete, tengono",
+            "tenni, tenne, tennero",
+            "terrò"
+          ],
+          [
+            "uscire (uitgaan)",
+            "essere",
+            "uscito",
+            "esco, esci, esce, usciamo, uscite, escono",
+            "uscii, uscì, uscirono",
+            "uscirò"
+          ],
+          [
+            "valere (waard zijn)",
+            "essere",
+            "valso",
+            "valgo, vali, vale, valiamo, valete, valgono",
+            "valsi, valse, valsero",
+            "varrò"
+          ],
+          [
+            "vedere (zien)",
+            "avere",
+            "visto",
+            "vedo, vedi, vede, vediamo, vedete, vedono",
+            "vidi, vide, videro",
+            "vedrò"
+          ],
+          [
+            "venire (komen)",
+            "essere",
+            "venuto",
+            "vengo, vieni, viene, veniamo, venite, vengono",
+            "venni, venne, vennero",
+            "verrò"
+          ],
+          [
+            "vivere (leven)",
+            "avere",
+            "vissuto",
+            "vivo, vivi, vive, viviamo, vivete, vivono",
+            "vissi, visse, vissero",
+            "vivrò"
+          ],
+          [
+            "volere (willen)",
+            "avere",
+            "voluto",
+            "voglio, vuoi, vuole, vogliamo, volete, vogliono",
+            "volli, volle, vollero",
+            "vorrò"
+          ]
+        ]
+      }
+    ]
+  }
+]

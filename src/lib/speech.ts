@@ -59,3 +59,46 @@ export function speak(text: string, lang: "it-IT" | "nl-BE" = "it-IT"): void {
     // Geen stem beschikbaar: stilte is hier prima.
   }
 }
+
+/** Zoals speak(), maar geeft een belofte die pas afrondt als het voorlezen klaar is.
+ *  Handig voor de hands-free lus, die stap voor stap doorloopt. Valt netjes stil
+ *  (rondt meteen af) als er geen spraak beschikbaar is, zodat de lus nooit blijft hangen. */
+export function speakAsync(text: string, lang: "it-IT" | "nl-BE" = "it-IT"): Promise<void> {
+  return new Promise((resolve) => {
+    if (typeof speechSynthesis === "undefined") return resolve();
+    const clean = speakable(text);
+    if (!clean) return resolve();
+    try {
+      speechSynthesis.cancel();
+      const utter = new SpeechSynthesisUtterance(clean);
+      utter.lang = lang;
+      const voice = voiceFor(lang) ?? (lang === "nl-BE" ? voiceFor("nl-NL") : undefined);
+      if (voice) utter.voice = voice;
+      utter.rate = 0.9;
+      utter.pitch = 1;
+      let done = false;
+      const finish = () => {
+        if (done) return;
+        done = true;
+        resolve();
+      };
+      utter.onend = finish;
+      utter.onerror = finish;
+      // Vangnet: als onend om wat voor reden ook niet afgaat, toch doorgaan.
+      window.setTimeout(finish, Math.min(12000, 1500 + clean.length * 90));
+      speechSynthesis.speak(utter);
+    } catch {
+      resolve();
+    }
+  });
+}
+
+export function cancelSpeech(): void {
+  if (typeof speechSynthesis !== "undefined") {
+    try {
+      speechSynthesis.cancel();
+    } catch {
+      // niets aan te doen
+    }
+  }
+}
