@@ -19,6 +19,7 @@ interface Props {
   progress: Progress;
   onStart: () => void;
   onBack?: () => void;
+  onStartHandsFree?: (sub: "listen" | "speak") => void;
 }
 
 const DIRECTIONS: { value: Options["direction"]; label: string; sub: string }[] = [
@@ -68,7 +69,7 @@ function MasteryBar({ pct, light }: { pct: number; light?: boolean }) {
   );
 }
 
-export function SetupScreen({ options, setOptions, progress, onStart, onBack }: Props) {
+export function SetupScreen({ options, setOptions, progress, onStart, onBack, onStartHandsFree }: Props) {
   const selected = useMemo(() => new Set(options.lessons), [options.lessons]);
 
   const wordCount = useMemo(
@@ -349,6 +350,33 @@ export function SetupScreen({ options, setOptions, progress, onStart, onBack }: 
           </button>
         </div>
       </Card>
+
+      {onStartHandsFree && (
+        <Card className="mt-4 p-5">
+          <SectionTitle title="🚗 Hands-free (in de auto)" />
+          <p className="mb-3 text-sm font-bold text-muted">
+            Oefen met je oren over de gekozen lessen. Zet dit klaar vóór je vertrekt.
+          </p>
+          <div className="grid gap-2 sm:grid-cols-2">
+            <Button
+              variant="soft"
+              onClick={() => onStartHandsFree("listen")}
+              disabled={wordCount === 0}
+              className="!py-4"
+            >
+              🎧 Luisteren & herhalen
+            </Button>
+            <Button
+              variant="soft"
+              onClick={() => onStartHandsFree("speak")}
+              disabled={wordCount === 0}
+              className="!py-4"
+            >
+              🎤 Spreken & nakijken
+            </Button>
+          </div>
+        </Card>
+      )}
 
       <div className="fixed inset-x-0 bottom-0 z-20 bg-gradient-to-t from-paper via-paper to-transparent px-4 pt-10 pb-5">
         <div className="mx-auto max-w-3xl">

@@ -10,15 +10,25 @@ import { StatsScreen } from "./components/StatsScreen";
 import { LibraryScreen } from "./components/LibraryScreen";
 import { GrammarScreen } from "./components/GrammarScreen";
 import { ExerciseScreen } from "./components/ExerciseScreen";
+import { HandsFreeMode } from "./components/HandsFreeMode";
 import { useProgress } from "./hooks";
 import { getProgress, recordSession, update } from "./lib/storage";
 import { buildQuestions, requeue, shuffle } from "./lib/quiz";
 import { WORDS } from "./lib/words";
 import { grammarChapter } from "./lib/grammar";
 import { EXERCISES, exercisesForChapter } from "./lib/exercises";
-import type { Attempt, GrammarExercise, Options, Question } from "./lib/types";
+import type { Attempt, GrammarExercise, Options, Question, Word } from "./lib/types";
 
-type Screen = "home" | "setup" | "quiz" | "result" | "stats" | "library" | "grammar" | "exercise";
+type Screen =
+  | "home"
+  | "setup"
+  | "quiz"
+  | "result"
+  | "stats"
+  | "library"
+  | "grammar"
+  | "exercise"
+  | "handsfree";
 
 /** Deep-link: #uitleg=<hoofdstuk-id> opent de grammatica op dat hoofdstuk (nieuw tabblad vanuit een oefening). */
 function deepLinkChapter(): string | null {
@@ -45,6 +55,9 @@ export default function App() {
     exercises: GrammarExercise[];
     title: string;
   } | null>(null);
+  const [handsFree, setHandsFree] = useState<{ words: Word[]; sub: "listen" | "speak" } | null>(
+    null,
+  );
   const [options, setOptionsState] = useState<Options>(() => ({
     ...DEFAULTS,
     ...getProgress().options,
@@ -75,6 +88,18 @@ export default function App() {
       if (built.length === 0) return;
       setQuestions(built);
       setScreen("quiz");
+    },
+    [options],
+  );
+
+  const startHandsFree = useCallback(
+    (sub: "listen" | "speak") => {
+      const lessons = new Set(options.lessons);
+      let words = shuffle(WORDS.filter((w) => lessons.has(w.l)));
+      if (options.count > 0) words = words.slice(0, options.count);
+      if (words.length === 0) return;
+      setHandsFree({ words, sub });
+      setScreen("handsfree");
     },
     [options],
   );
@@ -147,6 +172,7 @@ export default function App() {
               progress={progress}
               onStart={() => start()}
               onBack={() => setScreen("home")}
+              onStartHandsFree={startHandsFree}
             />
           )}
 
@@ -179,6 +205,15 @@ export default function App() {
               exercises={exerciseSet.exercises}
               title={exerciseSet.title}
               onBack={() => setScreen("grammar")}
+            />
+          )}
+
+          {screen === "handsfree" && handsFree && (
+            <HandsFreeMode
+              key="handsfree"
+              words={handsFree.words}
+              subMode={handsFree.sub}
+              onQuit={() => setScreen("setup")}
             />
           )}
 

@@ -31,6 +31,11 @@ is, met een link naar het volledige hoofdstuk (in een nieuw tabblad, via
   een opmerking over het accent, en de toegestane tikfoutmarge schaalt mee met
   de lengte van het woord.
 - **Uitspraak** van elk woord via de Web Speech API van de browser.
+- **Hands-free modus** (voor in de auto): *luisteren en herhalen* (de app leest
+  NL voor, wacht, leest dan IT) of *spreken en nakijken* (je zegt de vertaling
+  hardop; spraakherkenning + dezelfde nakijklogica beoordelen het). Werkt het
+  best in Chrome op Android; valt terug op luisteren waar spraakherkenning
+  ontbreekt.
 - **Voortgang**: XP en levels, dagstreak, een activiteitenkalender, beheersing
   per les en een lijst van je lastigste woorden.
 
@@ -65,7 +70,8 @@ src/
                        opsplitsen in blokjes
   lib/quiz.ts          vragen bouwen, afleiders kiezen, XP berekenen
   lib/storage.ts       localStorage, Leitner-dozen, levels
-  lib/speech.ts        uitspraak via de Web Speech API
+  lib/speech.ts        uitspraak (TTS) via de Web Speech API
+  lib/speechRecognition.ts  spraakherkenning (STT) voor de hands-free spreekmodus
   lib/sfx.ts           geluidjes via de Web Audio API
   components/          de schermen, de volgordeoefening en de bouwstenen
 ```
