@@ -3344,5 +3344,823 @@
         ]
       }
     ]
+  },
+  {
+    "id": "ww-indeling",
+    "category": "11. Het werkwoord",
+    "title": "Indeling van de werkwoorden",
+    "summary": "Drie vervoegingen: -are, -ere, -ire. De -ire-groep splitst in het type sentire en het type capire (met -isc-).",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Regelmatige werkwoorden vallen in drie vervoegingen: op -are, -ere en -ire. Je vormt een tijd door de infinitief-uitgang te vervangen door de persoonsuitgang. Het voltooid deelwoord eindigt op -ato, -uto of -ito."
+      },
+      {
+        "kind": "table",
+        "caption": "Voltooid deelwoord",
+        "head": [
+          "infinitief",
+          "voltooid deelwoord"
+        ],
+        "rows": [
+          [
+            "-are",
+            "-ato (parlato)"
+          ],
+          [
+            "-ere",
+            "-uto (temuto)"
+          ],
+          [
+            "-ire",
+            "-ito (dormito)"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De -ire-werkwoorden vallen in twee groepen. Type sentire (zonder tussenvoegsel): aprire, avvertire, divertire, dormire, fuggire, partire, seguire, servire, vestire. Type capire (met -isc- in de eerste drie personen enkelvoud en de derde meervoud van de tegenwoordige tijd, de conjunctief en de gebiedende wijs): agire, definire, finire, pulire, preferire, proibire, suggerire, tradire, ubbidire."
+      },
+      {
+        "kind": "tip",
+        "body": "In de derde persoon meervoud valt de klemtoon op dezelfde lettergreep als in de eerste persoon enkelvoud: íncontro → íncontrano, télefono → télefonano."
+      }
+    ]
+  },
+  {
+    "id": "ww-hulp-voltooid",
+    "category": "11. Het werkwoord",
+    "title": "Hulpwerkwoorden van de voltooide tijd",
+    "summary": "avere (overgankelijk) of essere (onovergankelijk). Bij essere past het deelwoord zich aan aan het onderwerp.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De voltooide tijden worden gevormd met avere (hebben) of essere (zijn). In de regel krijgen overgankelijke werkwoorden avere en onovergankelijke essere. Bij essere past het voltooid deelwoord zich in geslacht en getal aan aan het onderwerp; bij avere niet."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Anna è rimasta a casa.",
+            "nl": "Anna is thuis gebleven (essere → -a)."
+          },
+          {
+            "it": "Anna ha affittato la casa.",
+            "nl": "Anna heeft het huis gehuurd (avere, geen aanpassing)."
+          },
+          {
+            "it": "Siamo andati al cinema.",
+            "nl": "We zijn naar de film gegaan."
+          },
+          {
+            "it": "Abbiamo mangiato a Firenze.",
+            "nl": "We hebben in Florence gegeten."
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Toch past het deelwoord zich ook bij avere aan als een lijdendvoorwerp-voornaamwoord (lo, la, li, le) ervóór staat: Barbara? No, non l'ho vista. Li ha salutati. Le chiavi? Non le ho trovate. Bij mi, ti, ci, vi is die aanpassing optioneel (maar de meeste Italianen doen het wel): Claudia, ti hanno chiamata. Ci hanno visti."
+      }
+    ]
+  },
+  {
+    "id": "ww-hulp-bijzonder",
+    "category": "11. Het werkwoord",
+    "title": "Hulpwerkwoord bij wederkerende, modale en onpersoonlijke werkwoorden",
+    "summary": "Wederkerend → essere; modaal → dat van het hoofdwerkwoord; onpersoonlijk si → altijd essere.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Wederkerende werkwoorden krijgen altijd essere, met aanpassing aan het onderwerp: Le bambine si sono alzate alle nove. Ci siamo divertiti molto. Bij een voltooide modale constructie hangt het af van de plaats van het voornaamwoord: essere als het voorop staat, avere als het aan de infinitief vastzit — Ci siamo voluti divertire / Abbiamo voluto divertirci."
+      },
+      {
+        "kind": "text",
+        "body": "Bij een voltooide modale constructie is het hulpwerkwoord meestal dat van het hoofdwerkwoord: Sono dovuto partire (partire → essere). Non hanno potuto comprarlo (comprare → avere). sapere heeft altijd avere. Voor extra nadruk op het modale werkwoord kan avere: Ha dovuto partire."
+      },
+      {
+        "kind": "text",
+        "body": "De meeste onpersoonlijke werkwoorden krijgen essere; weersverschijnselen kunnen ook avere, en fare heeft altijd avere: Che cos'è successo? È/Ha piovuto molto. Ha fatto freddo. Bij het onpersoonlijke si in de voltooide tijd is het hulpwerkwoord altijd essere; het deelwoord blijft onveranderd als het werkwoord van zichzelf avere had (Si è detto la verità) en krijgt een meervoudsvorm als het essere had (Si è partiti alle due)."
+      }
+    ]
+  },
+  {
+    "id": "ww-presente",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid tegenwoordige tijd (presente)",
+    "summary": "Vervang de infinitief-uitgang door de persoonsuitgang. Het gebruik loopt vrijwel gelijk aan het Nederlands.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire (-isc)"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlo",
+            "temo",
+            "dormo",
+            "capisco"
+          ],
+          [
+            "tu",
+            "parli",
+            "temi",
+            "dormi",
+            "capisci"
+          ],
+          [
+            "lui/lei",
+            "parla",
+            "teme",
+            "dorme",
+            "capisce"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parlate",
+            "temete",
+            "dormite",
+            "capite"
+          ],
+          [
+            "loro",
+            "parlano",
+            "temono",
+            "dormono",
+            "capiscono"
+          ]
+        ]
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Guardi la televisione?",
+            "nl": "Kijk je naar de televisie?"
+          },
+          {
+            "it": "Dormo male.",
+            "nl": "Ik slaap slecht."
+          },
+          {
+            "it": "Non capiscono niente.",
+            "nl": "Ze begrijpen niets."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-imperfetto",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid verleden tijd (imperfetto)",
+    "summary": "-avo / -evo / -ivo. Voor onvoltooide handelingen, toestanden, gewoontes en herhaling. Alleen essere is onregelmatig.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Imperfetto",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlavo",
+            "temevo",
+            "dormivo"
+          ],
+          [
+            "tu",
+            "parlavi",
+            "temevi",
+            "dormivi"
+          ],
+          [
+            "lui/lei",
+            "parlava",
+            "temeva",
+            "dormiva"
+          ],
+          [
+            "noi",
+            "parlavamo",
+            "temevamo",
+            "dormivamo"
+          ],
+          [
+            "voi",
+            "parlavate",
+            "temevate",
+            "dormivate"
+          ],
+          [
+            "loro",
+            "parlavano",
+            "temevano",
+            "dormivano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De imperfetto wordt altijd zo gevormd, ook bij onregelmatige werkwoorden; het enige onregelmatige is essere (ero, eri, era, eravamo, eravate, erano). Hij geeft een onvoltooide handeling of toestand weer (begin en einde blijven buiten beeld) en wordt gebruikt voor een gewoonte of herhaling."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Lavorava da due anni.",
+            "nl": "Hij werkte sinds twee jaar."
+          },
+          {
+            "it": "Pioveva e tirava vento.",
+            "nl": "Het regende en woei."
+          },
+          {
+            "it": "Da bambina cantava sempre.",
+            "nl": "Als kind zong ze altijd."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-passato-remoto",
+    "category": "11. Het werkwoord",
+    "title": "De passato remoto",
+    "summary": "Voor een afgesloten, eenmalige handeling in het verleden. Vooral schrijftaal; in het Noorden vervangen door de passato prossimo.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Passato remoto",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlai",
+            "temei",
+            "dormii"
+          ],
+          [
+            "tu",
+            "parlasti",
+            "temesti",
+            "dormisti"
+          ],
+          [
+            "lui/lei",
+            "parlò",
+            "temé",
+            "dormì"
+          ],
+          [
+            "noi",
+            "parlammo",
+            "tememmo",
+            "dormimmo"
+          ],
+          [
+            "voi",
+            "parlaste",
+            "temeste",
+            "dormiste"
+          ],
+          [
+            "loro",
+            "parlarono",
+            "temerono",
+            "dormirono"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De passato remoto geeft een volledig afgesloten of eenmalige handeling in het verleden weer. Hij komt in de schrijftaal in heel Italië voor, maar is uit de spreektaal van het Noorden verdwenen; daar gebruikt men de passato prossimo."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Quel giorno tutto andò bene.",
+            "nl": "Die dag ging alles goed."
+          },
+          {
+            "it": "Sabato si alzò alle nove.",
+            "nl": "Zaterdag stond hij om negen uur op."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-futuro",
+    "category": "11. Het werkwoord",
+    "title": "De onvoltooid toekomende tijd (futuro)",
+    "summary": "-erò (are/ere) en -irò (ire); de karakteristieke letter is de r. Ook voor een veronderstelling of benadering.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Futuro semplice",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlerò",
+            "temerò",
+            "dormirò"
+          ],
+          [
+            "tu",
+            "parlerai",
+            "temerai",
+            "dormirai"
+          ],
+          [
+            "lui/lei",
+            "parlerà",
+            "temerà",
+            "dormirà"
+          ],
+          [
+            "noi",
+            "parleremo",
+            "temeremo",
+            "dormiremo"
+          ],
+          [
+            "voi",
+            "parlerete",
+            "temerete",
+            "dormirete"
+          ],
+          [
+            "loro",
+            "parleranno",
+            "temeranno",
+            "dormiranno"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Met de futuro druk je een toekomstige handeling uit. Het Italiaans gebruikt de toekomende tijd sneller dan het Nederlands. Hij kan ook een veronderstelling of benadering aangeven (Nederlands 'wel', 'zo'n'): Finiranno alle otto (ze zullen wel om acht uur klaar zijn). Saranno le dieci (het zal zo'n tien uur zijn)."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Ti telefonerò domani.",
+            "nl": "Ik zal je morgen bellen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-futuro-onregelmatig",
+    "category": "11. Het werkwoord",
+    "title": "Onregelmatige (samengetrokken) futuro",
+    "summary": "Veel frequente werkwoorden trekken de futuro samen: andare → andrò, avere → avrò, essere → sarò ...",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Een groot aantal veelgebruikte werkwoorden heeft een samengetrokken toekomende tijd. Uit de ik-vorm volgen de andere: andrò → andrai, andrà, andremo, andrete, andranno."
+      },
+      {
+        "kind": "table",
+        "caption": "Samengetrokken futuro (io)",
+        "head": [
+          "infinitief",
+          "futuro"
+        ],
+        "rows": [
+          [
+            "andare",
+            "andrò"
+          ],
+          [
+            "avere",
+            "avrò"
+          ],
+          [
+            "bere",
+            "berrò"
+          ],
+          [
+            "cadere",
+            "cadrò"
+          ],
+          [
+            "dare",
+            "darò"
+          ],
+          [
+            "dire",
+            "dirò"
+          ],
+          [
+            "dovere",
+            "dovrò"
+          ],
+          [
+            "essere",
+            "sarò"
+          ],
+          [
+            "fare",
+            "farò"
+          ],
+          [
+            "potere",
+            "potrò"
+          ],
+          [
+            "rimanere",
+            "rimarrò"
+          ],
+          [
+            "sapere",
+            "saprò"
+          ],
+          [
+            "stare",
+            "starò"
+          ],
+          [
+            "tenere",
+            "terrò"
+          ],
+          [
+            "vedere",
+            "vedrò"
+          ],
+          [
+            "venire",
+            "verrò"
+          ],
+          [
+            "vivere",
+            "vivrò"
+          ],
+          [
+            "volere",
+            "vorrò"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ww-conjunctief-gebruik",
+    "category": "11. Het werkwoord",
+    "title": "De conjunctief (congiuntivo): gebruik",
+    "summary": "De aanvoegende wijs geeft het onzekere of subjectieve weer; vooral in de bijzin, na twijfel, wens, bepaalde voegwoorden en -unque-woorden.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De aanvoegende wijs (conjunctief) geeft aan wat onzeker of niet werkelijk is; het subjectieve staat op de voorgrond. Ze komt vooral in de bijzin voor. In de hoofdzin alleen bij wensen: Viva la regina! Fosse morto! (Was hij maar dood!)"
+      },
+      {
+        "kind": "table",
+        "caption": "Wanneer een conjunctief",
+        "head": [
+          "situatie",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "na twijfel/onzekerheid",
+            "Non so se Mario parli inglese."
+          ],
+          [
+            "na wil, wens, gevoel, noodzaak",
+            "Voglio che torniate presto."
+          ],
+          [
+            "betrekk. bijzin, ontkennende hoofdzin",
+            "Non c'è nessuno che parli italiano."
+          ],
+          [
+            "bijzin die een voorwaarde uitdrukt",
+            "Cerca qualcuno che gli pulisca la casa."
+          ],
+          [
+            "na een relatieve superlatief",
+            "È il libro più bello che io abbia mai letto."
+          ],
+          [
+            "na l'unico, il solo, il primo, l'ultimo",
+            "È l'unico che sia arrivato in tempo."
+          ],
+          [
+            "na benché, prima che, purché, senza che ...",
+            "Benché lo sapesse, non l'ha detto."
+          ],
+          [
+            "na chiunque, comunque, dovunque, qualunque",
+            "Qualunque cosa succeda, le sarò amica."
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Voegwoorden die een conjunctief vragen: affinché, benché / sebbene, nel caso che, a meno che non, nonostante che, perché (= opdat), prima che, purché / a patto che, senza che. De keuze tussen tegenwoordige en verleden conjunctief loopt parallel met het Nederlands: kijk naar de tijd van het werkwoord in de hoofdzin."
+      }
+    ]
+  },
+  {
+    "id": "ww-conjunctief-vormen",
+    "category": "11. Het werkwoord",
+    "title": "De conjunctief: vormen",
+    "summary": "Tegenwoordige tijd: parli/tema/dorma; verleden: parlassi/temessi/dormissi. Ezelsbrug: 1e persoon presente, -o → -a.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Congiuntivo presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "tu",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "lui/lei",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parliate",
+            "temiate",
+            "dormiate",
+            "capiate"
+          ],
+          [
+            "loro",
+            "parlino",
+            "temano",
+            "dormano",
+            "capiscano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De eerste drie personen zijn gelijk, dus zet men er vaak het voornaamwoord bij. Ezelsbrug voor onregelmatige werkwoorden: neem de 1e persoon enkelvoud van de tegenwoordige tijd en vervang -o door -a: vado → vada, dico → dica, faccio → faccia, posso → possa, vengo → venga, voglio → voglia. Uitzonderingen: avere → abbia, dare → dia, essere → sia, sapere → sappia, stare → stia."
+      },
+      {
+        "kind": "table",
+        "caption": "Congiuntivo imperfetto (verleden)",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlassi",
+            "temessi",
+            "dormissi"
+          ],
+          [
+            "tu",
+            "parlassi",
+            "temessi",
+            "dormissi"
+          ],
+          [
+            "lui/lei",
+            "parlasse",
+            "temesse",
+            "dormisse"
+          ],
+          [
+            "noi",
+            "parlassimo",
+            "temessimo",
+            "dormissimo"
+          ],
+          [
+            "voi",
+            "parlaste",
+            "temeste",
+            "dormiste"
+          ],
+          [
+            "loro",
+            "parlassero",
+            "temessero",
+            "dormissero"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "De verleden conjunctief herken je aan de dubbele s. Je gebruikt hem ook in hypothetische zinnen met een veronderstelling in de verleden tijd: Se fossi ricca, viaggerei. Se avessimo avuto tempo, saremmo venuti."
+      }
+    ]
+  },
+  {
+    "id": "ww-imperativo",
+    "category": "11. Het werkwoord",
+    "title": "De gebiedende wijs (imperativo)",
+    "summary": "Om te gebieden of verbieden; de ik-vorm ontbreekt. Verbod bij tu = non + infinitief (Non parlare!).",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Imperativo",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "tu",
+            "parla",
+            "temi",
+            "dormi",
+            "capisci"
+          ],
+          [
+            "Lei (beleefd)",
+            "parli",
+            "tema",
+            "dorma",
+            "capisca"
+          ],
+          [
+            "noi",
+            "parliamo",
+            "temiamo",
+            "dormiamo",
+            "capiamo"
+          ],
+          [
+            "voi",
+            "parlate",
+            "temete",
+            "dormite",
+            "capite"
+          ],
+          [
+            "Loro (beleefd)",
+            "parlino",
+            "temano",
+            "dormano",
+            "capiscano"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Bij de tu-, noi- en voi-vormen komen onbeklemtoonde voornaamwoorden er vast achter: Parlami! Mandaglielo! Diamo un'occhiata! Bij de beleefdheidsvormen (Lei/Loro) komen ze er juist vóór: Glielo mandi! Ci parli!"
+      },
+      {
+        "kind": "text",
+        "body": "Een verbod bij tu = non + infinitief, met het voornaamwoord ervoor of vast: Non parlare! Non mi parlare! / Non parlarmi! De noi- en voi-vormen blijven gelijk: Non parliamo! Non dormite! Wederkerend net zo: Alzati! Non alzarti! / Non ti alzare!"
+      },
+      {
+        "kind": "text",
+        "body": "Enkele werkwoorden hebben een afgeknotte tu-vorm: andare → va', dare → da', dire → di', fare → fa', stare → sta'. Daarna verdubbelt de medeklinker van het volgende voornaamwoord (behalve bij gli): Dimmi! Dacci lo zucchero! Fatti vivo! Vacci domani! Dagli da mangiare!"
+      }
+    ]
+  },
+  {
+    "id": "ww-condizionale",
+    "category": "11. Het werkwoord",
+    "title": "De condizionale (voorwaardelijke wijs)",
+    "summary": "Komt overeen met het Nederlandse 'zou'; staat vrijwel altijd in de hoofdzin. -erei / -irei.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Condizionale presente",
+        "head": [
+          "",
+          "parlare",
+          "temere",
+          "dormire"
+        ],
+        "rows": [
+          [
+            "io",
+            "parlerei",
+            "temerei",
+            "dormirei"
+          ],
+          [
+            "tu",
+            "parleresti",
+            "temeresti",
+            "dormiresti"
+          ],
+          [
+            "lui/lei",
+            "parlerebbe",
+            "temerebbe",
+            "dormirebbe"
+          ],
+          [
+            "noi",
+            "parleremmo",
+            "temeremmo",
+            "dormiremmo"
+          ],
+          [
+            "voi",
+            "parlereste",
+            "temereste",
+            "dormireste"
+          ],
+          [
+            "loro",
+            "parlerebbero",
+            "temerebbero",
+            "dormirebbero"
+          ]
+        ]
+      },
+      {
+        "kind": "text",
+        "body": "Werkwoorden met een samengetrokken futuro hebben ook een samengetrokken condizionale (vorrei, dovrei, sarei, andrei ...). Je gebruikt de condizionale voor een beleefde wens of vraag, om iets te melden 'op gezag van een ander', en in het hoofdzindeel van hypothetische zinnen."
+      },
+      {
+        "kind": "examples",
+        "items": [
+          {
+            "it": "Vorrei un tavolo per due.",
+            "nl": "Ik zou een tafeltje voor twee willen."
+          },
+          {
+            "it": "Dovremmo farlo più spesso.",
+            "nl": "We zouden het vaker moeten doen."
+          },
+          {
+            "it": "Secondo i giornali sarebbe morto.",
+            "nl": "Volgens de kranten zou hij overleden zijn."
+          },
+          {
+            "it": "Potrei esserLe utile?",
+            "nl": "Kan ik u van dienst zijn?"
+          }
+        ]
+      }
+    ]
   }
 ]
