@@ -4724,5 +4724,743 @@
         "body": "Zet je het object voorop, dan herhaal je het verplicht met een voornaamwoord: Questo libro, l'hai letto? Le hai viste, le mie chiavi? Bij een lijdend én meewerkend voorwerp is de gewone volgorde: lijdend voorwerp, dan meewerkend voorwerp — Ha dato il libro a Carlo."
       }
     ]
+  },
+  {
+    "id": "woordvorming",
+    "category": "14. Woordvorming",
+    "title": "Voorvoegsels en achtervoegsels",
+    "summary": "Samenstelling (grattacielo) en afleiding. Voorvoegsels dis-/s- (ontkenning), ri- (her-); rijk aan achtervoegsels.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Er zijn twee manieren om woorden te vormen: samenstelling (grattacielo = grattare + cielo) en afleiding. Het Italiaans is bijzonder rijk aan afleidingen, die veel nuances kunnen geven."
+      },
+      {
+        "kind": "text",
+        "body": "De voorvoegsels dis- en s- geven meestal een ontkenning of omkering: contento → scontento, onesto → disonesto, coprire → scoprire (ontdekken), piacere → dispiacere (spijten). Het voorvoegsel ri- lijkt op het Nederlandse 'her-': fare → rifare (overdoen), prendere → riprendere (hervatten)."
+      },
+      {
+        "kind": "table",
+        "caption": "Enkele achtervoegsels",
+        "head": [
+          "achtervoegsel",
+          "effect",
+          "voorbeeld"
+        ],
+        "rows": [
+          [
+            "-ino / -etto / -ello",
+            "verkleinend",
+            "ragazzino, poveretto"
+          ],
+          [
+            "-one",
+            "vergrotend",
+            "librone, simpaticone"
+          ],
+          [
+            "-accio",
+            "verlelijkend",
+            "ragazzaccio, tempaccio"
+          ],
+          [
+            "-uccio",
+            "koosvorm",
+            "calduccio, caruccio"
+          ],
+          [
+            "-oso",
+            "'vol van'",
+            "amoroso, doloroso, spiritoso"
+          ],
+          [
+            "-issimo",
+            "versterkend",
+            "bellissimo, canzonissima"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "termenlijst",
+    "category": "15. Lijst van termen",
+    "title": "Grammaticale termen (NL – Italiaans)",
+    "summary": "De belangrijkste grammaticale vaktermen met hun Italiaanse equivalent.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "Handig bij het lezen van Italiaanse grammatica's: de belangrijkste vaktermen."
+      },
+      {
+        "kind": "table",
+        "head": [
+          "Nederlands",
+          "Italiaans"
+        ],
+        "rows": [
+          [
+            "bijvoeglijk naamwoord",
+            "aggettivo"
+          ],
+          [
+            "bijwoord",
+            "avverbio"
+          ],
+          [
+            "zelfstandig naamwoord",
+            "sostantivo / nome"
+          ],
+          [
+            "lidwoord",
+            "articolo"
+          ],
+          [
+            "delend lidwoord",
+            "partitivo"
+          ],
+          [
+            "voorzetsel",
+            "preposizione"
+          ],
+          [
+            "voegwoord",
+            "congiunzione"
+          ],
+          [
+            "persoonlijk voornaamwoord",
+            "pronome personale"
+          ],
+          [
+            "aanwijzend voornaamwoord",
+            "pronome dimostrativo"
+          ],
+          [
+            "bezittelijk voornaamwoord",
+            "pronome possessivo"
+          ],
+          [
+            "betrekkelijk voornaamwoord",
+            "pronome relativo"
+          ],
+          [
+            "wederkerend voornaamwoord",
+            "pronome riflessivo"
+          ],
+          [
+            "hoofdtelwoord",
+            "numero cardinale"
+          ],
+          [
+            "rangtelwoord",
+            "numero ordinale"
+          ],
+          [
+            "hulpwerkwoord",
+            "ausiliare"
+          ],
+          [
+            "koppelwerkwoord",
+            "copula"
+          ],
+          [
+            "onderwerp",
+            "soggetto"
+          ],
+          [
+            "lijdend voorwerp",
+            "oggetto / accusativo"
+          ],
+          [
+            "meewerkend voorwerp",
+            "dativo"
+          ],
+          [
+            "hoofdzin",
+            "frase principale"
+          ],
+          [
+            "lijdende zin",
+            "frase passiva"
+          ],
+          [
+            "voorwaardelijke zin",
+            "periodo ipotetico"
+          ],
+          [
+            "mannelijk / vrouwelijk",
+            "maschile / femminile"
+          ],
+          [
+            "enkelvoud / meervoud",
+            "singolare / plurale"
+          ],
+          [
+            "geslacht",
+            "genere"
+          ],
+          [
+            "wijs",
+            "modo"
+          ],
+          [
+            "aantonende wijs",
+            "indicativo"
+          ],
+          [
+            "gebiedende wijs",
+            "imperativo"
+          ],
+          [
+            "onbepaalde wijs",
+            "infinito"
+          ],
+          [
+            "deelwoord",
+            "participio"
+          ],
+          [
+            "voltooid deelwoord",
+            "participio passato"
+          ],
+          [
+            "onvoltooid verleden tijd",
+            "imperfetto"
+          ],
+          [
+            "toekomende tijd",
+            "futuro"
+          ],
+          [
+            "stellende / vergrotende / overtreffende trap",
+            "grado positivo / comparativo / superlativo"
+          ],
+          [
+            "overgankelijk / onovergankelijk",
+            "transitivo / intransitivo"
+          ],
+          [
+            "ontkenning",
+            "negazione"
+          ],
+          [
+            "klinker / medeklinker",
+            "vocale / consonante"
+          ],
+          [
+            "afleiding / samenstelling",
+            "derivazione / composto"
+          ],
+          [
+            "achtervoegsel",
+            "suffisso"
+          ],
+          [
+            "werkwoordsstam",
+            "radice"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-avere-essere",
+    "category": "16. Bijlagen",
+    "title": "avere en essere (volledig)",
+    "summary": "De volledige vervoeging van de twee hulpwerkwoorden hebben en zijn.",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "avere (hebben) en essere (zijn)",
+        "head": [
+          "tijd",
+          "avere",
+          "essere"
+        ],
+        "rows": [
+          [
+            "gerundio",
+            "avendo",
+            "essendo"
+          ],
+          [
+            "deelwoord",
+            "avuto",
+            "stato / a / i / e"
+          ],
+          [
+            "presente",
+            "ho, hai, ha, abbiamo, avete, hanno",
+            "sono, sei, è, siamo, siete, sono"
+          ],
+          [
+            "imperfetto",
+            "avevo, avevi, aveva, avevamo, avevate, avevano",
+            "ero, eri, era, eravamo, eravate, erano"
+          ],
+          [
+            "passato remoto",
+            "ebbi, avesti, ebbe, avemmo, aveste, ebbero",
+            "fui, fosti, fu, fummo, foste, furono"
+          ],
+          [
+            "futuro",
+            "avrò, avrai, avrà, avremo, avrete, avranno",
+            "sarò, sarai, sarà, saremo, sarete, saranno"
+          ],
+          [
+            "condizionale",
+            "avrei, avresti, avrebbe, avremmo, avreste, avrebbero",
+            "sarei, saresti, sarebbe, saremmo, sareste, sarebbero"
+          ],
+          [
+            "cong. presente",
+            "abbia, abbia, abbia, abbiamo, abbiate, abbiano",
+            "sia, sia, sia, siamo, siate, siano"
+          ],
+          [
+            "cong. imperfetto",
+            "avessi, avessi, avesse, avessimo, aveste, avessero",
+            "fossi, fossi, fosse, fossimo, foste, fossero"
+          ],
+          [
+            "imperativo",
+            "abbi, abbia, abbiamo, abbiate, abbiano",
+            "sii, sia, siamo, siate, siano"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-regelmatig",
+    "category": "16. Bijlagen",
+    "title": "Regelmatige werkwoorden (overzicht)",
+    "summary": "Alle tijden van de drie vervoegingen op één plek: parlare, temere, dormire en capire (-isc).",
+    "blocks": [
+      {
+        "kind": "table",
+        "caption": "Volledig overzicht",
+        "head": [
+          "tijd",
+          "parlare",
+          "temere",
+          "dormire",
+          "capire"
+        ],
+        "rows": [
+          [
+            "presente",
+            "parlo, -i, -a, -iamo, -ate, -ano",
+            "temo, -i, -e, -iamo, -ete, -ono",
+            "dormo, -i, -e, -iamo, -ite, -ono",
+            "capisco, -isci, -isce, -iamo, -ite, -iscono"
+          ],
+          [
+            "imperfetto",
+            "parlavo, -avi, -ava, -avamo, -avate, -avano",
+            "temevo, -evi, -eva, -evamo, -evate, -evano",
+            "dormivo, -ivi, -iva, -ivamo, -ivate, -ivano",
+            "capivo, -ivi, -iva, -ivamo, -ivate, -ivano"
+          ],
+          [
+            "passato remoto",
+            "parlai, -asti, -ò, -ammo, -aste, -arono",
+            "temei, -esti, -é, -emmo, -este, -erono",
+            "dormii, -isti, -ì, -immo, -iste, -irono",
+            "capii, -isti, -ì, -immo, -iste, -irono"
+          ],
+          [
+            "futuro",
+            "parlerò, -erai, -erà, -eremo, -erete, -eranno",
+            "temerò, -erai, -erà, -eremo, -erete, -eranno",
+            "dormirò, -irai, -irà, -iremo, -irete, -iranno",
+            "capirò, -irai, -irà, -iremo, -irete, -iranno"
+          ],
+          [
+            "condizionale",
+            "parlerei, -eresti, -erebbe, -eremmo, -ereste, -erebbero",
+            "temerei, ...",
+            "dormirei, ...",
+            "capirei, ..."
+          ],
+          [
+            "cong. presente",
+            "parli, -i, -i, -iamo, -iate, -ino",
+            "tema, -a, -a, -iamo, -iate, -ano",
+            "dorma, -a, -a, -iamo, -iate, -ano",
+            "capisca, -a, -a, -iamo, -iate, -iscano"
+          ],
+          [
+            "cong. imperfetto",
+            "parlassi, -assi, -asse, -assimo, -aste, -assero",
+            "temessi, -essi, -esse, -essimo, -este, -essero",
+            "dormissi, -issi, -isse, -issimo, -iste, -issero",
+            "capissi, -issi, -isse, -issimo, -iste, -issero"
+          ],
+          [
+            "imperativo",
+            "parla, parli, parliamo, parlate, parlino",
+            "temi, tema, temiamo, temete, temano",
+            "dormi, dorma, dormiamo, dormite, dormano",
+            "capisci, capisca, capiamo, capite, capiscano"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijlage-onregelmatig",
+    "category": "16. Bijlagen",
+    "title": "Onregelmatige werkwoorden (overzicht)",
+    "summary": "De belangrijkste onregelmatige werkwoorden met hulpwerkwoord, deelwoord, tegenwoordige tijd, passato remoto en futuro.",
+    "blocks": [
+      {
+        "kind": "text",
+        "body": "De imperfetto is bij deze werkwoorden regelmatig (stam + -evo/-ivo). De conjunctief en gebiedende wijs leid je af van de tegenwoordige tijd (ezelsbrug: 1e persoon presente, -o → -a). Hieronder de vormen die je echt uit het hoofd moet leren."
+      },
+      {
+        "kind": "table",
+        "caption": "presente = io/tu/lui/noi/voi/loro · passato remoto = io/lui/loro",
+        "head": [
+          "werkwoord",
+          "hulp",
+          "deelw.",
+          "presente",
+          "passato remoto",
+          "futuro"
+        ],
+        "rows": [
+          [
+            "accendere (aansteken)",
+            "avere",
+            "acceso",
+            "accendo, accendi, accende, accendiamo, accendete, accendono",
+            "accesi, accese, accesero",
+            "accenderò"
+          ],
+          [
+            "andare (gaan)",
+            "essere",
+            "andato",
+            "vado, vai, va, andiamo, andate, vanno",
+            "andai, andò, andarono",
+            "andrò"
+          ],
+          [
+            "bere (drinken)",
+            "avere",
+            "bevuto",
+            "bevo, bevi, beve, beviamo, bevete, bevono",
+            "bevvi, bevve, bevvero",
+            "berrò"
+          ],
+          [
+            "chiedere (vragen)",
+            "avere",
+            "chiesto",
+            "chiedo, chiedi, chiede, chiediamo, chiedete, chiedono",
+            "chiesi, chiese, chiesero",
+            "chiederò"
+          ],
+          [
+            "chiudere (sluiten)",
+            "avere",
+            "chiuso",
+            "chiudo, chiudi, chiude, chiudiamo, chiudete, chiudono",
+            "chiusi, chiuse, chiusero",
+            "chiuderò"
+          ],
+          [
+            "conoscere (kennen)",
+            "avere",
+            "conosciuto",
+            "conosco, conosci, conosce, conosciamo, conoscete, conoscono",
+            "conobbi, conobbe, conobbero",
+            "conoscerò"
+          ],
+          [
+            "correre (rennen)",
+            "avere / essere",
+            "corso",
+            "corro, corri, corre, corriamo, correte, corrono",
+            "corsi, corse, corsero",
+            "correrò"
+          ],
+          [
+            "dare (geven)",
+            "avere",
+            "dato",
+            "do, dai, dà, diamo, date, danno",
+            "diedi, diede, diedero",
+            "darò"
+          ],
+          [
+            "decidere (besluiten)",
+            "avere",
+            "deciso",
+            "decido, decidi, decide, decidiamo, decidete, decidono",
+            "decisi, decise, decisero",
+            "deciderò"
+          ],
+          [
+            "dire (zeggen)",
+            "avere",
+            "detto",
+            "dico, dici, dice, diciamo, dite, dicono",
+            "dissi, disse, dissero",
+            "dirò"
+          ],
+          [
+            "dirigere (leiden)",
+            "avere",
+            "diretto",
+            "dirigo, dirigi, dirige, dirigiamo, dirigete, dirigono",
+            "diressi, diresse, diressero",
+            "dirigerò"
+          ],
+          [
+            "dovere (moeten)",
+            "avere",
+            "dovuto",
+            "devo, devi, deve, dobbiamo, dovete, devono",
+            "dovei, dové, doverono",
+            "dovrò"
+          ],
+          [
+            "fare (doen)",
+            "avere",
+            "fatto",
+            "faccio, fai, fa, facciamo, fate, fanno",
+            "feci, fece, fecero",
+            "farò"
+          ],
+          [
+            "giungere (bereiken)",
+            "avere",
+            "giunto",
+            "giungo, giungi, giunge, giungiamo, giungete, giungono",
+            "giunsi, giunse, giunsero",
+            "giungerò"
+          ],
+          [
+            "leggere (lezen)",
+            "avere",
+            "letto",
+            "leggo, leggi, legge, leggiamo, leggete, leggono",
+            "lessi, lesse, lessero",
+            "leggerò"
+          ],
+          [
+            "mettere (leggen, zetten)",
+            "avere",
+            "messo",
+            "metto, metti, mette, mettiamo, mettete, mettono",
+            "misi, mise, misero",
+            "metterò"
+          ],
+          [
+            "nascere (geboren worden)",
+            "essere",
+            "nato",
+            "nasco, nasci, nasce, nasciamo, nascete, nascono",
+            "nacqui, nacque, nacquero",
+            "nascerò"
+          ],
+          [
+            "parere (schijnen)",
+            "essere",
+            "parso",
+            "paio, pari, pare, paiamo, parete, paiono",
+            "parvi, parve, parvero",
+            "parrò"
+          ],
+          [
+            "perdere (verliezen)",
+            "avere",
+            "perso / perduto",
+            "perdo, perdi, perde, perdiamo, perdete, perdono",
+            "persi, perse, persero",
+            "perderò"
+          ],
+          [
+            "piacere (bevallen)",
+            "essere",
+            "piaciuto",
+            "piaccio, piaci, piace, piacciamo, piacete, piacciono",
+            "piacqui, piacque, piacquero",
+            "piacerò"
+          ],
+          [
+            "potere (kunnen)",
+            "avere",
+            "potuto",
+            "posso, puoi, può, possiamo, potete, possono",
+            "potei, poté, poterono",
+            "potrò"
+          ],
+          [
+            "prendere (nemen)",
+            "avere",
+            "preso",
+            "prendo, prendi, prende, prendiamo, prendete, prendono",
+            "presi, prese, presero",
+            "prenderò"
+          ],
+          [
+            "ridere (lachen)",
+            "avere",
+            "riso",
+            "rido, ridi, ride, ridiamo, ridete, ridono",
+            "risi, rise, risero",
+            "riderò"
+          ],
+          [
+            "rimanere (blijven)",
+            "essere",
+            "rimasto",
+            "rimango, rimani, rimane, rimaniamo, rimanete, rimangono",
+            "rimasi, rimase, rimasero",
+            "rimarrò"
+          ],
+          [
+            "riscuotere (innen)",
+            "avere",
+            "riscosso",
+            "riscuoto, riscuoti, riscuote, riscuotiamo, riscuotete, riscuotono",
+            "riscossi, riscosse, riscossero",
+            "riscuoterò"
+          ],
+          [
+            "rispondere (antwoorden)",
+            "avere",
+            "risposto",
+            "rispondo, rispondi, risponde, rispondiamo, rispondete, rispondono",
+            "risposi, rispose, risposero",
+            "risponderò"
+          ],
+          [
+            "salire (naar boven gaan)",
+            "essere",
+            "salito",
+            "salgo, sali, sale, saliamo, salite, salgono",
+            "salii, salì, salirono",
+            "salirò"
+          ],
+          [
+            "sapere (weten)",
+            "avere",
+            "saputo",
+            "so, sai, sa, sappiamo, sapete, sanno",
+            "seppi, seppe, seppero",
+            "saprò"
+          ],
+          [
+            "scegliere (kiezen)",
+            "avere",
+            "scelto",
+            "scelgo, scegli, sceglie, scegliamo, scegliete, scelgono",
+            "scelsi, scelse, scelsero",
+            "sceglierò"
+          ],
+          [
+            "scendere (afdalen)",
+            "essere",
+            "sceso",
+            "scendo, scendi, scende, scendiamo, scendete, scendono",
+            "scesi, scese, scesero",
+            "scenderò"
+          ],
+          [
+            "scrivere (schrijven)",
+            "avere",
+            "scritto",
+            "scrivo, scrivi, scrive, scriviamo, scrivete, scrivono",
+            "scrissi, scrisse, scrissero",
+            "scriverò"
+          ],
+          [
+            "sedersi (gaan zitten)",
+            "essere",
+            "seduto",
+            "mi siedo, ti siedi, si siede, ci sediamo, vi sedete, si siedono",
+            "mi sedei, si sedé, si sederono",
+            "mi siederò / sederò"
+          ],
+          [
+            "spendere (uitgeven)",
+            "avere",
+            "speso",
+            "spendo, spendi, spende, spendiamo, spendete, spendono",
+            "spesi, spese, spesero",
+            "spenderò"
+          ],
+          [
+            "stare (zijn, staan)",
+            "essere",
+            "stato",
+            "sto, stai, sta, stiamo, state, stanno",
+            "stetti, stette, stettero",
+            "starò"
+          ],
+          [
+            "tenere (houden)",
+            "avere",
+            "tenuto",
+            "tengo, tieni, tiene, teniamo, tenete, tengono",
+            "tenni, tenne, tennero",
+            "terrò"
+          ],
+          [
+            "uscire (uitgaan)",
+            "essere",
+            "uscito",
+            "esco, esci, esce, usciamo, uscite, escono",
+            "uscii, uscì, uscirono",
+            "uscirò"
+          ],
+          [
+            "valere (waard zijn)",
+            "essere",
+            "valso",
+            "valgo, vali, vale, valiamo, valete, valgono",
+            "valsi, valse, valsero",
+            "varrò"
+          ],
+          [
+            "vedere (zien)",
+            "avere",
+            "visto",
+            "vedo, vedi, vede, vediamo, vedete, vedono",
+            "vidi, vide, videro",
+            "vedrò"
+          ],
+          [
+            "venire (komen)",
+            "essere",
+            "venuto",
+            "vengo, vieni, viene, veniamo, venite, vengono",
+            "venni, venne, vennero",
+            "verrò"
+          ],
+          [
+            "vivere (leven)",
+            "avere",
+            "vissuto",
+            "vivo, vivi, vive, viviamo, vivete, vivono",
+            "vissi, visse, vissero",
+            "vivrò"
+          ],
+          [
+            "volere (willen)",
+            "avere",
+            "voluto",
+            "voglio, vuoi, vuole, vogliamo, volete, vogliono",
+            "volli, volle, vollero",
+            "vorrò"
+          ]
+        ]
+      }
+    ]
   }
 ]
