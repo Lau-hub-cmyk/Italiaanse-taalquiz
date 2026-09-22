@@ -44,11 +44,14 @@ export function TopBar({
     <header className="mx-auto flex w-full max-w-3xl flex-wrap items-center gap-2 px-4 pt-5 sm:px-6">
       <button type="button" onClick={onHome} className="flex items-center gap-2.5 rounded-2xl text-left">
         <motion.span
-          className="grid size-11 place-items-center rounded-2xl bg-cobalt font-display text-xl font-bold text-on-accent"
+          aria-hidden
+          className="flex size-11 overflow-hidden rounded-2xl border-2 border-line"
           whileHover={{ rotate: -8, scale: 1.05 }}
           transition={spring}
         >
-          P
+          <span className="h-full flex-1" style={{ backgroundColor: "#009246" }} />
+          <span className="h-full flex-1 bg-white" />
+          <span className="h-full flex-1" style={{ backgroundColor: "#ce2b37" }} />
         </motion.span>
         <span>
           <span className="block font-display text-xl leading-none font-bold text-ink">
