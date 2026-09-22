@@ -3454,5 +3454,287 @@
     "nl": "slagen",
     "p": "3e mv",
     "inf": "promuovere"
+  },
+  {
+    "it": "sommare",
+    "nl": "optellen",
+    "p": "infinitief",
+    "inf": "sommare"
+  },
+  {
+    "it": "avere fame",
+    "nl": "honger hebben",
+    "p": "infinitief",
+    "inf": "avere"
+  },
+  {
+    "it": "avere sete",
+    "nl": "dorst hebben",
+    "p": "infinitief",
+    "inf": "avere"
+  },
+  {
+    "it": "ordinare",
+    "nl": "bestellen",
+    "p": "infinitief",
+    "inf": "ordinare"
+  },
+  {
+    "it": "assaggiare",
+    "nl": "proeven",
+    "p": "infinitief",
+    "inf": "assaggiare"
+  },
+  {
+    "it": "cuocere al forno",
+    "nl": "bakken",
+    "p": "infinitief",
+    "inf": "cuocere"
+  },
+  {
+    "it": "tagliare",
+    "nl": "snijden",
+    "p": "infinitief",
+    "inf": "tagliare"
+  },
+  {
+    "it": "annullare",
+    "nl": "annuleren",
+    "p": "infinitief",
+    "inf": "annullare"
+  },
+  {
+    "it": "perdersi",
+    "nl": "verdwalen",
+    "p": "infinitief",
+    "inf": "perdersi"
+  },
+  {
+    "it": "mettere in ordine",
+    "nl": "opruimen",
+    "p": "infinitief",
+    "inf": "mettere"
+  },
+  {
+    "it": "pulire",
+    "nl": "schoonmaken",
+    "p": "infinitief",
+    "inf": "pulire"
+  },
+  {
+    "it": "essere",
+    "nl": "zijn",
+    "p": "infinitief",
+    "inf": "essere"
+  },
+  {
+    "it": "avere",
+    "nl": "hebben",
+    "p": "infinitief",
+    "inf": "avere"
+  },
+  {
+    "it": "andare",
+    "nl": "gaan",
+    "p": "infinitief",
+    "inf": "andare"
+  },
+  {
+    "it": "potere",
+    "nl": "kunnen",
+    "p": "infinitief",
+    "inf": "potere"
+  },
+  {
+    "it": "volere",
+    "nl": "willen",
+    "p": "infinitief",
+    "inf": "volere"
+  },
+  {
+    "it": "dovere",
+    "nl": "moeten",
+    "p": "infinitief",
+    "inf": "dovere"
+  },
+  {
+    "it": "sentire",
+    "nl": "horen / voelen",
+    "p": "infinitief",
+    "inf": "sentire"
+  },
+  {
+    "it": "mangiare",
+    "nl": "eten",
+    "p": "infinitief",
+    "inf": "mangiare"
+  },
+  {
+    "it": "bere",
+    "nl": "drinken",
+    "p": "infinitief",
+    "inf": "bere"
+  },
+  {
+    "it": "dormire",
+    "nl": "slapen",
+    "p": "infinitief",
+    "inf": "dormire"
+  },
+  {
+    "it": "pagare",
+    "nl": "betalen",
+    "p": "infinitief",
+    "inf": "pagare"
+  },
+  {
+    "it": "aprire",
+    "nl": "openen",
+    "p": "infinitief",
+    "inf": "aprire"
+  },
+  {
+    "it": "chiudere",
+    "nl": "sluiten",
+    "p": "infinitief",
+    "inf": "chiudere"
+  },
+  {
+    "it": "partire",
+    "nl": "vertrekken",
+    "p": "infinitief",
+    "inf": "partire"
+  },
+  {
+    "it": "arrivare",
+    "nl": "aankomen",
+    "p": "infinitief",
+    "inf": "arrivare"
+  },
+  {
+    "it": "lavorare",
+    "nl": "werken",
+    "p": "infinitief",
+    "inf": "lavorare"
+  },
+  {
+    "it": "correre",
+    "nl": "lopen / rennen",
+    "p": "infinitief",
+    "inf": "correre"
+  },
+  {
+    "it": "mettere",
+    "nl": "zetten / leggen",
+    "p": "infinitief",
+    "inf": "mettere"
+  },
+  {
+    "it": "trovare",
+    "nl": "vinden",
+    "p": "infinitief",
+    "inf": "trovare"
+  },
+  {
+    "it": "perdere",
+    "nl": "verliezen",
+    "p": "infinitief",
+    "inf": "perdere"
+  },
+  {
+    "it": "vivere",
+    "nl": "leven / wonen",
+    "p": "infinitief",
+    "inf": "vivere"
+  },
+  {
+    "it": "dimenticare",
+    "nl": "vergeten",
+    "p": "infinitief",
+    "inf": "dimenticare"
+  },
+  {
+    "it": "cominciare",
+    "nl": "beginnen",
+    "p": "infinitief",
+    "inf": "cominciare"
+  },
+  {
+    "it": "chiamare",
+    "nl": "bellen / roepen",
+    "p": "infinitief",
+    "inf": "chiamare"
+  },
+  {
+    "it": "guardare",
+    "nl": "kijken",
+    "p": "infinitief",
+    "inf": "guardare"
+  },
+  {
+    "it": "amare",
+    "nl": "houden van",
+    "p": "infinitief",
+    "inf": "amare"
+  },
+  {
+    "it": "annoiarsi",
+    "nl": "zich vervelen",
+    "p": "infinitief",
+    "inf": "annoiarsi"
+  },
+  {
+    "it": "piangere",
+    "nl": "huilen",
+    "p": "infinitief",
+    "inf": "piangere"
+  },
+  {
+    "it": "sentirsi",
+    "nl": "zich voelen",
+    "p": "infinitief",
+    "inf": "sentirsi"
+  },
+  {
+    "it": "nevica",
+    "nl": "het sneeuwt",
+    "p": "3e ev",
+    "inf": "nevicare"
+  },
+  {
+    "it": "indossare",
+    "nl": "dragen",
+    "p": "infinitief",
+    "inf": "indossare"
+  },
+  {
+    "it": "fare male",
+    "nl": "pijn doen",
+    "p": "infinitief",
+    "inf": "fare"
+  },
+  {
+    "it": "superare",
+    "nl": "slagen (examen)",
+    "p": "infinitief",
+    "inf": "superare"
+  },
+  {
+    "it": "esercitarsi",
+    "nl": "oefenen",
+    "p": "infinitief",
+    "inf": "esercitarsi"
+  },
+  {
+    "it": "spiegare",
+    "nl": "uitleggen",
+    "p": "infinitief",
+    "inf": "spiegare"
+  },
+  {
+    "it": "ripetere",
+    "nl": "na … zeggen (nazeggen)",
+    "p": "infinitief",
+    "inf": "ripetere"
   }
 ]
