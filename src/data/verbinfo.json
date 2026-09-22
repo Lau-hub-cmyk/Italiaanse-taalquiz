@@ -1,0 +1,542 @@
+[
+  {
+    "it": "chiami",
+    "nl": "heet (heten)",
+    "p": "2e ev",
+    "inf": "chiamarsi"
+  },
+  {
+    "it": "sono",
+    "nl": "ben (zijn)",
+    "p": "1e ev",
+    "inf": "essere"
+  },
+  {
+    "it": "è",
+    "nl": "is (zijn)",
+    "p": "3e ev",
+    "inf": "essere"
+  },
+  {
+    "it": "vieni",
+    "nl": "kom (komen)",
+    "p": "2e ev",
+    "inf": "venire"
+  },
+  {
+    "it": "dice",
+    "nl": "zegt (zeggen)",
+    "p": "3e ev",
+    "inf": "dire"
+  },
+  {
+    "it": "viene",
+    "nl": "komt (komen)",
+    "p": "3e ev",
+    "inf": "venire"
+  },
+  {
+    "it": "vive",
+    "nl": "woont (wonen)",
+    "p": "3e ev",
+    "inf": "vivere"
+  },
+  {
+    "it": "vivo",
+    "nl": "woon (wonen)",
+    "p": "1e ev",
+    "inf": "vivere"
+  },
+  {
+    "it": "ho",
+    "nl": "heb (hebben)",
+    "p": "1e ev",
+    "inf": "avere"
+  },
+  {
+    "it": "sei",
+    "nl": "ben (zijn)",
+    "p": "2e ev",
+    "inf": "essere"
+  },
+  {
+    "it": "sposata",
+    "nl": "getrouwd (trouwen)",
+    "p": "deelwoord",
+    "inf": "sposare"
+  },
+  {
+    "it": "viviamo",
+    "nl": "wonen (wonen)",
+    "p": "1e mv",
+    "inf": "vivere"
+  },
+  {
+    "it": "avete",
+    "nl": "hebben (hebben)",
+    "p": "2e mv",
+    "inf": "avere"
+  },
+  {
+    "it": "si chiamano",
+    "nl": "heten (heten)",
+    "p": "3e mv",
+    "inf": "chiamarsi"
+  },
+  {
+    "it": "ha",
+    "nl": "heeft (hebben)",
+    "p": "3e ev",
+    "inf": "avere"
+  },
+  {
+    "it": "era",
+    "nl": "was (zijn)",
+    "p": "3e ev",
+    "inf": "essere"
+  },
+  {
+    "it": "vengono",
+    "nl": "volgen (volgen)",
+    "p": "3e mv",
+    "inf": "venire"
+  },
+  {
+    "it": "sono",
+    "nl": "zijn (zijn)",
+    "p": "3e mv",
+    "inf": "essere"
+  },
+  {
+    "it": "lavorano",
+    "nl": "werken (werken)",
+    "p": "3e mv",
+    "inf": "lavorare"
+  },
+  {
+    "it": "andiamo",
+    "nl": "gaan (gaan)",
+    "p": "1e mv",
+    "inf": "andare"
+  },
+  {
+    "it": "fare",
+    "nl": "doen (doen)",
+    "p": "infinitief",
+    "inf": "fare"
+  },
+  {
+    "it": "imparare",
+    "nl": "leren (leren)",
+    "p": "infinitief",
+    "inf": "imparare"
+  },
+  {
+    "it": "parli",
+    "nl": "spreek (spreken)",
+    "p": "2e ev",
+    "inf": "parlare"
+  },
+  {
+    "it": "parliamo",
+    "nl": "spreken (spreken)",
+    "p": "1e mv",
+    "inf": "parlare"
+  },
+  {
+    "it": "impari",
+    "nl": "leer (leren)",
+    "p": "2e ev",
+    "inf": "imparare"
+  },
+  {
+    "it": "fai",
+    "nl": "doe (doen)",
+    "p": "2e ev",
+    "inf": "fare"
+  },
+  {
+    "it": "voglio",
+    "nl": "wil (willen)",
+    "p": "1e ev",
+    "inf": "volere"
+  },
+  {
+    "it": "studiare",
+    "nl": "studeren (studeren)",
+    "p": "infinitief",
+    "inf": "studiare"
+  },
+  {
+    "it": "parla",
+    "nl": "spreekt (spreken)",
+    "p": "3e ev",
+    "inf": "parlare"
+  },
+  {
+    "it": "ascolto",
+    "nl": "luister (luisteren)",
+    "p": "1e ev",
+    "inf": "ascoltare"
+  },
+  {
+    "it": "hai",
+    "nl": "heb (hebben)",
+    "p": "2e ev",
+    "inf": "avere"
+  },
+  {
+    "it": "sono",
+    "nl": "zit (zitten)",
+    "p": "1e ev",
+    "inf": "essere"
+  },
+  {
+    "it": "inizia",
+    "nl": "begint (beginnen)",
+    "p": "3e ev",
+    "inf": "iniziare"
+  },
+  {
+    "it": "dura",
+    "nl": "duurt (duren)",
+    "p": "3e ev",
+    "inf": "durare"
+  },
+  {
+    "it": "mangio",
+    "nl": "eet (eten)",
+    "p": "1e ev",
+    "inf": "mangiare"
+  },
+  {
+    "it": "bevo",
+    "nl": "drink (drinken)",
+    "p": "1e ev",
+    "inf": "bere"
+  },
+  {
+    "it": "devi",
+    "nl": "moet (moeten)",
+    "p": "2e ev",
+    "inf": "dovere"
+  },
+  {
+    "it": "vado",
+    "nl": "ga (gaan)",
+    "p": "1e ev",
+    "inf": "andare"
+  },
+  {
+    "it": "viaggio",
+    "nl": "reis (reizen)",
+    "p": "1e ev",
+    "inf": "viaggiare"
+  },
+  {
+    "it": "arriva",
+    "nl": "komt … aan (aankomen)",
+    "p": "3e ev",
+    "inf": "arrivare"
+  },
+  {
+    "it": "perso",
+    "nl": "gemist (missen)",
+    "p": "deelwoord",
+    "inf": "perdere"
+  },
+  {
+    "it": "perdo",
+    "nl": "mis (missen)",
+    "p": "1e ev",
+    "inf": "perdere"
+  },
+  {
+    "it": "parte",
+    "nl": "vertrekt (vertrekken)",
+    "p": "3e ev",
+    "inf": "partire"
+  },
+  {
+    "it": "leggo",
+    "nl": "lees (lezen)",
+    "p": "1e ev",
+    "inf": "leggere"
+  },
+  {
+    "it": "lavoro",
+    "nl": "werk (werken)",
+    "p": "1e ev",
+    "inf": "lavorare"
+  },
+  {
+    "it": "dipende",
+    "nl": "verschilt (verschillen)",
+    "p": "3e ev",
+    "inf": "dipendere"
+  },
+  {
+    "it": "ho lavorato",
+    "nl": "werkte (werken)",
+    "p": "1e ev",
+    "inf": "lavorare"
+  },
+  {
+    "it": "mangiamo",
+    "nl": "eten (eten)",
+    "p": "1e mv",
+    "inf": "mangiare"
+  },
+  {
+    "it": "guardo",
+    "nl": "kijk (kijken)",
+    "p": "1e ev",
+    "inf": "guardare"
+  },
+  {
+    "it": "fermo",
+    "nl": "stop (stoppen)",
+    "p": "1e ev",
+    "inf": "fermare"
+  },
+  {
+    "it": "compro",
+    "nl": "koop (kopen)",
+    "p": "1e ev",
+    "inf": "comprare"
+  },
+  {
+    "it": "ho bisogno",
+    "nl": "heb … nodig (nodig hebben)",
+    "p": "1e ev",
+    "inf": "avere bisogno"
+  },
+  {
+    "it": "faccio",
+    "nl": "maak (maken)",
+    "p": "1e ev",
+    "inf": "fare"
+  },
+  {
+    "it": "c'è",
+    "nl": "staat (staan)",
+    "p": "3e ev",
+    "inf": "esserci"
+  },
+  {
+    "it": "so",
+    "nl": "weet (weten)",
+    "p": "1e ev",
+    "inf": "sapere"
+  },
+  {
+    "it": "vedo",
+    "nl": "zie (zien)",
+    "p": "1e ev",
+    "inf": "vedere"
+  },
+  {
+    "it": "può",
+    "nl": "kan (kunnen)",
+    "p": "3e ev",
+    "inf": "potere"
+  },
+  {
+    "it": "aiutare",
+    "nl": "helpen (helpen)",
+    "p": "infinitief",
+    "inf": "aiutare"
+  },
+  {
+    "it": "posso",
+    "nl": "mag (mogen)",
+    "p": "1e ev",
+    "inf": "potere"
+  },
+  {
+    "it": "chiedere",
+    "nl": "vragen (vragen)",
+    "p": "infinitief",
+    "inf": "chiedere"
+  },
+  {
+    "it": "trovo",
+    "nl": "vind (vinden)",
+    "p": "1e ev",
+    "inf": "trovare"
+  },
+  {
+    "it": "cammina",
+    "nl": "loop (lopen)",
+    "p": "3e ev",
+    "inf": "camminare"
+  },
+  {
+    "it": "la accompagno",
+    "nl": "loop … mee (meelopen)",
+    "p": "1e ev",
+    "inf": "accompagnare"
+  },
+  {
+    "it": "credo",
+    "nl": "geloof (geloven)",
+    "p": "1e ev",
+    "inf": "credere"
+  },
+  {
+    "it": "prendi",
+    "nl": "halen (halen)",
+    "p": "2e ev",
+    "inf": "prendere"
+  },
+  {
+    "it": "paghi",
+    "nl": "betalen (betalen)",
+    "p": "2e ev",
+    "inf": "pagare"
+  },
+  {
+    "it": "comprare",
+    "nl": "kopen (kopen)",
+    "p": "infinitief",
+    "inf": "comprare"
+  },
+  {
+    "it": "funziona",
+    "nl": "werkt (werken)",
+    "p": "3e ev",
+    "inf": "funzionare"
+  },
+  {
+    "it": "capire",
+    "nl": "verstaan (verstaan)",
+    "p": "infinitief",
+    "inf": "capire"
+  },
+  {
+    "it": "comprendere",
+    "nl": "begrijpen (begrijpen)",
+    "p": "infinitief",
+    "inf": "comprendere"
+  },
+  {
+    "it": "costa",
+    "nl": "kost (kosten)",
+    "p": "3e ev",
+    "inf": "costare"
+  },
+  {
+    "it": "guardi",
+    "nl": "kijkt (kijken)",
+    "p": "2e ev",
+    "inf": "guardare"
+  },
+  {
+    "it": "ascolti",
+    "nl": "luistert (luisteren)",
+    "p": "2e ev",
+    "inf": "ascoltare"
+  },
+  {
+    "it": "cerchi",
+    "nl": "zoek … op (opzoeken)",
+    "p": "2e ev",
+    "inf": "cercare"
+  },
+  {
+    "it": "significano",
+    "nl": "betekenen (betekenen)",
+    "p": "3e mv",
+    "inf": "significare"
+  },
+  {
+    "it": "capisci",
+    "nl": "begrijpt (begrijpen)",
+    "p": "2e ev",
+    "inf": "capire"
+  },
+  {
+    "it": "capisci",
+    "nl": "versta (verstaan)",
+    "p": "2e ev",
+    "inf": "capire"
+  },
+  {
+    "it": "ascoltare",
+    "nl": "luisteren (luisteren)",
+    "p": "infinitief",
+    "inf": "ascoltare"
+  },
+  {
+    "it": "leggere",
+    "nl": "lezen (lezen)",
+    "p": "infinitief",
+    "inf": "leggere"
+  },
+  {
+    "it": "ripetere",
+    "nl": "nazeggen (nazeggen)",
+    "p": "infinitief",
+    "inf": "ripetere"
+  },
+  {
+    "it": "puoi",
+    "nl": "kunt (kunnen)",
+    "p": "2e ev",
+    "inf": "potere"
+  },
+  {
+    "it": "cercare",
+    "nl": "opzoeken (opzoeken)",
+    "p": "infinitief",
+    "inf": "cercare"
+  },
+  {
+    "it": "capisco",
+    "nl": "begrijp (begrijpen)",
+    "p": "1e ev",
+    "inf": "capire"
+  },
+  {
+    "it": "esercito",
+    "nl": "oefen (oefenen)",
+    "p": "1e ev",
+    "inf": "esercitare"
+  },
+  {
+    "it": "ricevi",
+    "nl": "krijg (krijgen)",
+    "p": "2e ev",
+    "inf": "ricevere"
+  },
+  {
+    "it": "conosco",
+    "nl": "ken (kennen)",
+    "p": "1e ev",
+    "inf": "conoscere"
+  },
+  {
+    "it": "scrivere",
+    "nl": "schrijf (schrijven)",
+    "p": "infinitief",
+    "inf": "scrivere"
+  },
+  {
+    "it": "ripetere",
+    "nl": "herhalen (herhalen)",
+    "p": "infinitief",
+    "inf": "ripetere"
+  },
+  {
+    "it": "conosci",
+    "nl": "kent (kennen)",
+    "p": "2e ev",
+    "inf": "conoscere"
+  },
+  {
+    "it": "parlare",
+    "nl": "praten (praten)",
+    "p": "infinitief",
+    "inf": "parlare"
+  }
+]

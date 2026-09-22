@@ -11,11 +11,13 @@ import {
   wordKey,
 } from "../lib/words";
 import { speak } from "../lib/speech";
+import { verbInfo, verbTag } from "../lib/verbs";
 import type { Progress } from "../lib/storage";
 import type { Word } from "../lib/types";
 import { BackBar, Card, SpeakerButton } from "./ui";
 
 function WordRow({ word, mastered }: { word: Word; mastered: boolean }) {
+  const info = verbInfo(word);
   return (
     <div className="flex items-center gap-3 border-t-2 border-line py-2.5 first:border-t-0">
       <span className="min-w-0 flex-1">
@@ -23,6 +25,11 @@ function WordRow({ word, mastered }: { word: Word; mastered: boolean }) {
         <span className="block truncate font-display text-base font-semibold text-ink">
           {word.it}
         </span>
+        {info && (
+          <span className="mt-0.5 inline-block rounded-md bg-lilac-soft px-1.5 py-0.5 text-xs font-extrabold text-lilac">
+            {verbTag(info)}
+          </span>
+        )}
       </span>
       {mastered && (
         <span title="Beheerst" className="text-sm text-pino" aria-hidden>

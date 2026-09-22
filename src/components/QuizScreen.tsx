@@ -5,6 +5,7 @@ import type { Attempt, Options, Question, Verdict } from "../lib/types";
 import { judge, sameTokens } from "../lib/text";
 import { requeue, xpFor } from "../lib/quiz";
 import { WORDS, lessonSubtitle, wordKey } from "../lib/words";
+import { verbInfo, verbTag } from "../lib/verbs";
 import { recordAnswer, update } from "../lib/storage";
 import { speak } from "../lib/speech";
 import { sfx } from "../lib/sfx";
@@ -528,6 +529,14 @@ export function QuizScreen({ questions, options, audio, onFinish, onQuit }: Prop
                 {result.verdict !== "correct" && result.note && (
                   <p className="truncate text-sm font-bold text-muted">{result.note}</p>
                 )}
+                {(() => {
+                  const info = verbInfo(question.word);
+                  return info ? (
+                    <span className="mt-1 inline-block rounded-md bg-lilac-soft px-2 py-0.5 text-xs font-extrabold text-lilac">
+                      {question.word.it} · {verbTag(info)}
+                    </span>
+                  ) : null;
+                })()}
               </div>
 
               {result.verdict !== "correct" && (
