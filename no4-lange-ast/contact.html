@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title data-nl="Contact, No.4 Lange Ast" data-en="Contact, No.4 Lange Ast">Contact, No.4 Lange Ast</title>
+<meta name="description" content="Bekijk de beschikbaarheid en stuur je aanvraag voor No.4 Lange Ast." data-nl="Bekijk de beschikbaarheid en stuur je aanvraag voor No.4 Lange Ast." data-en="Check availability and send your request for No.4 Lange Ast.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&amp;display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+<script src="assets/main.js"></script>
+</head>
+<body>
+
+<a class="skip-link" href="#main"><span class="lang-nl">Naar de inhoud</span><span class="lang-en">Skip to content</span></a>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="wordmark" href="index.html">No.4 Lange Ast</a>
+    <div class="header-right">
+      <nav class="site-nav" id="site-nav" aria-label="Main">
+    <ul>
+      <li><a href="index.html"><span class="lang-nl">Home</span><span class="lang-en">Home</span></a></li>
+      <li><a href="het-verblijf.html"><span class="lang-nl">Het verblijf</span><span class="lang-en">The house</span></a></li>
+      <li><a href="explore.html"><span class="lang-nl">Omgeving</span><span class="lang-en">Explore</span></a></li>
+      <li><a href="village-life.html"><span class="lang-nl">Dorpsleven</span><span class="lang-en">Village life</span></a></li>
+      <li><a href="prijzen.html"><span class="lang-nl">Prijzen</span><span class="lang-en">Prices</span></a></li>
+      <li><a href="contact.html" aria-current="page"><span class="lang-nl">Contact</span><span class="lang-en">Contact</span></a></li>
+    </ul>
+  </nav>
+      <button class="lang-toggle" type="button" aria-label="Switch to English"><span class="opt opt-nl">NL</span> / <span class="opt opt-en">EN</span></button>
+      <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+<section class="hero hero--page">
+  <img class="hero-img" src="images/contact-hero.jpg" width="2400" height="1350" alt="De voordeur en de oprit van het huis" data-alt-nl="De voordeur en de oprit van het huis" data-alt-en="The front door and the driveway of the house">
+  <div class="hero-content">
+    <h1><span class="lang-nl">Contact</span><span class="lang-en">Contact</span></h1>
+  </div>
+</section>
+
+<section class="section section--light">
+  <div class="narrow">
+    <h2><span class="lang-nl">Neem contact op</span><span class="lang-en">Get in touch</span></h2>
+    <p class="lang-nl">Op zoek naar meer info of heb je een specifieke vraag? Wil je de beschikbaarheid checken of een aanvraag doen? Neem contact op.</p>
+<p class="lang-en">Looking for more information, or do you have a specific question? Want to check availability or send a request? Get in touch.</p>
+    <!-- Owner details. Replace [surname] and [phone]. See README.txt. -->
+    <ul class="contact-details">
+      <li>Bruno [surname]</li>
+      <li>Lange Aststraat 4a, 9750 Huise (Kruisem), Belgium</li>
+      <li><span class="label">Phone:</span> [phone]</li>
+      <li><span class="label">Email:</span> <a href="mailto:info@no4langeast.be">info@no4langeast.be</a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="section section--sand" id="beschikbaarheid">
+  <div class="narrow">
+    <h2><span class="lang-nl">Beschikbaarheid</span><span class="lang-en">Availability</span></h2>
+    <p class="lang-nl">Bekijk hieronder welke data vrij zijn en stuur je aanvraag. We bevestigen elke aanvraag persoonlijk.</p>
+<p class="lang-en">See below which dates are free and send your request. We confirm every request in person.</p>
+  </div>
+  <div class="container">
+    <div class="calendar-wrap">
+      <!--
+        AVAILABILITY CALENDAR, read only.
+        Replace GOOGLE_CALENDAR_EMBED_URL_HERE with the embed URL of the Google Calendar
+        that imports the Airbnb and Booking iCal feeds.
+        In Google Calendar: Settings, select the calendar, Integrate calendar, copy the
+        src URL from "Embed code" (it starts with https://calendar.google.com/calendar/embed?src=).
+        The calendar must be set to public (show only free/busy) for guests to see it.
+        This calendar only shows which dates are taken. It does not take bookings.
+      -->
+      <iframe src="GOOGLE_CALENDAR_EMBED_URL_HERE" title="Beschikbaarheidskalender" data-title-nl="Beschikbaarheidskalender" data-title-en="Availability calendar" loading="lazy"></iframe>
+    </div>
+  </div>
+</section>
+
+<section class="section section--light" id="aanvraag">
+  <div class="narrow">
+    <h2><span class="lang-nl">Stuur je aanvraag</span><span class="lang-en">Send your request</span></h2>
+    <!--
+      REQUEST FORM.
+      A static page cannot send email itself, so this form posts to a form to email service.
+      Replace FORM_ENDPOINT_HERE with the endpoint of that service, set up to deliver to info@no4langeast.be.
+      Formspree: create a form for info@no4langeast.be and paste its URL, for example https://formspree.io/f/xxxxxxx
+      Web3Forms: use https://api.web3forms.com/submit as the action and put the access key
+      (created for info@no4langeast.be) in the access_key hidden field below.
+      If you use Formspree, the access_key field can be removed.
+    -->
+    <form class="request-form" action="FORM_ENDPOINT_HERE" method="POST">
+      <input type="hidden" name="access_key" value="WEB3FORMS_ACCESS_KEY_HERE">
+      <input type="hidden" name="_subject" value="Aanvraag via no4langeast.be">
+      <input type="hidden" name="subject" value="Aanvraag via no4langeast.be">
+      <div class="hp-field" aria-hidden="true">
+        <label for="f-website">Website</label>
+        <input id="f-website" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="f-name"><span class="lang-nl">Naam</span><span class="lang-en">Name</span></label>
+        <input id="f-name" name="name" type="text" autocomplete="name" required>
+      </div>
+      <div class="field">
+        <label for="f-email"><span class="lang-nl">E-mail</span><span class="lang-en">Email</span></label>
+        <input id="f-email" name="email" type="email" autocomplete="email" required>
+      </div>
+      <div class="field">
+        <label for="f-arrival"><span class="lang-nl">Aankomst</span><span class="lang-en">Arrival</span></label>
+        <input id="f-arrival" name="arrival" type="date" required>
+      </div>
+      <div class="field">
+        <label for="f-departure"><span class="lang-nl">Vertrek</span><span class="lang-en">Departure</span></label>
+        <input id="f-departure" name="departure" type="date" required>
+      </div>
+      <div class="field full">
+        <label for="f-guests"><span class="lang-nl">Aantal gasten</span><span class="lang-en">Number of guests</span></label>
+        <input id="f-guests" name="guests" type="number" min="1" max="8" inputmode="numeric" required>
+      </div>
+      <div class="field full">
+        <label for="f-message"><span class="lang-nl">Bericht</span><span class="lang-en">Message</span></label>
+        <textarea id="f-message" name="message" rows="6"></textarea>
+      </div>
+      <div class="full">
+        <button class="btn" type="submit"><span class="lang-nl">Verstuur aanvraag</span><span class="lang-en">Send request</span></button>
+      </div>
+      <div class="full">
+        <p class="lang-nl form-note">We sturen geen automatische bevestiging, we antwoorden persoonlijk.</p>
+<p class="lang-en form-note">We do not send an automatic confirmation, we reply in person.</p>
+      </div>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a class="wordmark" href="index.html">No.4 Lange Ast</a>
+      <span class="footer-baseline"><span class="lang-nl">Een dorpshuis in Vlaanderen</span><span class="lang-en">A village house in Flanders</span></span>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+    <ul>
+      <li><a href="index.html"><span class="lang-nl">Home</span><span class="lang-en">Home</span></a></li>
+      <li><a href="het-verblijf.html"><span class="lang-nl">Het verblijf</span><span class="lang-en">The house</span></a></li>
+      <li><a href="explore.html"><span class="lang-nl">Omgeving</span><span class="lang-en">Explore</span></a></li>
+      <li><a href="village-life.html"><span class="lang-nl">Dorpsleven</span><span class="lang-en">Village life</span></a></li>
+      <li><a href="prijzen.html"><span class="lang-nl">Prijzen</span><span class="lang-en">Prices</span></a></li>
+      <li><a href="contact.html" aria-current="page"><span class="lang-nl">Contact</span><span class="lang-en">Contact</span></a></li>
+    </ul>
+  </nav>
+  </div>
+</footer>
+
+</body>
+</html>
