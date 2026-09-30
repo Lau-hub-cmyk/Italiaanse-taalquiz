@@ -29,8 +29,10 @@
 }
 
 /* Language visibility. The html lang attribute decides which spans show. */
-html[lang="nl"] .lang-en,
-html[lang="en"] .lang-nl {
+html:not([lang="nl"]) .lang-nl,
+html:not([lang="en"]) .lang-en,
+html:not([lang="fr"]) .lang-fr,
+html:not([lang="de"]) .lang-de {
   display: none !important;
 }
 
@@ -192,32 +194,42 @@ a:hover {
   border-bottom-color: var(--copper);
 }
 
-.lang-toggle {
-  font-family: var(--font);
-  font-size: 0.85rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  background: transparent;
-  color: var(--nearblack);
-  border: 1px solid rgba(75, 58, 47, 0.3);
-  border-radius: var(--radius);
-  padding: 6px 10px;
-  cursor: pointer;
-  transition: border-color 0.2s ease;
+.lang-switch {
+  display: flex;
+  gap: 2px;
 }
 
-.lang-toggle:hover {
+.lang-btn {
+  font-family: var(--font);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  background: transparent;
+  color: var(--nearblack);
+  opacity: 0.5;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  padding: 5px 6px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, opacity 0.2s ease;
+}
+
+.lang-btn:hover {
+  opacity: 1;
   border-color: var(--copper);
 }
 
-.lang-toggle .opt {
-  opacity: 0.45;
-}
-
-html[lang="nl"] .lang-toggle .opt-nl,
-html[lang="en"] .lang-toggle .opt-en {
+.lang-btn[aria-pressed="true"] {
   opacity: 1;
   font-weight: 600;
+  color: var(--wenge);
+  border-color: rgba(75, 58, 47, 0.3);
+}
+
+@media (min-width: 400px) {
+  .lang-btn {
+    padding: 5px 8px;
+  }
 }
 
 .menu-toggle {
@@ -789,4 +801,109 @@ html[lang="en"] .lang-toggle .opt-en {
 
 .section--dark .plain-list li {
   border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Price table */
+
+.table-wrap {
+  max-width: 960px;
+  margin: 56px auto 0;
+}
+
+.price-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  background: var(--offwhite);
+  border: 1px solid rgba(75, 58, 47, 0.35);
+}
+
+.price-table caption {
+  caption-side: top;
+  text-align: left;
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--wenge);
+  padding-bottom: 16px;
+}
+
+.price-table th,
+.price-table td {
+  border: 1px solid rgba(75, 58, 47, 0.35);
+  padding: 16px 20px;
+  vertical-align: top;
+}
+
+.price-table thead th {
+  background: var(--wenge);
+  color: var(--white);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.price-table tbody th {
+  font-weight: 600;
+  color: var(--wenge);
+}
+
+.price-table tbody tr:nth-child(even) {
+  background: rgba(216, 203, 184, 0.45);
+}
+
+.cell-label {
+  display: none;
+}
+
+@media (max-width: 679px) {
+  .price-table,
+  .price-table tbody,
+  .price-table tr,
+  .price-table th,
+  .price-table td {
+    display: block;
+  }
+
+  .price-table {
+    border: 0;
+    background: transparent;
+  }
+
+  .price-table thead {
+    position: absolute;
+    left: -9999px;
+  }
+
+  .price-table tbody tr {
+    border: 1px solid rgba(75, 58, 47, 0.35);
+    margin-bottom: 16px;
+    background: var(--offwhite);
+  }
+
+  .price-table tbody tr:nth-child(even) {
+    background: var(--offwhite);
+  }
+
+  .price-table tbody th {
+    background: var(--wenge);
+    color: var(--white);
+    border: 0;
+  }
+
+  .price-table td {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    border: 0;
+    border-top: 1px solid rgba(75, 58, 47, 0.2);
+    padding: 12px 20px;
+  }
+
+  .price-table tbody th + td {
+    border-top: 0;
+  }
+
+  .cell-label {
+    display: block;
+    color: var(--wenge);
+  }
 }

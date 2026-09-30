@@ -1,13 +1,13 @@
 /* No.4 Lange Ast, shared script.
    Loaded in the head so the saved language is applied before the page paints.
-   Pattern: every visible text exists twice, as .lang-nl and .lang-en.
+   Pattern: every visible text exists four times, as .lang-nl, .lang-en, .lang-fr and .lang-de.
    The html lang attribute decides which one is shown (see styles.css). */
 
 (function () {
   "use strict";
 
   var STORAGE_KEY = "no4-lang";
-  var LANGS = ["nl", "en"];
+  var LANGS = ["nl", "en", "fr", "de"];
   var root = document.documentElement;
 
   function readSaved() {
@@ -59,23 +59,22 @@
       frames[j].setAttribute("title", frames[j].getAttribute("data-title-" + lang));
     }
 
-    // Toggle button label for screen readers
-    var toggles = document.querySelectorAll(".lang-toggle");
-    for (var k = 0; k < toggles.length; k++) {
-      toggles[k].setAttribute(
-        "aria-label",
-        lang === "nl" ? "Switch to English" : "Schakel naar Nederlands"
-      );
+    // Language buttons
+    var buttons = document.querySelectorAll(".lang-btn");
+    for (var k = 0; k < buttons.length; k++) {
+      var active = buttons[k].getAttribute("data-lang") === lang;
+      buttons[k].setAttribute("aria-pressed", active ? "true" : "false");
     }
   }
 
   function init() {
     applyLanguage(current);
 
-    var toggles = document.querySelectorAll(".lang-toggle");
-    for (var i = 0; i < toggles.length; i++) {
-      toggles[i].addEventListener("click", function () {
-        var next = current === "nl" ? "en" : "nl";
+    var buttons = document.querySelectorAll(".lang-btn");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].addEventListener("click", function () {
+        var next = this.getAttribute("data-lang");
+        if (LANGS.indexOf(next) < 0) return;
         save(next);
         applyLanguage(next);
       });

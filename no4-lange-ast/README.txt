@@ -15,17 +15,19 @@ village-life.html   Village life
 prijzen.html        Prices
 contact.html        Contact
 assets/styles.css   Shared stylesheet (colours, fonts, layout)
-assets/main.js      Shared script (NL/EN toggle, mobile menu)
+assets/main.js      Shared script (language switch NL/EN/FR/DE, mobile menu)
 images/             Photos (placeholders for now)
 
 Languages
 ---------
-Every text exists twice in each page: once in a <span class="lang-nl"> or <p class="lang-nl">,
-once with class "lang-en". The NL/EN button in the header switches between them.
-Dutch is the default, the choice is remembered in the browser.
-The page title and meta description are in the data-nl and data-en attributes in the <head>.
-Image alt texts are in data-alt-nl and data-alt-en on each <img>.
-When you edit text, always edit both languages.
+The site is in four languages: Dutch (default), English, French and German.
+Every text exists four times in each page, in elements with the class
+lang-nl, lang-en, lang-fr and lang-de. The NL / EN / FR / DE buttons in the header
+switch between them, and the choice is remembered in the browser.
+The page title and meta description are in the data-nl, data-en, data-fr and data-de
+attributes in the <head>. Image alt texts are in data-alt-nl, data-alt-en, data-alt-fr
+and data-alt-de on each <img>.
+When you edit a text, always edit all four languages.
 
 
 PLACEHOLDERS TO REPLACE
@@ -94,9 +96,15 @@ which must deliver to info@no4langeast.be.
     and replace WEB3FORMS_ACCESS_KEY_HERE with the access key.
 Send a test request after uploading to check it arrives.
 
-4. Owner details (contact.html)
--------------------------------
-Search for: [surname]   Replace with Bruno's surname.
-Search for: [phone]     Replace with the phone number.
-Email (info@no4langeast.be) and address (Lange Aststraat 4a, 9750 Huise (Kruisem), Belgium)
-are already filled in.
+4. Price table (prijzen.html)
+-----------------------------
+Search for: [prijs]
+The table has four periods (low season, mid season, high season, school holidays and
+public holidays) and three columns (per night, weekend of 2 nights, week of 7 nights).
+Replace each [prijs] with the amount, for example 550 euro. There are 12 in total.
+To rename or remove a period or column, change it in all four languages.
+
+Owner details (contact.html)
+----------------------------
+Already filled in: Bruno Schaubroeck, +32 475 28 83 04, info@no4langeast.be,
+Lange Aststraat 4a, 9750 Huise (Kruisem).
