@@ -49,7 +49,7 @@ Home (index.html)
 
 The house (het-verblijf.html)
   images/verblijf-hero.jpg          Hero, full width. Timber facade of the CLT house.
-  images/verblijf-living.jpg        "The house" block. Japandi living room with The Rope by Ief Spincemaille.
+  images/verblijf-living.jpg        "The house" block. living room with The Rope by Ief Spincemaille.
   images/verblijf-bedroom.jpg       "Sleeping arrangements" block. A bedroom with a double bed.
   images/verblijf-outside.jpg       "Outside" block. Terrace with sauna and hot tub, pool higher on the grounds.
 
