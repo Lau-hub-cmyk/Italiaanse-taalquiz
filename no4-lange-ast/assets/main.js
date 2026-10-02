@@ -59,6 +59,16 @@
       frames[j].setAttribute("title", frames[j].getAttribute("data-title-" + lang));
     }
 
+    // Slideshow button labels (previous, next and dots)
+    var navs = document.querySelectorAll("[data-navlabel-" + lang + "]");
+    for (var n = 0; n < navs.length; n++) {
+      navs[n].setAttribute("aria-label", navs[n].getAttribute("data-navlabel-" + lang));
+    }
+    var sdots = document.querySelectorAll("[data-dot-" + lang + "]");
+    for (var m = 0; m < sdots.length; m++) {
+      sdots[m].setAttribute("aria-label", sdots[m].getAttribute("data-dot-" + lang));
+    }
+
     // Language buttons
     var buttons = document.querySelectorAll(".lang-btn");
     for (var k = 0; k < buttons.length; k++) {
@@ -97,6 +107,118 @@
         }
       });
     }
+
+    initSlideshows();
+  }
+
+  function initSlideshows() {
+    var reduceMotion = false;
+    try {
+      reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    } catch (e) {
+      reduceMotion = false;
+    }
+
+    var shows = document.querySelectorAll("[data-slideshow]");
+    for (var s = 0; s < shows.length; s++) {
+      setupSlideshow(shows[s], reduceMotion);
+    }
+  }
+
+  function setupSlideshow(root, reduceMotion) {
+    var track = root.querySelector(".slides");
+    var slides = root.querySelectorAll(".slides img");
+    var dots = root.querySelectorAll(".slide-dots .dot");
+    var prev = root.querySelector(".slide-nav.prev");
+    var next = root.querySelector(".slide-nav.next");
+    var total = slides.length;
+    if (total < 2) {
+      return;
+    }
+
+    var index = 0;
+    var timer = null;
+
+    function show(i) {
+      index = (i + total) % total;
+      track.style.transform = "translateX(-" + index * 100 + "%)";
+      for (var d = 0; d < dots.length; d++) {
+        dots[d].setAttribute("aria-current", d === index ? "true" : "false");
+      }
+    }
+
+    function stepNext() {
+      show(index + 1);
+    }
+
+    function start() {
+      if (reduceMotion || timer) {
+        return;
+      }
+      timer = window.setInterval(stepNext, 6000);
+    }
+
+    function stop() {
+      if (timer) {
+        window.clearInterval(timer);
+        timer = null;
+      }
+    }
+
+    function restart() {
+      stop();
+      start();
+    }
+
+    if (prev) {
+      prev.addEventListener("click", function () {
+        show(index - 1);
+        restart();
+      });
+    }
+    if (next) {
+      next.addEventListener("click", function () {
+        show(index + 1);
+        restart();
+      });
+    }
+    for (var d = 0; d < dots.length; d++) {
+      (function (dot, i) {
+        dot.addEventListener("click", function () {
+          show(i);
+          restart();
+        });
+      })(dots[d], d);
+    }
+
+    // Pause on hover or focus so people can read at their own pace.
+    root.addEventListener("mouseenter", stop);
+    root.addEventListener("mouseleave", start);
+    root.addEventListener("focusin", stop);
+    root.addEventListener("focusout", start);
+
+    // Swipe on touch screens.
+    var startX = null;
+    root.addEventListener("touchstart", function (event) {
+      startX = event.touches[0].clientX;
+      stop();
+    }, { passive: true });
+    root.addEventListener("touchend", function (event) {
+      if (startX === null) {
+        return;
+      }
+      var dx = event.changedTouches[0].clientX - startX;
+      if (dx > 40) {
+        show(index - 1);
+      } else if (dx < -40) {
+        show(index + 1);
+      }
+      startX = null;
+      start();
+    });
+
+    show(0);
+    start();
   }
 
   if (document.readyState === "loading") {
