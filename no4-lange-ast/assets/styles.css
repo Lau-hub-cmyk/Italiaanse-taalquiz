@@ -1004,3 +1004,67 @@ a:hover {
     color: var(--wenge);
   }
 }
+
+/* Photo credits for @huisedorp */
+
+.media-credit {
+  position: relative;
+}
+
+.photo-credit,
+.hero-credit,
+.tile-credit {
+  position: absolute;
+  z-index: 3;
+  right: 10px;
+  bottom: 10px;
+  padding: 3px 9px;
+  border-radius: 20px;
+  background: rgba(43, 34, 28, 0.55);
+  color: var(--white);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+
+.hero-credit {
+  right: 14px;
+  bottom: 12px;
+}
+
+.tile-credit {
+  top: 10px;
+  bottom: auto;
+}
+
+.photo-credit a,
+.hero-credit a {
+  color: var(--white);
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.6);
+}
+
+.photo-credit a:hover,
+.hero-credit a:hover {
+  color: var(--white);
+  text-decoration-color: var(--copper);
+}
+
+/* Footer credit line */
+
+.footer-credit {
+  max-width: var(--wide);
+  margin: 20px auto 0;
+  padding-top: 18px;
+  border-top: 1px solid rgba(75, 58, 47, 0.12);
+  font-size: 0.85rem;
+  color: var(--wenge);
+}
+
+.footer-credit a {
+  color: var(--moss);
+}
+
+.footer-credit a:hover {
+  color: var(--copper);
+}
